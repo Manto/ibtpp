@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Restricted Access"
+AuthUserFile /var/www/vhosts/infantbotulism.org/admin_password
+Require user ibtpp

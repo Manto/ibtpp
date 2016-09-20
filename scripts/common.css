@@ -1,0 +1,188 @@
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 17px;
+  background-color: #FFFFFF;
+  margin: 0px 0px 0em 0px;
+}
+
+a, a:link, a:visited, a:active{
+  font-family: arial;
+  font-size: 15px;
+  font-weight: bold;
+  color: #336699;
+  text-decoration: underline;
+}
+
+a:hover {
+  font-family: arial;
+  font-size: 15px;
+  font-weight: bold;
+  color: #000000;
+  text-decoration: underline;
+}
+
+
+a.toprightlink, a.toprightlink:link, a.toprightlink:visited, a.toprightlink:active {
+  font-family: helvetica;
+  font-size: 17px;
+  font-weight: bold;
+  color: #000000;
+  background-color: #FFFFFF;
+  text-decoration: none;
+  padding: 0px 8px 0px 8px;
+}
+
+a.toprightlink:hover {
+  font-family: helvetica;
+  font-size: 17px;
+  font-weight: bold;
+  color: #000000;
+  background-color: #FECD65;
+  text-decoration: none;
+  padding: 0px 8px 0px 8px;
+}
+
+a.bottomlink, a.bottomlink:link, a.bottomlink:visited, a.bottomlink:active {
+  font-family: helvetica;
+  font-size: 12px;
+  font-weight: none;
+  color: #FFFFFF;
+  text-decoration: none;
+  padding: 0px 8px 0px 8px;
+}
+
+a.bottomlink:hover {
+  font-family: helvetica;
+  font-size: 12px;
+  font-weight: none;
+  color: #99FF99;
+  text-decoration: underline;
+  padding: 0px 8px 0px 8px;
+}
+
+a.readinglink, a.readinglink:link, a.readinglink:visited, a.readinglink:active {
+  font-size: 17px;
+  color: #000000;
+}
+
+a.readinglink:hover {
+  font-size: 17px;
+  color: #336699;
+  text-decoration: underline;
+}
+
+td.main {
+  font-family: Helvetica, sans-serif;
+  font-size: 17px;
+  background-color: #FFFFFF;
+  padding: 30px 45px 30px 45px;
+}
+
+div.contentblock {
+  color: #000000;
+  position: relative;
+  font-size: 17px;
+  font-family: Helvetica, sans-serif;
+  padding: 5px 5px 5px 5px;
+  visibility: visible;
+}
+
+div.header {
+  font-family: Helvetica, sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  color: #000000;
+}
+
+td.title {
+  font-family: helvetica, sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  background: #A8BFE6;
+  color: #000000;
+  padding: 12px 5px 7px 5px;
+}
+
+td.contentbody {
+  font-family: helvetica, sans-serif;
+  font-size: 17px;
+  font-weight: none;
+  padding: 5px 5px 5px 5px;
+}
+
+.emphasis1 {
+  font-family: helvetica, times;
+  font-size: 22px;
+  font-weight: bold;
+  color: #336699;
+}
+
+.emphasis2 {
+  font-family: helvetica, sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  color: #000000;
+}
+
+
+
+td.priceheader {
+  font-family: arial;
+  font-size: 20px;
+  font-weight: bold;
+  color: #FFFFFF;
+  background-color: #336699;
+  text-align: center;
+}
+
+td.pricesubheader {
+  font-family: arial;
+  font-size: 16px;
+  font-weight: bold;
+  color: #FFFFFF;
+  background-color: #6699CC;
+  text-align: center;
+}
+
+td.priceitem {
+  text-align: center;
+}
+
+a.menu, a.menu:link, a.menu:visited, a.menu:active
+ {text-align: center; background: #EDC863; color: #000000; border: 0px solid #274F77; font-weight: normal; text-decoration: none; font-family: tahoma, times; font-size: 12px; padding: 3px 0px 0px 0px;}
+
+a.menu:hover
+ {text-align: center; background: #336699; color: #EDC863; border: 0px solid #274F77; font-weight: normal; text-decoration: none; font-family: tahoma, times; font-size: 12px; padding: 3px 0px 0px 0px;}
+
+a.menu2, a.menu2:link, a.menu2:visited, a.menu2:active
+ {background: #C4D8EC; color: #000000; border: 1px solid #274F77; font-weight: bold; text-decoration: none; font-family: Tahoma, Verdana; font-size: 13px; padding: 0px 5px 0px 5px;}
+
+a.menu2:hover
+ {background: #336699; color: #FECD65; border: 1px solid #274F77; font-weight: bold; text-decoration: none; font-family: Tahoma, Verdana; font-size: 13px; padding: 0px 5px 0px 5px;}
+
+ td.quotationhead {
+   width: 150px;
+   font-weight: bold;
+   font-size: 14px;
+   font-family: arial;
+   background: #333333;
+   color: #FFFFFF;
+   text-align: right;
+   padding: 5px 10px 5px 5px;
+   border-width: 1px 1px 1px 1px;
+   border-style: solid;
+   border-color: #000000;
+ }
+ td.quotationbody {
+   width: 300px;
+   font-weight: none;
+   font-size: 14px;
+   font-family: arial;
+   background: #FFFFFF;
+   color: #000000;
+   text-align: left;
+   border-width: 1px 1px 1px 0px;
+   border-style: solid;
+   border-color: #000000;
+   padding: 5px 5px 5px 5px;
+ }

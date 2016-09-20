@@ -1,0 +1,2318 @@
+# Webalizer V2.01-10 Incremental Data - 12/14/2007 00:52:23
+2007 12 14 0 52 23
+7686 5878 480 71 115 168 309810401 651 463 0
+2 25 124 1 14
+326 217 28755474 32 25 22
+397 336 31009727 41 35 27
+370 279 9728950 38 37 28
+960 775 28553065 69 75 51
+672 470 41564462 67 50 37
+748 567 26110043 52 64 42
+635 463 35252860 56 61 45
+380 307 10203162 38 36 26
+367 288 2749412 33 32 26
+648 504 7622862 53 59 36
+578 455 6019202 47 65 36
+704 540 54936207 69 53 45
+876 653 27156554 72 58 42
+25 24 148421 2 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+246 195 3267010 17
+275 163 23732966 16
+217 175 33849432 23
+134 87 12185249 14
+219 159 11314142 11
+159 108 17108156 21
+303 245 20820458 40
+175 119 1790605 18
+242 171 34355755 25
+231 200 1854244 21
+223 160 8807926 22
+491 390 2423936 41
+473 325 9427035 42
+455 379 28908535 38
+433 300 8782541 43
+400 347 14006464 27
+512 437 24496293 40
+443 363 10901289 39
+457 287 9129553 35
+453 361 16425625 35
+326 245 1747042 21
+212 175 6568834 13
+227 200 2089290 15
+380 287 5818021 34
+0
+0
+0
+5878
+0
+0
+0
+0
+0
+138
+0
+1
+0
+0
+1165
+0
+0
+1
+0
+0
+0
+501
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/general/parent.php
+0 4 0 7836 0 0
+/
+0 613 0 279807 446 166
+/images/qa-a.gif
+1 47 0 11008 0 0
+/readings/clostridium-butyricum.pdf
+0 8 0 3988802 0 0
+/images/qa-q.gif
+1 47 0 12212 0 0
+/readings/Peds_Creatn_Devlpmt_BIG_IV_apr07.pdf
+0 12 0 771491 0 0
+/readings/c-difficile.pdf
+0 22 0 3552148 0 0
+/laboratorian/microbiology.php
+0 7 0 19047 0 0
+/ibtpp/images/file.gif
+1 31 0 5148 0 0
+/scripts/frame-bottom.php
+0 442 0 423436 0 0
+/parent/prevention.php
+0 18 0 188856 0 0
+/home.php
+0 499 0 1433745 0 0
+/readings/news.php
+0 3 0 4308 0 0
+/images/template-mission.gif
+1 251 0 1206704 0 0
+/contact/
+0 14 0 27384 3 4
+/laboratorian/faq.php
+0 17 0 104635 0 0
+/general/9
+0 2 0 2046 2 1
+/pharmacist/dosage.php
+0 8 0 17288 0 0
+/images/vial.jpg
+1 98 0 930468 0 0
+/physician/clinical.php
+0 29 0 222169 0 0
+/parent/prevention-espanol.php
+0 3 0 34299 0 0
+/images/file.gif
+1 73 0 12168 0 0
+/readings/nejm-big.pdf
+0 47 0 8164991 0 0
+/readings/ibchap.pdf
+0 109 0 192239573 0 0
+/general/babybig.php
+0 105 0 343665 0 0
+/images/trans.gif
+1 247 0 9073 0 0
+/physician/patient.php
+0 21 0 401124 0 0
+/laboratorian/submission.php
+0 10 0 37520 0 0
+/icons/layout.gif
+1 1 2 276 0 0
+/parent/honey.php
+0 20 0 53120 0 0
+/icons/blank.gif
+1 1 16 148 0 0
+/parent/NoHoney.pdf
+0 32 0 62826395 0 0
+/scripts/frame-top.php
+0 439 0 448219 0 0
+/general/faq-espanol.php
+0 5 0 49870 0 0
+/scripts/menu_tpl2.js
+0 446 0 341092 0 0
+/scripts/menu_items.js
+0 450 0 853516 0 0
+/physician/journal_of_clinical_biology_excerpt.pdf
+0 1 825045816 95806 0 0
+/images/white.gif
+1 337 0 11610 0 0
+/images/floppybaby.jpg
+1 254 0 6349778 0 0
+/images/next.gif
+1 16 0 4676 0 0
+/laboratorian/laboratory.php
+0 7 0 23891 0 0
+/icons/unknown.gif
+1 1 30 245 0 0
+/images/menubg.gif
+1 339 0 11739 0 0
+/general/faq.php
+0 67 0 655796 0 0
+/readings/medical.php
+0 64 0 216256 0 0
+/physician/Diagnostic_Testing_Instructions.pdf
+0 10 0 213171 0 0
+/parent/honey-espanol.php
+0 2 0 5164 0 0
+/scripts/common.css
+0 485 0 1179013 0 0
+/physician/laboratory-espanol.php
+0 1 0 2643 0 0
+/physician/laboratory.php
+0 17 0 60418 0 0
+/general/
+0 5 0 6980 5 3
+/laboratorian/collection.php
+0 16 0 82512 0 0
+/parent/NoComasMiel.pdf
+0 8 0 0 0 0
+/pharmacist/instruction.php
+0 10 0 32670 0 0
+/general/babybig-espanol.php
+0 3 0 8433 0 0
+/physician/images/figure1.jpg
+1 19 0 1076287 0 0
+/readings/Peds_Clin_Mims_of_IB_apr07.pdf
+0 21 0 1234915 0 0
+/scripts/menu.js
+0 450 0 3398304 0 0
+/laboratorian/storage.php
+0 3 0 5493 0 0
+/readings/
+0 5 0 9190 4 1
+/images/lindseyk.jpg
+1 251 0 7536261 0 0
+/general/forum.php
+0 3 0 7458 0 0
+/images/menubg.png
+1 228 0 1557600 0 0
+/physician/IPA.pdf
+0 29 0 4636856 0 0
+/images/template-top.gif
+1 8 0 37390 0 0
+http://www.yahoo.com/
+0 1 0 512 1 0
+/images/backtotop.gif
+1 38 0 18666 0 0
+/physician/obtain.php
+0 46 0 190858 0 0
+/readings/nejm-big.old
+0 3 134969224 388552 0 0
+/icons/back.gif
+1 1 4 216 0 0
+/images/photo-baby.jpg
+1 251 135776600 1578756 0 0
+# End Of Table - urls
+# -sites- (monthly)
+74.137.194.232
+0 1 1 512 1 1197474403
+/
+147.126.108.32
+0 8 8 35466 0 0
+-
+24.7.159.254
+0 17 16 112955 1 1196810376
+/
+cache-ntc-ad09.proxy.aol.com
+0 2 2 14824 0 0
+-
+204.108.96.19
+0 16 16 112657 1 1197389448
+/
+213.29.7.220
+0 3 0 891 0 0
+-
+208.96.54.72
+0 3 2 3814027 0 0
+-
+97.90.236.158
+0 22 21 137633 1 1196618671
+/
+98.173.26.142
+0 1 0 297 0 0
+-
+64.34.145.197
+0 2 1 809 1 1196910217
+/
+74.6.25.208
+0 1 0 297 0 0
+-
+62.171.194.8
+0 17 16 112955 1 1197434238
+/
+96.2.174.165
+0 12 11 102633 0 0
+-
+208.96.54.81
+0 2 1 3811166 0 0
+-
+208.96.54.84
+0 3 2 3811678 1 1196871727
+/
+78.108.51.68
+0 1 0 315 0 0
+-
+72.36.94.20
+0 2 1 809 1 1197179932
+/
+82.16.98.204
+0 8 8 35466 0 0
+-
+196.205.123.120
+0 16 16 112657 1 1196862860
+/
+71.193.63.27
+0 48 41 18105706 2 1197422081
+/
+204.246.129.196
+0 10 10 18502 2 1197460004
+/
+208.96.54.91
+0 3 2 3811678 1 1196601388
+/
+24.61.29.160
+0 11 11 102335 0 0
+-
+60.240.248.23
+0 12 12 6144 6 1197512481
+/
+64.86.141.201
+0 8 8 35466 0 0
+-
+193.205.224.191
+0 2 2 5574 0 0
+-
+193.205.224.193
+0 15 14 74672 1 1196748834
+/contact/
+193.205.224.194
+0 2 2 3663 0 0
+-
+203.222.198.194
+0 7 6 31353 0 0
+-
+69.36.158.32
+0 5 4 5649 1 1197288886
+/
+217.112.88.20
+0 6 0 1748 0 0
+-
+193.205.224.196
+0 8 8 60051 0 0
+-
+crm42.image.search.mud.yahoo.net
+0 4 0 594 0 0
+-
+81.19.67.14
+0 2 0 594 0 0
+-
+207.72.66.5
+0 9 8 35764 0 0
+-
+71.137.200.144
+0 19 18 127305 1 1196974361
+/
+68.199.83.218
+0 1 0 0 0 0
+-
+74.6.25.235
+0 21 0 6237 0 0
+-
+66.168.67.206
+0 43 28 3653021 1 1197400911
+/
+74.6.27.11
+0 8 8 10704 2 1197398638
+/
+91.7.84.180
+0 19 16 113551 1 1197104642
+/
+208.80.193.34
+0 2 2 1024 1 1197408500
+/
+209.184.115.201
+0 28 21 127435 1 1196799878
+/
+208.80.193.37
+0 2 2 1024 1 1197396994
+/
+208.108.120.232
+0 15 15 69751 1 1196756715
+/
+24.150.51.241
+0 24 20 127556 1 1196774135
+/
+24.86.58.29
+0 10 9 37527 0 0
+-
+74.6.24.205
+0 2 2 2872 0 0
+-
+natcrawlbloc01.net.m1.fti.net
+0 4 2 2636 0 0
+-
+208.80.193.40
+0 2 2 1024 1 1196510650
+/
+208.80.193.41
+0 2 2 1024 1 1197047782
+/
+208.80.193.44
+0 2 2 1024 1 1197058819
+/
+buvikbn-bcn02.idi.ntnu.no
+0 1 0 297 0 0
+-
+208.80.193.48
+0 2 2 1024 1 1196774293
+/
+24.127.142.127
+0 33 27 1070137 0 0
+-
+72.93.163.227
+0 38 24 125285 1 1196623887
+/
+190.81.57.9
+0 16 16 112657 1 1197033629
+/
+208.80.193.50
+0 2 2 1024 1 1196500988
+/
+88.226.206.27
+0 8 8 35466 0 0
+-
+208.80.193.51
+0 2 2 1024 1 1196764745
+/
+202.160.180.184
+0 2 0 594 0 0
+-
+76.29.89.91
+0 9 8 35764 0 0
+-
+74.234.23.125
+0 8 8 7963303 0 0
+-
+69.125.118.245
+0 16 16 112657 1 1196723842
+/
+202.108.11.34
+0 1 0 297 0 0
+-
+207.233.71.20
+0 22 22 142514 1 1196775062
+/
+70.112.218.113
+0 12 11 45583 0 0
+-
+12.104.109.254
+0 68 44 241545 3 1197297674
+/
+142.21.15.115
+0 16 16 112657 1 1197500846
+/
+wsip-70-169-191-4.sb.sd.cox.net
+0 2 1 809 1 1196859905
+/
+213.29.7.70
+0 2 1 809 1 1196738790
+/
+69.242.90.185
+0 26 19 122985 1 1196679404
+/
+206.193.5.4
+0 16 16 112657 1 1197461073
+/
+74.173.156.126
+0 23 22 130444 1 1196539090
+/
+crawl0.exabot.com
+0 4 2 1618 2 1197139024
+/
+192.189.197.2
+0 20 20 3615513 1 1196880345
+/
+12.47.113.114
+0 26 21 137530 1 1197545591
+/
+159.225.155.181
+0 13 1 3143 0 0
+-
+65.55.208.244
+0 2 1 191686 0 0
+-
+87.118.120.23
+0 25 25 30030 4 1197445068
+/
+209.104.246.98
+0 34 22 135456 2 1196814980
+/
+dhslata1.dhs.ca.gov
+0 872 486 1394810 28 1197575286
+/
+64.236.235.240
+0 16 16 112657 1 1196777182
+/
+99.230.3.15
+0 22 21 7096804 1 1196787239
+/
+41.234.207.210
+0 7 7 35226 0 0
+-
+cellwall.llumc.edu
+0 19 19 186809 1 1196798218
+/
+67.52.240.119
+0 2 1 809 1 1196498295
+/
+72.129.36.228
+0 10 8 35764 0 0
+-
+70.140.34.23
+0 1 1 64001 0 0
+-
+199.146.178.251
+0 8 8 35466 0 0
+-
+65.55.208.252
+0 2 1 3811166 0 0
+-
+65.55.208.254
+0 2 1 604960 0 0
+-
+166.68.134.174
+0 17 17 115313 1 1196774345
+/
+72.1.220.50
+0 26 26 212199 1 1197279838
+/
+216.48.136.6
+0 17 16 112955 1 1196764789
+/
+71.111.144.68
+0 17 16 112955 1 1197512848
+/
+159.226.40.7
+0 1 1 512 1 1196689195
+/
+cache-mtc-aa01.proxy.aol.com
+0 1 1 234 0 0
+-
+livebot-65-55-208-251.search.live.com
+0 2 1 70558 0 0
+-
+24.93.171.176
+0 1 1 191389 0 0
+-
+72.44.44.119
+0 2 1 809 1 1197560993
+/
+74.6.23.231
+0 3 3 8583 0 0
+-
+216.239.50.136
+0 5 5 69353 1 1197075515
+/
+65.55.234.161
+0 3 2 4179 0 0
+-
+65.55.234.162
+0 3 2 1767 1 1196833173
+/
+isp-charter-f.memorialcare.org
+0 122 95 1316125 3 1196909497
+/
+213.22.43.16
+0 2 2 1024 2 1197398658
+/
+cm-24-121-30-114.mammothlakes.ca.npgco.com
+0 87 33 429674 3 1197579439
+/
+67.202.17.160
+0 40 38 10006736 2 1196962908
+/
+80.91.191.245
+0 1 1 255 1 1197028829
+/
+71.102.185.65
+0 34 22 131482 1 1196733091
+/
+74.37.147.89
+0 16 15 7487917 0 0
+-
+193.188.105.230
+0 10 9 39037 0 0
+-
+67.87.154.63
+0 9 9 38739 0 0
+-
+cache-ntc-ad10.proxy.aol.com
+0 2 2 86 0 0
+-
+89.122.213.193
+0 2 2 1024 2 1197200824
+/
+70.235.187.61
+0 1 1 64001 0 0
+-
+chl179129.usc.edu
+0 22 22 132359 1 1197286260
+/
+64.105.34.166
+0 32 22 208516 1 1197244268
+/contact/
+206.169.110.66
+0 4 4 5352 1 1196536187
+/
+128.218.252.250
+0 38 24 139197 1 1197139761
+/
+cache-mtc-ab13.proxy.aol.com
+0 3 3 60433 0 0
+-
+74.6.19.110
+0 1 0 297 0 0
+-
+72.36.180.234
+0 1 1 2861 0 0
+-
+189.141.165.165
+0 17 16 112955 1 1196521479
+/
+76.175.24.86
+0 114 62 23139924 0 0
+-
+208.1.217.193
+0 2 2 128002 0 0
+-
+74.6.22.231
+0 2 1 191389 0 0
+-
+64.78.236.93
+0 8 8 35466 0 0
+-
+74.6.7.113
+0 2 1 2046 2 1197134040
+/general/9
+240230.dhcp.chop.edu
+0 50 35 294607 1 1197387116
+/
+208.96.10.200
+0 2 1 809 1 1197411797
+/
+cache-ntc-ab01.proxy.aol.com
+0 2 2 388518 0 0
+-
+62.149.95.198
+0 3 3 17623 0 0
+-
+cache-ntc-ac09.proxy.aol.com
+0 4 4 33238 0 0
+-
+74.6.20.29
+0 1 1 70261 0 0
+-
+71.208.5.175
+0 66 36 138713 1 1197415878
+/
+65.214.45.149
+0 5 4 5649 1 1196980934
+/
+82.42.240.111
+0 17 16 112955 1 1196787236
+/
+69.47.203.99
+0 9 8 35764 0 0
+-
+212.72.175.69
+0 1 1 512 1 1197504969
+/
+76.18.94.88
+0 21 20 118307 1 1196608803
+/
+67.64.211.41
+0 19 18 127305 1 1196760552
+/
+cache-ntc-ac02.proxy.aol.com
+0 5 5 14305 0 0
+-
+68.75.63.80
+0 24 20 140650 1 1197324998
+/
+69.91.124.56
+0 18 17 117126 1 1197322118
+/
+65.214.45.153
+0 20 16 22592 4 1196933475
+/
+72.30.179.201
+0 2 2 12310 0 0
+-
+72.30.179.202
+0 2 2 3912 2 1197270109
+/contact/
+70.135.9.44
+0 17 16 112955 1 1196547292
+/
+207.111.236.2
+0 17 16 112955 1 1196858717
+/
+169.229.139.45
+0 19 17 116632 1 1196872277
+/
+99.164.170.209
+0 1 1 11077 0 0
+-
+68.36.55.18
+0 18 17 115611 1 1197042214
+/
+209.175.22.3
+0 8 8 35466 0 0
+-
+172.143.159.88
+0 27 26 126493 1 1197113997
+/
+195.76.89.55
+0 56 55 651509 1 1196748897
+/
+61.247.192.31
+0 3 3 16859 0 0
+-
+71.219.234.247
+0 10 9 38907 0 0
+-
+68.218.140.104
+0 8 8 7979620 0 0
+-
+130.237.123.88
+0 2 2 0 1 1197364809
+/
+209.62.82.12
+0 2 1 809 1 1196710127
+/
+72.30.179.220
+0 4 4 5352 1 1197460293
+/
+209.62.82.14
+0 2 1 809 1 1196519764
+/
+75.42.74.183
+0 47 32 354515 2 1197167119
+/
+cache1.cdc.gov
+0 17 16 112955 1 1196855297
+/
+209.223.85.34
+0 18 17 113467 1 1197564598
+/
+74.6.22.12
+0 12 12 16056 3 1197393829
+/
+192.234.160.253
+0 18 18 127007 1 1197302272
+/
+dhsclient.dhs.ca.gov
+0 113 97 228034 39 1197534054
+/
+61.247.192.48
+0 3 3 16859 0 0
+-
+74.6.7.75
+0 1 1 1396 1 1196480753
+/general/
+24.209.73.244
+0 9 7 25091 0 0
+-
+71.208.95.140
+0 17 16 112955 1 1196980504
+/
+65.96.190.68
+0 12 11 51528 0 0
+-
+unknown-167-83-101.baxter.com
+0 8 8 35466 0 0
+-
+74.6.20.227
+0 2 2 6758 0 0
+-
+71.132.139.209
+0 8 8 35466 0 0
+-
+144.134.73.253
+0 16 16 112657 1 1196618659
+/
+210.23.176.61
+0 10 10 31487 0 0
+-
+64.12.116.80
+0 2 2 1916 0 0
+-
+71.117.87.3
+0 17 16 112955 1 1197564339
+/
+91.7.85.215
+0 1 0 298 0 0
+-
+92.f5.344a.static.theplanet.com
+0 8 8 10704 1 1196926541
+/
+72.204.142.225
+0 9 8 35764 0 0
+-
+indesit.netcraft.com
+0 2 2 0 1 1196780401
+/
+71.8.107.103
+0 48 30 14753404 1 1196516404
+/
+sczxserv.com
+0 3 3 0 1 1196574030
+/
+69.19.141.52
+0 16 16 112657 1 1196630332
+/
+142.46.57.29
+0 25 25 204247 1 1197043300
+/
+72.254.5.200
+0 25 21 218866 1 1197162167
+/
+129.19.1.10
+0 29 21 129157 1 1196963406
+/
+82.16.17.93
+0 22 19 121995 1 1197095987
+/
+76.16.133.80
+0 17 16 112955 1 1197469834
+/
+89.149.216.175
+0 1 1 9788 0 0
+-
+72.14.164.182
+0 2 1 194556 0 0
+-
+74.6.28.136
+0 1 1 3810869 0 0
+-
+193.220.208.101
+0 17 17 123149 1 1197010974
+/
+198.96.114.148
+0 29 29 151327 1 1197534582
+/
+68.198.242.0
+0 17 16 112955 1 1196606200
+/
+198.96.114.149
+0 19 19 122985 1 1197538423
+/
+74.208.71.119
+0 1 1 512 1 1196549604
+/
+75.146.197.138
+0 21 21 193876 1 1196693439
+/
+74.6.28.146
+0 2 2 6546 0 0
+-
+149.20.54.198
+0 4 2 1618 2 1197230066
+/
+165.123.243.168
+0 24 24 201271 1 1197465217
+/
+livebot-65-55-208-250.search.live.com
+0 2 1 1318 0 0
+-
+74.37.98.216
+0 37 25 141504 1 1197076072
+/
+165.89.84.86
+0 17 16 112955 1 1196762168
+/
+67.184.181.246
+0 22 13 60831 0 0
+-
+63.246.240.82
+0 17 16 112955 1 1197047675
+/
+12.218.153.170
+0 17 16 112955 1 1197459662
+/
+69.224.112.112
+0 9 9 36734 0 0
+-
+71.35.234.77
+0 1 1 191389 0 0
+-
+74.6.27.116
+0 2 2 4972 0 0
+-
+165.234.184.67
+0 17 16 112955 1 1197286944
+/
+75.164.39.15
+0 22 21 136450 1 1196997097
+/
+cache-mtc-ad12.proxy.aol.com
+0 1 1 7788 0 0
+-
+205.217.153.43
+0 1 1 512 1 1196469702
+/
+isp-charter-g.memorialcare.org
+0 1 0 298 0 0
+-
+cache-ntc-ac10.proxy.aol.com
+0 2 2 4411 0 0
+-
+74.6.24.32
+0 1 1 2811 0 0
+-
+205.149.1.10
+0 17 16 112955 1 1197481291
+/
+65.107.240.242
+0 11 11 102335 0 0
+-
+65.166.175.139
+0 3 2 5514 1 1196497794
+/readings/
+71.77.31.166
+0 2 1 810 1 1197318364
+/
+65.107.61.130
+0 7 7 24495 0 0
+-
+64.92.199.54
+0 1 1 512 1 1196862019
+/
+cache-ntc-aa08.proxy.aol.com
+0 4 4 3832 0 0
+-
+76.98.31.117
+0 17 16 112955 1 1197592151
+/
+160.42.74.69
+0 8 8 35466 0 0
+-
+80.32.3.251
+0 1 0 309 0 0
+-
+76.19.196.122
+0 8 8 35466 0 0
+-
+67.174.26.11
+0 13 11 102931 0 0
+-
+216.49.242.163
+0 1 1 194259 0 0
+-
+90.207.31.153
+0 17 16 112955 1 1197017822
+/
+206.167.167.57
+0 8 8 35466 0 0
+-
+24.13.164.1
+0 17 16 112955 1 1196642257
+/
+75.31.248.73
+0 11 11 34866 0 0
+-
+74.6.26.115
+0 3 3 29922 0 0
+-
+74.86.171.82
+0 1 1 512 1 1197533874
+/
+cache-mtc-ab14.proxy.aol.com
+0 1 1 3143 0 0
+-
+204.58.204.2
+0 17 16 112967 1 1196960908
+/
+71.128.252.234
+0 39 26 3654852 1 1197139539
+/
+169.232.228.45
+0 6 5 21774 0 0
+-
+ns2.outboundrequest.com
+0 1 1 512 1 1196765223
+/
+74.6.26.137
+0 2 2 2042 0 0
+-
+82.152.140.34
+0 19 19 122985 1 1196922676
+/
+64.12.117.134
+0 2 2 22154 0 0
+-
+64.12.117.135
+0 2 2 1024 1 1197589408
+/
+91.125.124.242
+0 19 18 310593 1 1197408003
+/
+220.181.19.181
+0 3 2 3670 1 1197569769
+/
+64.246.187.42
+0 2 1 809 1 1197271718
+/
+206.167.167.83
+0 10 9 39037 0 0
+-
+71.118.148.251
+0 18 17 116334 1 1196608822
+/
+24.220.26.125
+0 49 47 341558 2 1197279872
+/
+74.192.36.68
+0 2 2 270078 0 0
+-
+65.54.165.62
+0 3 2 4179 0 0
+-
+74.6.26.31
+0 1 1 1838 1 1197028003
+/readings/
+62.54.4.138
+0 10 5 7349 2 1197042541
+/
+98.207.181.82
+0 38 37 161165 2 1197206751
+/contact/
+202.160.180.25
+0 8 8 10704 2 1197380996
+/
+82.148.96.68
+0 17 16 112955 1 1196844829
+/
+209.249.86.210
+0 2 1 805 1 1197430552
+/
+122.53.41.200
+0 3 2 139440 0 0
+-
+72.66.75.44
+0 60 34 249104 1 1197576943
+/
+cache-ntc-ac03.proxy.aol.com
+0 4 4 2048 4 1197487907
+/
+85.18.136.73
+0 1 1 194259 0 0
+-
+206.125.61.3
+0 25 18 127305 1 1197472945
+/
+70.69.170.33
+0 17 16 112955 1 1196525761
+/
+cache-mtc-aa06.proxy.aol.com
+0 2 2 5722 0 0
+-
+80.39.111.60
+0 22 22 134827 1 1196857477
+/
+132.1.207.22
+0 8 8 35466 0 0
+-
+204.187.34.100
+0 17 17 123149 1 1197551707
+/
+71.237.81.183
+0 25 24 123659 1 1197401911
+/
+96.227.45.54
+0 10 10 31487 0 0
+-
+38.100.41.112
+0 5 5 9523 1 1196868433
+/
+38.100.41.113
+0 4 4 5352 1 1197561680
+/
+66.76.195.17
+0 1 1 3143 0 0
+-
+69.254.131.59
+0 18 17 113467 1 1197318794
+/
+78.137.163.133
+0 34 32 225908 2 1197332595
+/
+70.56.141.31
+0 22 21 127071 1 1196728721
+/
+64.12.116.144
+0 1 1 7412 0 0
+-
+131.104.231.222
+0 17 16 112955 1 1196687314
+/
+168.213.1.133
+0 1 1 194259 0 0
+-
+67.202.31.93
+0 8 8 10704 2 1197510108
+/
+24.3.50.157
+0 17 16 112955 1 1197475594
+/
+64.54.29.127
+0 25 25 151124 1 1197473764
+/
+24.8.110.136
+0 40 27 140870 2 1197500503
+/
+76.121.12.149
+0 17 16 112955 1 1197174408
+/
+64.12.117.194
+0 1 1 29717 0 0
+-
+144.118.252.195
+0 17 16 112955 1 1197533363
+/
+64.12.117.198
+0 1 1 549 0 0
+-
+74.125.16.67
+0 15 15 112614 1 1197341151
+/
+76.115.125.64
+0 29 20 398245 1 1196735297
+/
+206.193.127.2
+0 24 24 3645323 1 1196771708
+/
+72.33.79.124
+0 17 16 112955 1 1197582979
+/
+222.127.231.7
+0 1 1 191389 0 0
+-
+lm502003.inktomisearch.com
+0 24 24 32112 6 1197542467
+/
+88.239.57.126
+0 2 0 634 1 1197570413
+-
+24.0.98.178
+0 51 38 204296 1 1197519373
+/
+206.208.133.206
+0 32 26 8133941 2 1196700388
+/
+65.55.208.124
+0 2 1 3158 0 0
+-
+92.81.205.229
+0 1 1 512 1 1197179600
+/
+207.157.119.20
+0 17 16 112955 1 1197456859
+/
+129.25.134.115
+0 26 25 138888 1 1196947863
+/
+70.245.172.6
+0 7 7 24495 0 0
+-
+122.152.129.53
+0 1 0 297 0 0
+-
+122.152.129.54
+0 1 0 297 0 0
+-
+72.21.52.98
+0 1 1 2861 0 0
+-
+crm73.image.search.mud.yahoo.net
+0 2 0 293 0 0
+-
+71.121.112.231
+0 23 18 117935 1 1196800688
+/
+host36.sbch.org
+0 88 66 591088 2 1197578751
+/
+194.186.55.208
+0 5 4 5649 1 1196561854
+/
+12.214.181.219
+0 12 11 102633 0 0
+-
+63.123.238.8
+0 4 2 1618 2 1197101878
+/
+user1.micromedex.com
+0 83 39 434996 1 1197547884
+/
+tide515.microsoft.com
+0 1 1 512 1 1196632385
+/
+128.243.253.114
+0 9 8 35764 0 0
+-
+livebot-65-55-208-253.search.live.com
+0 6 3 260109 0 0
+-
+220.181.26.100
+0 3 3 1536 3 1197521974
+/
+86.132.97.232
+0 7 7 22211 1 1197082943
+/
+71.146.15.74
+0 9 9 882237 0 0
+-
+nat240.webtrends.com
+0 4 4 5352 1 1196990625
+/
+tabarnak.nexen.net
+0 1 1 0 1 1197562505
+/
+85.250.15.19
+0 47 47 10683036 1 1196921888
+/
+81.156.141.4
+0 17 16 112955 1 1197222361
+/
+88.131.106.11
+0 5 3 3085 1 1197016681
+/
+egspd42460.ask.com
+0 10 8 11298 2 1197251990
+/
+83.226.222.232
+0 2 2 1533 1 1196992512
+/
+24.143.145.133
+0 23 22 132657 1 1197416141
+/
+74.6.24.166
+0 3 3 4188 3 1197479993
+/general/
+62.37.160.152
+0 103 45 526975 2 1196941691
+-
+192.234.223.100
+0 33 33 225314 3 1197548459
+/
+155.212.251.138
+0 8 8 35466 0 0
+-
+news.pvhs.org
+0 23 23 235253 1 1196959979
+/contact/
+161.97.212.160
+0 32 20 118009 1 1196765856
+/
+24.110.100.171
+0 20 19 7104919 1 1196968861
+/
+66.249.65.103
+0 47 32 4979524 11 1197445412
+/
+webcorp.uce.ac.uk
+0 3 3 1536 2 1196688758
+/
+141.174.97.231
+0 17 16 112955 1 1197286630
+/
+160.109.101.158
+0 9 9 38609 0 0
+-
+71.207.113.66
+0 8 8 35466 0 0
+-
+205.132.248.2
+0 9 8 35764 0 0
+-
+62.205.163.156
+0 20 0 6132 0 0
+-
+64.186.47.170
+0 19 19 3622529 1 1196873064
+/
+140.226.4.54
+0 19 19 122985 1 1197207679
+/
+69.110.69.226
+0 17 16 112955 1 1196614049
+/
+134.174.140.200
+0 41 28 166943 1 1196470717
+/
+205.235.59.22
+0 31 30 134733 1 1197377814
+/
+74.6.19.237
+0 4 4 39152 0 0
+-
+66.128.217.55
+0 109 49 7919348 3 1197053006
+/
+72.93.191.84
+0 9 9 46543 0 0
+-
+69.141.72.89
+0 28 27 173289 1 1197228779
+/
+193.10.253.10
+0 21 20 196217 1 1196656878
+/
+tschild.de
+0 1 1 0 1 1197148652
+/
+71.28.41.143
+0 17 16 112955 1 1196792108
+/
+24.182.31.238
+0 16 16 112657 1 1197057341
+/
+82.79.87.34
+0 16 16 112657 1 1197287266
+/
+71.146.17.54
+0 20 19 1200887 1 1197000202
+/
+212.114.209.250
+0 2 1 3158 0 0
+-
+cache-ntc-aa09.proxy.aol.com
+0 2 2 86 0 0
+-
+74.60.110.152
+0 17 16 112955 1 1196993341
+/
+64.8.170.129
+0 7 7 24495 0 0
+-
+207.224.56.145
+0 21 21 203580 1 1197356812
+/
+75.37.230.198
+0 33 20 126960 1 1197457468
+/
+sprint-65-160-238-180.smf.ragingwire.net
+0 1 1 3273 0 0
+-
+168.91.1.189
+0 21 20 115958 1 1197475962
+/
+f2.2a.5746.static.theplanet.com
+0 1 1 512 1 1197486259
+/
+66.91.58.242
+0 23 22 132657 1 1196962242
+/
+204.68.210.59
+0 102 50 534517 2 1197570500
+/
+66.239.149.211
+0 4 3 1833 3 1197419164
+/
+198.140.202.1
+0 2 0 596 0 0
+-
+194.176.105.39
+0 18 13 3908810 1 1197541109
+/
+cache-ntc-aa02.proxy.aol.com
+0 1 1 29717 0 0
+-
+67.98.222.15
+0 1 1 194259 0 0
+-
+67.98.222.16
+0 86 49 13204564 1 1196470116
+/
+194.176.105.40
+0 19 18 7777307 1 1197540292
+/
+205.170.235.246
+0 24 24 193180 1 1197460004
+/
+util-n02.dmoz.aol.com
+0 1 1 512 1 1197470720
+/
+71.103.138.94
+0 21 18 127901 1 1196763161
+/
+74.6.22.153
+0 10 8 11290 2 1197456949
+/
+76.89.180.156
+0 16 16 112657 1 1196801091
+/
+66.195.30.2
+0 11 11 102335 0 0
+-
+85.12.45.22
+0 1 1 512 1 1197297582
+/
+cache-ntc-ab03.proxy.aol.com
+0 1 1 35537 0 0
+-
+cps1.dmz-us.st.com
+0 2 0 0 0 0
+-
+198.22.236.230
+0 16 16 112657 1 1197459398
+/
+host.aps.edu
+0 32 32 136589 1 1196702808
+/
+38.99.13.125
+0 7 0 2079 0 0
+-
+65.214.44.29
+0 34 32 225908 2 1197321125
+/
+124.217.41.240
+0 17 16 112955 1 1197168084
+/
+64.12.117.20
+0 2 2 86 0 0
+-
+66.46.80.82
+0 17 17 123149 1 1196867822
+/
+90.194.81.179
+0 52 27 193900 2 1196843319
+/
+211.233.79.172
+0 2 0 594 0 0
+-
+74.6.28.206
+0 1 1 9974 0 0
+-
+na6mr4fw01.fidelity.com
+0 27 27 3966915 1 1197558371
+/
+216.9.250.106
+0 1 1 512 1 1197583381
+/
+216.9.250.107
+0 1 1 35537 0 0
+-
+207.233.102.21
+0 17 17 116036 1 1196769024
+/
+66.249.84.66
+0 2 2 1533 1 1196868735
+/
+209.78.56.72
+0 1 1 512 1 1196603187
+/
+24.25.223.172
+0 33 26 434883 1 1197063574
+/
+96.232.36.90
+0 9 9 38739 0 0
+-
+crm23.image.search.mud.yahoo.net
+0 2 0 297 0 0
+-
+198.96.114.20
+0 7 7 7561132 0 0
+-
+74.6.20.104
+0 1 1 1838 1 1196995472
+/readings/
+59.56.124.224
+0 1 1 512 1 1197388751
+http://www.yahoo.com/
+68.110.108.50
+0 12 11 102633 0 0
+-
+76.105.208.204
+0 17 16 112955 1 1196639047
+/
+fever.cidrap.umn.edu
+0 10 10 3584 10 1197456966
+/
+202.75.33.249
+0 1 1 2861 0 0
+-
+72.233.5.58
+0 1 1 2861 0 0
+-
+74.6.22.199
+0 2 0 586 0 0
+-
+www.whois.sc
+0 8 3 3023 2 1197271333
+/
+68.117.242.210
+0 21 18 3927799 1 1196785125
+/
+70.238.200.207
+0 18 6 11074 1 1196827112
+/
+crawl2.cosmixcorp.com
+0 2 2 0 2 1197444497
+/
+152-130-11-197.res.net.va.gov
+0 1 1 0 1 1196672083
+/
+71.95.245.157
+0 20 12 71970 0 0
+-
+68.17.255.216
+0 12 10 8341756 0 0
+-
+70.185.203.94
+0 37 25 3642051 1 1197588094
+/
+74.6.23.16
+0 2 1 194276 0 0
+-
+66.119.29.222
+0 7 7 24495 0 0
+-
+70.82.51.98
+0 1 1 0 1 1197552541
+/
+97.87.70.73
+0 17 16 112955 1 1197209373
+/
+64.12.117.66
+0 1 1 7661 0 0
+-
+76.19.164.250
+0 30 19 3615196 1 1197250264
+/
+cs.detrick.army.mil
+0 8 8 35466 0 0
+-
+69.92.209.96
+0 22 20 118605 1 1196852986
+/
+74.6.8.75
+0 95 68 697474 16 1197554907
+/
+71.55.207.165
+0 11 10 31785 0 0
+-
+70.244.154.188
+0 25 24 137969 1 1196822645
+/
+216.9.250.42
+0 5 4 38611 0 0
+-
+216.9.250.43
+0 2 2 7455 0 0
+-
+64.12.117.71
+0 1 1 43 0 0
+-
+129.241.50.197
+0 1 1 512 1 1196950550
+/
+64.12.117.77
+0 2 2 8342 0 0
+-
+64.12.117.78
+0 2 2 2042 0 0
+-
+209.67.214.194
+0 2 2 11828 0 0
+-
+71.114.57.87
+0 26 22 7078382 1 1197036053
+/
+204.29.160.153
+0 8 8 7971460 0 0
+-
+cache-ntc-aa06.proxy.aol.com
+0 4 4 4084 0 0
+-
+24.117.171.43
+0 19 18 126103 1 1196776415
+/
+livebot-65-55-208-245.search.live.com
+0 2 1 3570 0 0
+-
+202.137.115.158
+0 3 2 387436 0 0
+-
+75.5.202.148
+0 16 16 112657 1 1196630625
+/
+69.23.130.207
+0 7 7 24495 0 0
+-
+206.74.122.99
+0 8 7 24793 0 0
+-
+92.80.125.34
+0 1 1 512 1 1197314660
+/
+72.14.195.205
+0 2 2 3819 0 0
+-
+74.234.23.14
+0 27 26 21835685 1 1197423869
+/readings/
+76.224.242.179
+0 20 19 117212 1 1196980933
+/
+hhth.saccounty.net
+0 67 52 483301 4 1197210819
+/contact/
+202.179.180.45
+0 5 4 5649 1 1196982700
+/
+75.6.229.218
+0 17 16 129397 0 0
+-
+67.164.16.18
+0 26 25 149689 1 1197232114
+/
+216.153.227.238
+0 17 16 112955 1 1196761833
+/
+74.37.86.72
+0 22 21 106800 1 1196634519
+/
+202.179.180.53
+0 2 1 3158 0 0
+-
+208.57.131.144
+0 18 18 125108 1 1197388113
+/
+cache-ntc-aa10.proxy.aol.com
+0 1 1 5692 0 0
+-
+82.41.3.249
+0 19 16 113551 1 1196578976
+/
+64.12.117.201
+0 2 2 8965 0 0
+-
+64.12.117.206
+0 1 1 1268 0 0
+-
+65.182.100.104
+0 1 1 512 1 1197219875
+/
+py-out-f136.google.com
+0 1 1 64001 0 0
+-
+67.202.34.236
+0 1 1 512 1 1196675268
+/
+151.188.213.175
+0 16 16 112657 1 1197381524
+/
+193.252.149.15
+0 4 2 2510 0 0
+-
+dphe.state.co.us
+0 88 68 388941 4 1197468018
+/
+193.252.149.16
+0 26 19 32070 4 1197364488
+/
+70.136.156.141
+0 10 9 37032 0 0
+-
+cache-mtc-ac13.proxy.aol.com
+0 2 2 86 0 0
+-
+70.158.134.143
+0 1 1 512 1 1196934833
+/
+cache-ntc-ac08.proxy.aol.com
+0 3 3 15619 0 0
+-
+74.6.26.226
+0 2 1 194259 0 0
+-
+24.127.177.106
+0 17 16 112955 1 1197309502
+/
+207.172.241.112
+0 9 8 35764 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+64.86.141.201
+0 8 8 35466 0 0
+-
+76.98.31.117
+0 17 16 112955 1 1197592151
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.infantbotulism.org/images/vial.jpg
+0 2
+http://www.infantbotulism.com/home.php
+0 25
+http://directory.mozilla.org
+0 1
+http://www.infantbotulism.com/
+0 15
+- (Direct Request)
+0 1418
+http://images.search.yahoo.com/search/images/view
+0 2
+http://www.infantbotulism.org/pharmacist/dosage.php
+0 10
+http://www.everatom.com/goto.php
+0 1
+http://www.whois.sc/infantbotulism.com
+0 3
+http://search.ninemsn.com.au/spresults.aspx
+0 1
+http://www.google.com.eg/search
+0 1
+http://www.google.co.uk/search
+0 12
+http://mp3skylines.com
+0 7
+http://66.84.48.62/admin/business_inc/saveserver.php
+0 1
+http://infantbotulism.org/scripts/frame-top.php
+0 39
+http://infantbotulism.org/home.php
+0 72
+http://us.f604.mail.yahoo.com/ym/ShowLetter
+0 4
+http://ottawa.ca/residents/health/support/professionals/communique/index_en.html
+0 4
+http://www.infantbotulism.com/scripts/frame-top.php
+0 8
+http://www.dhs.ca.gov/dcdc/bt/
+0 1
+http://images.google.co.uk/imgres
+0 1
+http://www.infantbotulism.org/laboratorian/faq.php
+0 25
+http://images.google.com.eg/imgres
+0 2
+http://www.google.com/search
+0 131
+http://www.cdph.ca.gov/healthinfo/discond/Pages/Botulism.aspx
+0 2
+http://infantbot.org/IBTPP/Web documents/enrollment documents/postcard.bmp
+0 16
+http://www.infantbotulism.org/physician/patient.php
+0 67
+www.infantbotulism.org
+0 1
+http://www.dhs.ca.gov/ps/dcdc/DCDCIndex.htm
+0 9
+http://www.google.de/search
+0 1
+http://www.infantbotulism.org/home.php
+0 2086
+http://www.dhs.ca.gov/ps/dcdc/dcdcindex.htm
+0 12
+http://www.infantbotulism.org/scripts/frame-top.php
+0 884
+http://www.dhs.ca.gov/ps/dcdc/bt/index.htm
+0 3
+http://www.infantbotulism.org/parent/honey-espanol.php
+0 2
+http://www.infantbotulism.org
+0 17
+http://www.infantbotulism.org/scripts/menu_items.js
+0 8
+http://www.ottawa.ca/residents/health/support/professionals/communique/index_en.html
+0 2
+http://www.infantbotulism.org/physician/laboratory.php
+0 36
+http://www.infantbotulism.org/laboratorian/submission.php
+0 14
+http://www.google.com.ph/search
+0 1
+http://uk.ask.com/web
+0 1
+http://search.live.com/results.aspx
+0 5
+http://www.infantbotulism.org/contact/index.php
+0 19
+http://www.infantbotulism.org/general/faq.php
+0 212
+http://www.dhs.ca.gov/dcdc/html/directry.htm
+0 1
+http://mailsvr2/exchange/jawalker/Inbox/botulism.EML
+0 1
+http://images.google.co.id/imgres
+0 2
+http://www.infantbotulism.org/laboratorian/storage.php
+0 7
+http://www.cdph.ca.gov/PROGRAMS/Pages/default.aspx
+0 2
+http://www.cdph.ca.gov/programs/Pages/default.aspx
+0 12
+http://mp3vio.com
+0 4
+http://www.infantbotulism.org/laboratorian/laboratory.php
+0 19
+http://content.nejm.org.ezp1.harvard.edu/cgi/content/full/354/5/462
+0 1
+http://www.mic.ki.se/Diseases/C01.html
+0 1
+http://pharmacytraining/BabyBIG.htm
+0 2
+http://www.drhull.com/EncyMaster/B/botulism.html
+0 4
+http://www.google.com.pe/search
+0 1
+http://blogw.we.bs
+0 14
+http://www.infantbotulism.org/general/babybig.php
+0 422
+http://www.infantbotulism.org/readings/
+0 5
+http://www.infantbotulism.org/physician/clinical.php
+0 87
+www.infantbotulism.com
+0 1
+http://www.infantbotulism.org/physician/laboratory-espanol.php
+0 1
+http://www.cdph.ca.gov/programs
+0 1
+http://www.infantbotulism.org/readings/medical.php
+0 129
+http://www.infantbotulism.org/laboratorian/collection.php
+0 43
+http://www.dhs.ca.gov/ps/dcdc/disb/disbindex.htm
+0 2
+http://infantbotulism.org/
+0 36
+http://www.infantbotulism.org/general/babybig-espanol.php
+0 3
+http://www.ask.com/web
+0 3
+http://www.infantbotulism.org/pharmacist/instruction.php
+0 11
+http://www.google.es/search
+0 2
+http://cdphinternet/programs/Pages/default.aspx
+0 5
+http://cdphinternet/PROGRAMS/Pages/default.aspx
+0 7
+http://wzus.ask.com/r
+0 1
+http://ph.search.yahoo.com/search
+0 1
+http://search.yahoo.com/search
+0 36
+http://www.infantbotulism.org/laboratorian/microbiology.php
+0 6
+http://www.infantbotulism.org/general/parent.php
+0 6
+http://www.dhs.ca.gov/dcdc/html/calmorb.htm
+0 1
+http://images.google.ca/imgres
+0 2
+http://www.infantbotulism.org/scripts/frame-bottom.php
+0 206
+http://www.infantbotulism.com/scripts/frame-bottom.php
+0 4
+http://www.whois.sc/
+0 4
+http://www.whois.sc/infantbotulism.org
+0 3
+http://infantbotulism.com/
+0 3
+http://www.google.it/search
+0 1
+http://www.infantbotulism.org/parent/honey.php
+0 27
+http://cm.int.dhs.ca.gov/healthcommportalintranet/content/PS-DCDC/inactive/1076.asp
+0 16
+http://www.pingdom.com/tools/fpt/
+0 2
+http://search.earthlink.net/search
+0 1
+http://127.0.0.1:4664/redir
+0 1
+http://www.dhs.ca.gov/ps/dcdc/disb/disbqanew.htm
+0 1
+http://infantbotulism.org/scripts/frame-bottom.php
+0 11
+http://www.infantbotulism.org/parent/prevention-espanol.php
+0 1
+http://infantbotulism.com/scripts/frame-bottom.php
+0 1
+http://cm.int.dhs.ca.gov/healthcommportalintranet/content/PS-DCDC/inactive/1103.asp
+0 8
+http://www.google.com/m/search
+0 1
+http://www.netcraft.com/survey/
+0 2
+http://www.medicinenet.com/botulism/page5.htm
+0 6
+http://infantbotulism.com/home.php
+0 7
+http://www.sitidi.net
+0 3
+http://www.dsf.health.state.pa.us/health/cwp/view.asp
+0 3
+http://www.infantbotulism.org/
+0 1051
+http://www.google.com/custom
+0 1
+http://images.google.com/imgres
+0 71
+http://search.msn.com/images/results.aspx
+0 1
+www.brandimensions.com
+0 2
+http://www.infantbotulism.org/physician/obtain.php
+0 150
+http://search.msn.com/results.aspx
+0 10
+http://www.google.ca/search
+0 3
+http://infantbotulism.com/scripts/frame-top.php
+0 5
+http://www.infantbotulism.org/general/faq-espanol.php
+0 3
+http://www.infantbotulism.org/parent/prevention.php
+0 10
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Ask Jeeves/Teoma; +http://about.ask.
+0 25
+Mozilla/4.0 (compatible;)
+0 61
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoP
+0 1036
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.8.1.9) G
+0 20
+PHP version tracker (http://www.nexen.net/phpversion/bot.php)
+0 2
+Java/1.4.2_13
+0 3
+void/1.0 (void)
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.11) 
+0 378
+Xenu Link Sleuth 1.2i
+0 1
+Xenu Link Sleuth 1.2j
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.11) 
+0 61
+page_prefetcher
+0 4
+Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/2002
+0 4
+StackRambler/2.0 (MSIE incompatible)
+0 2
+Watchfire WebXM
+0 48
+Java/1.6.0_01
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET 
+0 39
+Baiduspider+(+http://www.baidu.com/search/spider.htm)
+0 1
+Mozilla/5.0 (compatible; Konqueror/3.1-rc4; i686 Linux; 20020
+0 1
+Mozilla/5.0 (compatible; Konqueror/3.1-rc4; i686 Linux; 20021
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312462)
+0 3
+Mozilla/4.0 (compatible; MSIE 6.0; Windows XP)
+0 9
+WebCorp/1.0
+0 3
+BlackBerry8700/4.1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 
+0 9
+sogou spider
+0 3
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.12) Gecko/2006
+0 16
+Sogou web spider/3.0(+http://www.sogou.com/docs/help/webmaste
+0 3
+Mozilla/5.0 (compatible; Konqueror/3.1; i686 Linux; 20020923)
+0 1
+Mozilla/5.0 (compatible; Google Keyword Tool; +http://adwords
+0 4
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312465)
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.1) G
+0 17
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Avant Brow
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; .NET CLR 1.1.4
+0 87
+Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.0; Windows NT 6.0; S
+0 2
+Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.
+0 48
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312467)
+0 1
+msnbot/1.0 (+http://search.msn.com/msnbot.htm)
+0 29
+holmes/3.12.1 (http://morfeo.centrum.cz/bot)
+0 5
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)
+0 147
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98)
+0 6
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312469)
+0 1
+Yahoo-MMCrawler/3.x (mms dash mmcrawler dash support at yahoo
+0 8
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.3) G
+0 8
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Comcast In
+0 29
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET 
+0 1432
+Avant Browser
+0 1
+envolk/1.7 (+http://www.envolk.com/envolkspiderinfo.html)
+0 3
+Semager/1.1 (Semager; http://www.semager.de)
+0 2
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X; fr-fr) AppleWebKit
+0 10
+Mozilla/4.0 (compatible; MSIE 6.0; Win32)
+0 35
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Ge
+0 7
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.8
+0 74
+Grub/2.0 (Grub.org crawler; http://www.grub.org/; bot@grub.or
+0 4
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1
+0 1
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.4) Gecko/200
+0 12
+Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/g
+0 4
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1
+0 113
+Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.0rc3) Ge
+0 1
+httpunit/1.5
+0 7
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1
+0 924
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2
+0 164
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)
+0 202
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:0.9.4.2) G
+0 9
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWe
+0 112
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 3
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Sky Broadb
+0 52
+curl/7.16.4 (i486-pc-linux-gnu) libcurl/7.16.4 OpenSSL/0.9.8e
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.12) 
+0 83
+Mozilla/2.0 (compatible; Ask Jeeves/Teoma; +http://about.ask.
+0 10
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SIMBAR={DD
+0 17
+Mozilla/5.0 (compatible; Konqueror/3.0-rc3; i686 Linux; 20020
+0 1
+CFG_SPIDER_USER_AGENT
+0 1
+cfetch/1.0
+0 2
+Mozilla/4.0 (compatible ; MSIE 6.0; Windows NT 5.1)
+0 3
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en) AppleWebKit/41
+0 32
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; Google Wir
+0 6
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-us) AppleWebKit
+0 50
+CFNetwork/129.22
+0 2
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en) AppleWebKit/52
+0 82
+Mozilla/4.0 (compatible; Netcraft Web Server Survey)
+0 2
+Microsoft Data Access Internet Publishing Provider DAV 1.1
+0 2
+Mozilla/4.0 (compatible; MSIE 5.23; Mac_PowerPC)
+0 16
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; NN5.0.600.
+0 9
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.8.1.11) 
+0 88
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/523.
+0 34
+Mozilla/2.0 (compatible; Ask Jeeves/Teoma)
+0 4
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; SU 3.005; 
+0 18
+Robotgenius crawler/Nutch-1.0-dev (http://robotgenius.net; mi
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1
+0 100
+Mozilla/4.0 (compatible; NaverBot/1.0; http://help.naver.com/
+0 13
+SurveyBot/2.3 (Whois Source)
+0 10
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1
+0 90
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 2
+0 17
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/418 
+0 17
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.12; ips-agent)
+0 5
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.10) 
+0 65
+Jakarta Commons-HttpClient/3.0.1
+0 6
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.co
+0 47
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/419.
+0 9
+Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.8.1.11) Gec
+0 20
+nutch/Nutch-1.0-dev (nutch)
+0 10
+Baiduspider+(+http://www.baidu.com/search/spider_jp.html)
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; .
+0 26
+Mozilla/5.0 (compatible; MSIE 5.01; Win2000)
+0 1
+POE-Component-Client-HTTP/0.65 (perl; N; POE; en; rv:0.650000
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.9)
+0 26
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; S
+0 30
+Lovel as 1.0 ( +http://www.everatom.com)
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.8.1.9) G
+0 17
+Mozilla/4.0 (compatible; GoogleToolbar 4.0.1601.4978-big; Win
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Tablet PC 
+0 16
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.2) G
+0 1
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.10) Gecko/20
+0 41
+boitho.com-dc/0.85 ( http://www.boitho.com/dcbot.html )
+0 1
+Pingdom GIGRIB (http://www.pingdom.com)
+0 4
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; RCSI MUB B
+0 10
+Speedy Spider (http://www.entireweb.com/about/search_tech/spe
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; ODP entrie
+0 1
+Mozilla/5.0 (compatible; Konqueror/3.0-rc2; i686 Linux; 20020
+0 1
+VB Project
+0 1
+Mozilla/4.0 (compatible; MSIE 4.01; Windows 95)
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; InfoPath.1
+0 68
+Mozilla/5.0 (Twiceler-0.9 http://www.cuill.com/twiceler/robot
+0 7
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; YPC 3.2.0;
+0 17
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/
+0 172
+LinkLint-checkonly/2.3.5
+0 7
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; TheFreeDic
+0 7
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; YPC 3.2.0;
+0 43
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 188
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; SIMBA
+0 11
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NE
+0 261
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.1.7) Geck
+0 8
+Mozilla/5.0 (Windows; U; Win98; en-US; m18) Gecko/20001108 Ne
+0 1
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.5) Gecko/20041
+0 9
+Mozilla/5.0 (compatible; Google Desktop)
+0 13
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.1) VoilaB
+0 34
+SBIder/SBIder-0.8.2-dev (http://www.sitesell.com/sbider.html)
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Comcast In
+0 17
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.4) G
+0 31
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Media
+0 10
+Mozilla/5.0 (compatible; Yahoo! Slurp China; http://misc.yaho
+0 10
+Mozilla/5.0 (compatible; Charlotte/1.0b; http://www.searchme.
+0 2
+Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2) Gecko/20021
+0 7
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; WOW64; SV1
+0 16
+Mozilla/5.0 (compatible; Konqueror/3.0-rc6; i686 Linux; 20020
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; YComp 5.0.
+0 22
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9a1) Gecko/20070
+0 64
+Mozilla/5.0 (compatible; Konqueror/3.0-rc1; i686 Linux; 20020
+0 1
+disco/Nutch-1.0-dev (experimental crawler; www.discoveryengin
+0 11
+Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.8.1.11) 
+0 19
+Mozilla/2.0 (compatible; MSIE 3.0B; Windows NT)
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Sky Broadb
+0 17
+Mozilla/4.0
+0 12
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) G
+0 17
+Robozilla/1.0
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; FunWebProd
+0 18
+Mozilla/5.0 (compatible; Konqueror/3.1-rc5; i686 Linux; 20020
+0 2
+Lmca oxarc tavpcrmug
+0 1
+Mozilla/4.0 (compatible; DAUMOA-video; +http://ws.daum.net/ab
+0 2
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0)
+0 1
+BDFetch
+0 2
+Mozilla/5.0 (compatible; heritrix/1.12.1 +http://www.page-sto
+0 40
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; FunWebProd
+0 73
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; (R1 1.5); 
+0 17
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; (R1 1.6); 
+0 9
+Mail.Ru/1.0
+0 5
+# End Of Table - agents
+# -search strings- 
+california infant botulism
+1
+treatments and preventions of botulism
+1
+botulism more:condition_treatment
+3
+treatment of botulism
+1
+infantile botulism treatment
+1
+clostridium botulinum treatment
+2
+california department of health and infant botulism program
+2
+treatments for infant botulism
+1
+infantbotulism.org
+6
+infant botulism cure
+3
+treatment for infant botulism
+3
+botulism
+6
+infantile botulism
+2
+infant botulism
+83
+infanti botulism
+1
+infant botulism program california
+1
+treatment of infant botulism
+3
+http://www.infantbotulism.org/ (california department of health
+1
+infantile botulism prevention
+1
+(infant botulism)
+1
+botulism infants
+2
+infant botulism treatment
+9
+ca infant botulism program
+1
+infant botchulism
+1
+infant botulism california
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
