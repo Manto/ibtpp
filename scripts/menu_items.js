@@ -38,7 +38,7 @@ var MENU_ITEMS = [
 		['Dosage and Administration',SITE_ROOT + 'pharmacist/dosage.php'],
 		['FAQs',SITE_ROOT + 'general/faq.php'],
 	],
-	['For Laboratory Testing Info',null, null,
+	['Lab Testing Info',null, null,
 		['Microbiology of <i>C. botulinum</i>',SITE_ROOT + 'laboratorian/microbiology.php'],
 		['Laboratory Diagnosis',SITE_ROOT + 'laboratorian/laboratory.php'],
 		['Specimen Collection',SITE_ROOT + 'laboratorian/collection.php'],

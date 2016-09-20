@@ -8,7 +8,7 @@
 <tr>
 <td class="main">
 <span class="emphasis2" style="color:#CC0000">Read all the instructions before BabyBIG<sup>&reg;</sup> arrives at your institution.
-Do not reconstitute BabyBIG<sup>&reg;</sup> until instructed by physician.  Infusion must begin within 2 hours of reconstitution.<br />- Please note dosage change effective November 12, 2013. Current dosage is 50 mg/kg -</span><br><br>
+Do not reconstitute BabyBIG<sup>&reg;</sup> until instructed by physician.  Infusion must begin within 2 hours of reconstitution.<br />- Please note the current dosage is 50 mg/kg -</span><br><br>
 
 <span class="emphasis1">ATTENTION PHARMACIST:</span>
 <br /><br /><b>** Please review and follow all instructions in the FDA-approved package insert **</b><br />

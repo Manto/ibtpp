@@ -1,23 +1,23 @@
 <?php require("../scripts/template-start.php"); ?>
 
    <td class="title" valign=top>
-		&nbsp;Cuándo evitar la miel
+		&nbsp;CuÃ¡ndo evitar la miel
    </td>
 
 </tr>
 <tr>
 	<td class="main">
 La miel a sido identificada como el unico tipo de comida que contiene <i>C. botulinum</i>, la espora
-bacterial que causa el botulismo infantil, que debe ser evitado. Mientras que la mayoría de los
-casos de botulismo infantil hoy en día no son causados por la exposición a la miel antes de la
-enfermedad, es la única fuente evitable de exposición a la bacteria. Por un proceso de exclusión,
-pruebas que se realizaron a través de un periodo de años de muchos tipos de comidas, bebidas y
+bacterial que causa el botulismo infantil, que debe ser evitado. Mientras que la mayorÃ­a de los
+casos de botulismo infantil hoy en dÃ­a no son causados por la exposiciÃ³n a la miel antes de la
+enfermedad, es la Ãºnica fuente evitable de exposiciÃ³n a la bacteria. Por un proceso de exclusiÃ³n,
+pruebas que se realizaron a travÃ©s de un periodo de aÃ±os de muchos tipos de comidas, bebidas y
 otras cosas que fueron puestas en las bocas de infantes que resultaron negativas, fue concluido
-que la mayoría de los pacientes de botulismo infantil adquieren las esporas al ingerir partículos
-microscópicos de polvo que contienen esporas.
+que la mayorÃ­a de los pacientes de botulismo infantil adquieren las esporas al ingerir partÃ­culos
+microscÃ³picos de polvo que contienen esporas.
 <br><br>
-El Departamento de Servicios de Salud de California (CDHS) preparó un folleto informativo
-para aumentar el conocimiento general sobre evitar dar le miel a los bebés menos de un año de
+El Departamento de Servicios de Salud de California (CDHS) preparÃ³ un folleto informativo
+para aumentar el conocimiento general sobre evitar dar le miel a los bebÃ©s menos de un aÃ±o de
 edad. El folleto no tiene derechos de autor y CDHS motiva a todas las personas interesadas a
 bajar, imprimir y distribuir este folleto, disponible en nuestro sitio web.
 <br><br>

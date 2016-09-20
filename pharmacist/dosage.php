@@ -8,7 +8,7 @@
 <tr>
 <td class="main">
 <span class="emphasis2" style="color:#CC0000">
-	- Please note dosage change effective November 12, 2013. Current dosage is 50 mg/kg -</span><br><br>
+	- Please note the current dosage is 50 mg/kg -</span><br><br>
 
 <p>
 BabyBIG<sup>&reg;</sup> is supplied in a single dose vial containing approximately 100
@@ -19,7 +19,7 @@ BabyBIG<sup>&reg;</sup> should not be stored in the reconstituted state.
 </p>
 <p>
 For details on the preparation for administration and infusion of BabyBIG<sup>&reg;</sup>,
-please see the text of the <a target="_blank" href="http://www.infantbotulism.org/package_insert_2013_11.pdf">Package Insert for BabyBIG<sup>&reg;</sup></a> 
+please see the text of the <a target="_blank" href="http://www.infantbotulism.org/BabyBIG Package Insert 2016_09.pdf">Package Insert for BabyBIG<sup>&reg;</sup></a> 
 </p>
 
 	</td>

@@ -20,7 +20,7 @@ To date, use of BabyBIG<sup>&reg;</sup> to treat more than 1,000 US infant botul
 For more information, please visit the following links:<br>
 <ul>
 <li><a href="http://www.fda.gov/BiologicsBloodVaccines/BloodBloodProducts/ApprovedProducts/LicensedProductsBLAs/FractionatedPlasmaProducts/ucm089339.htm" target="_blank">"FDA Approval"</a></li>
-<li>"Package Insert for BabyBIG<sup>&reg;</sup>": <a target="_blank" href="http://www.infantbotulism.org/package_insert_2013_11.pdf">Package Insert for BabyBIG<sup>&reg;</sup></a></li>
+<li>"Package Insert for BabyBIG<sup>&reg;</sup>": <a target="_blank" href="http://www.infantbotulism.org/BabyBIG Package Insert 2016_09.pdf">Package Insert for BabyBIG<sup>&reg;</sup></a></li>
 <li><a href="http://www.fda.gov/BiologicsBloodVaccines/BloodBloodProducts/ApprovedProducts/LicensedProductsBLAs/FractionatedPlasmaProducts/ucm117164.htm" target="_blank">"FDA Product Approval Letter"</a><br><br></li>
 </ul>
 </td></tr></table>

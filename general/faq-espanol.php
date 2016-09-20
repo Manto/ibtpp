@@ -14,18 +14,18 @@
 <tr><td colspan="2"><img src="http://www.infantbotulism.org/images/trans.gif" height=15></td></tr>
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-q.gif" border=0></td>
-<td>¿Qué es botulismo infantil?</td>
+<td>Â¿QuÃ© es botulismo infantil?</td>
 </tr>
 
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-a.gif" border=0></td>
 <td>El botulismo infantil es la forma intestinal infecciosa de botulismo que resulta cuando esporas
-ingeridas de la bacteria <i>Clostridium botulinum</i> colonizan el intestino grande del bebé y producen
-la toxina botulinum. La toxina botulinum causa debilidad y pérdida de tono muscular porque
-bloquea la capacidad de las terminaciones nerviosas de mandar señales al músculo conectado
-para que se contraiga. Con frecuencia esta enfermedad comienza con estreñimiento, pero
-usualmente se nota primero cuando el bebé muestra dificultad en comer específicamente en
-succionar o tragando comida, un llanto débil o diferente, y una expresión facial disminuida.
+ingeridas de la bacteria <i>Clostridium botulinum</i> colonizan el intestino grande del bebÃ© y producen
+la toxina botulinum. La toxina botulinum causa debilidad y pÃ©rdida de tono muscular porque
+bloquea la capacidad de las terminaciones nerviosas de mandar seÃ±ales al mÃºsculo conectado
+para que se contraiga. Con frecuencia esta enfermedad comienza con estreÃ±imiento, pero
+usualmente se nota primero cuando el bebÃ© muestra dificultad en comer especÃ­ficamente en
+succionar o tragando comida, un llanto dÃ©bil o diferente, y una expresiÃ³n facial disminuida.
 </td>
 </tr>
 
@@ -33,14 +33,14 @@ succionar o tragando comida, un llanto débil o diferente, y una expresión facial
 
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-q.gif" border=0></td>
-<td>¿Qual es la diferencia entre el botulismo infantil y el botulismo transmitido por comida?</td>
+<td>Â¿Qual es la diferencia entre el botulismo infantil y el botulismo transmitido por comida?</td>
 </tr>
 
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-a.gif" border=0></td>
 <td>En el botulismo infantil las esporas del botulismo ingeridas se activan adentro del intestino
-grande del bebé y producen la toxina botulinum. En el botulismo transmitido por comida las
-esporas del botulismo se activan en la comida y producen la toxina botulinum. Niños mayores y
+grande del bebÃ© y producen la toxina botulinum. En el botulismo transmitido por comida las
+esporas del botulismo se activan en la comida y producen la toxina botulinum. NiÃ±os mayores y
 adultos contraen el botulismo transmitido por comida al comer la comida donde la bacteria del
 botulismo ha producido la toxina botulinum.
 </td>
@@ -50,41 +50,41 @@ botulismo ha producido la toxina botulinum.
 
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-q.gif" border=0></td>
-<td>¿Mi bebé fue alimentado un producto comercial conteniendo miel (como cereal hecho
+<td>Â¿Mi bebÃ© fue alimentado un producto comercial conteniendo miel (como cereal hecho
 con miel), debe estar preocupado de botulismo infantil?</td>
 </tr>
 
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-a.gif" border=0></td>
-<td>Por favor refierase a la Academia Americana de Pediatría que muestra las mejores pautas al
-respecto a la alimentación de comidas solidas para bebés (<a href="http://www.healthychildren.org/
+<td>Por favor refierase a la Academia Americana de PediatrÃ­a que muestra las mejores pautas al
+respecto a la alimentaciÃ³n de comidas solidas para bebÃ©s (<a href="http://www.healthychildren.org/
 English/ages-stages/baby/feeding-nutrition" target="_blank">http://www.healthychildren.org/
 English/ages-stages/baby/feeding-nutrition</a>)
 Muchos alimentos y productos comerciales contienen miel en muchas formas. Porque los
-detalles de cada proceso de fabricación varían, el Departamento de Salud Publica de California
+detalles de cada proceso de fabricaciÃ³n varÃ­an, el Departamento de Salud Publica de California
 no puede comentar al respecto de la probabilidad que el producto alimenticio que contiene miel
 puede contener las esporas viables de <i>C. botulinum</i>.
-El Departamento de Salud Publica de California continúa recomendando no darle miel o
-productos conteniendo miel a bebés bajo de la edad de un ano.
+El Departamento de Salud Publica de California continÃºa recomendando no darle miel o
+productos conteniendo miel a bebÃ©s bajo de la edad de un ano.
 </td>
 </tr>
 
 <tr><td colspan="2"><img src="http://www.infantbotulism.org/images/trans.gif" height=15></td></tr>
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-q.gif" border=0></td>
-<td>¿Cómo contrae el bebé botulismo infantil?</td>
+<td>Â¿CÃ³mo contrae el bebÃ© botulismo infantil?</td>
 </tr>
 
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-a.gif" border=0></td>
-<td>El bebé contrae el botulismo infantil al ingerir las esporas de botulismo en un momento cuando
-el intestino grueso esta vulnerable a la germinación de las esporas y producción de la toxina. La
-ciencia médica aún no entiende todas las causas que hacen un bebé susceptible a la germinación
-de esporas del botulismo. La miel se debe evitar porque ha sido identificada como la única tipo
-de comida que contiene esporas de botulismo. Por un proceso de exclusión, pruebas que se
-realizaron a través de un periodo de años de muchos tipos de comidas, bebidas y otras cosas que
-fueron puestas en las bocas de infantes que resultaron negativas, fue concluido que la mayoría de
-los pacientes de botulismo infantil adquieren las esporas al ingerir partículos microscópicos de
+<td>El bebÃ© contrae el botulismo infantil al ingerir las esporas de botulismo en un momento cuando
+el intestino grueso esta vulnerable a la germinaciÃ³n de las esporas y producciÃ³n de la toxina. La
+ciencia mÃ©dica aÃºn no entiende todas las causas que hacen un bebÃ© susceptible a la germinaciÃ³n
+de esporas del botulismo. La miel se debe evitar porque ha sido identificada como la Ãºnica tipo
+de comida que contiene esporas de botulismo. Por un proceso de exclusiÃ³n, pruebas que se
+realizaron a travÃ©s de un periodo de aÃ±os de muchos tipos de comidas, bebidas y otras cosas que
+fueron puestas en las bocas de infantes que resultaron negativas, fue concluido que la mayorÃ­a de
+los pacientes de botulismo infantil adquieren las esporas al ingerir partÃ­culos microscÃ³picos de
 polvo que contienen esporas.
 </td>
 </tr>
@@ -92,110 +92,110 @@ polvo que contienen esporas.
 <tr><td colspan="2"><img src="http://www.infantbotulism.org/images/trans.gif" height=15></td></tr>
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-q.gif" border=0></td>
-<td>Sé que la miel no se le debe dar a los bebés. ¿Puede una madre que amamanta
-su bebé comer miel? ¿Puede el botulismo ser transmitido por leche materna?
-¿Deberia de continuar amamantando mi bebé mientras que tenga botulismo infantil?</td>
+<td>SÃ© que la miel no se le debe dar a los bebÃ©s. Â¿Puede una madre que amamanta
+su bebÃ© comer miel? Â¿Puede el botulismo ser transmitido por leche materna?
+Â¿Deberia de continuar amamantando mi bebÃ© mientras que tenga botulismo infantil?</td>
 </tr>
 
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-a.gif" border=0></td>
-<td>No hay problema que la madre que esta amamantando su bebé coma miel. Botulismo no es
-transmitido por leche materna. El Programa de Prevención y Tratamiento de Botulismo Infantil
-recomienda que madres continuen amamantando sus bebés o darles leche materna durante la
-enfermedad y recuperación del botulism infantil.
+<td>No hay problema que la madre que esta amamantando su bebÃ© coma miel. Botulismo no es
+transmitido por leche materna. El Programa de PrevenciÃ³n y Tratamiento de Botulismo Infantil
+recomienda que madres continuen amamantando sus bebÃ©s o darles leche materna durante la
+enfermedad y recuperaciÃ³n del botulism infantil.
 <br /><br />
 Es importante lavarse las manos cuidadosamente especialmente si personas cuidando o viviendo
-con el bebé tienen cualquier tipo de contacto con miel o surpeficies que han sidos expuestas a
-miel para reducer o eliminar la posibilidad que la boca del bebé llegue a tener contacto con miel.
+con el bebÃ© tienen cualquier tipo de contacto con miel o surpeficies que han sidos expuestas a
+miel para reducer o eliminar la posibilidad que la boca del bebÃ© llegue a tener contacto con miel.
 <br /><br />
 Aunque esporas bacterianas que causan botulismo infantile se saben que de vez en cuando estan
 presente en la miel, si la madre come esporas de botulismo presente en la miel no se transmitira
 en su leche maternal porque las esporas son muy grandes para pasar por su pecho. La toxina
 botulinum no se transmita a la leche materna. Por esto y otras razones, la leche materna no es un
-origen de esporas bacterianas o la toxina que causa botulismo infantil. Si se direge a la sección
-de como se cuida a los bebé que sufren de botulismo infantil en nuestra website, encontrara que
-la mejor nutrición para el bebé es la leche materna. Madres deberian ser animadas y apoyadas a
-continuar amamantando sus bebés mientras la enfermedad y recuperación.
+origen de esporas bacterianas o la toxina que causa botulismo infantil. Si se direge a la secciÃ³n
+de como se cuida a los bebÃ© que sufren de botulismo infantil en nuestra website, encontrara que
+la mejor nutriciÃ³n para el bebÃ© es la leche materna. Madres deberian ser animadas y apoyadas a
+continuar amamantando sus bebÃ©s mientras la enfermedad y recuperaciÃ³n.
 <br /><br />
-Para información mas detallada sobre amamantar y el botulismo infantile, por favor vea nuestra
-sección que trata con prevención.
+Para informaciÃ³n mas detallada sobre amamantar y el botulismo infantile, por favor vea nuestra
+secciÃ³n que trata con prevenciÃ³n.
 </td>
 </tr>
 
 <tr><td colspan="2"><img src="http://www.infantbotulism.org/images/trans.gif" height=15></td></tr>
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-q.gif" border=0></td>
-<td>¿Cómo se trata el botulismo infantil?</td>
+<td>Â¿CÃ³mo se trata el botulismo infantil?</td>
 </tr>
 
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-a.gif" border=0></td>
-<tdEl botulismo infantil es tratado con cuidado y apoyo meticuloso prestando atención especial a las
-necesidades de alimentación y respiración del bebé. En los Estados Unidos la medicina huérfana
-BabyBig<sup>&reg;</sup> también es usada para reducir complicaciones y la estancia en el hospital.
+<tdEl botulismo infantil es tratado con cuidado y apoyo meticuloso prestando atenciÃ³n especial a las
+necesidades de alimentaciÃ³n y respiraciÃ³n del bebÃ©. En los Estados Unidos la medicina huÃ©rfana
+BabyBig<sup>&reg;</sup> tambiÃ©n es usada para reducir complicaciones y la estancia en el hospital.
 </td>
 </tr>
 
 <tr><td colspan="2"><img src="http://www.infantbotulism.org/images/trans.gif" height=15></td></tr>
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-q.gif" border=0></td>
-<td>¿Qué es BabyBIG<sup>&reg;</sup>?</td>
+<td>Â¿QuÃ© es BabyBIG<sup>&reg;</sup>?</td>
 </tr>
 
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-a.gif" border=0></td>
-<td>La droga huérfana BabyBIG<sup>&reg;</sup> es una antitoxina de botulismo derivada del ser humano que
-fue aprobada (autorizada) por la Administración de Drogas y Alimentos de los Estados Unidos
+<td>La droga huÃ©rfana BabyBIG<sup>&reg;</sup> es una antitoxina de botulismo derivada del ser humano que
+fue aprobada (autorizada) por la AdministraciÃ³n de Drogas y Alimentos de los Estados Unidos
 (FDA) para el tratamiento del botulismo infantil el 23 de Octubre de 2003. El uso de BabyBIG<sup>&reg;</sup>
-reduce significativamente la duración de la hospitalización y los costos asociados con la
-hospitalización de los pacientes con botulismo infantil.
+reduce significativamente la duraciÃ³n de la hospitalizaciÃ³n y los costos asociados con la
+hospitalizaciÃ³n de los pacientes con botulismo infantil.
 </td>
 </tr>
 
 <tr><td colspan="2"><img src="http://www.infantbotulism.org/images/trans.gif" height=15></td></tr>
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-q.gif" border=0></td>
-<td>¿Qué tan pronto puede ser inmunizado mi hijo/a después del tratamiento con
+<td>Â¿QuÃ© tan pronto puede ser inmunizado mi hijo/a despuÃ©s del tratamiento con
 BabyBIG<sup>&reg;</sup>?
 </td>
 </tr>
 
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-a.gif" border=0></td>
-<td>El niño debería haber recuperado casi por completo o completamente la fuerza y el tono de los
-músculos antes de que comiencen las inmunizaciones de nuevo. Adicionalmente, las vacunas
-de virus vivos (por ejemplo: rotavirus, sarampión, paperas, rubéola y varicela) deben retrasarse
-hasta 5 meses después del tratamiento con BabyBIG<sup>&reg;</sup> porque los anticuerpos en BabyBIG<sup>&reg;</sup>
-podrían interferir con la eficacia de la vacuna.
+<td>El niÃ±o deberÃ­a haber recuperado casi por completo o completamente la fuerza y el tono de los
+mÃºsculos antes de que comiencen las inmunizaciones de nuevo. Adicionalmente, las vacunas
+de virus vivos (por ejemplo: rotavirus, sarampiÃ³n, paperas, rubÃ©ola y varicela) deben retrasarse
+hasta 5 meses despuÃ©s del tratamiento con BabyBIG<sup>&reg;</sup> porque los anticuerpos en BabyBIG<sup>&reg;</sup>
+podrÃ­an interferir con la eficacia de la vacuna.
 
-Aunque estudios sugieren que la administración de los productos intravenosos de la
+Aunque estudios sugieren que la administraciÃ³n de los productos intravenosos de la
 inmunoglobina como BabyBIG no interfiere con la eficacia de las vacunas orales del rotavirus,
 los pacientes con botulismo infantil no deben recibir la vacuna del rotavirus debido a la
 movilidad intestinal retardada que resulta del botulismo infantil
 
 Cualquiera de las dosis recomendadas de la vacuna contra el rotavirus (RotaTeq<sup>&reg;</sup> o Rotarix<sup>&reg;</sup>)
-que no se haya aplicado al niño antes del tratamiento con BabyBIG<sup>&reg;</sup> se tendrá que retrasar. Las
+que no se haya aplicado al niÃ±o antes del tratamiento con BabyBIG<sup>&reg;</sup> se tendrÃ¡ que retrasar. Las
 
-otras vacunas de virus vivos (por ejemplo: sarampión, paperas, rubéola y varicela) se aplican
-habitualmente por primera vez a la edad de un año; por lo tanto, sólo los pacientes con botulismo
-infantil, que tuvieran 7 meses de edad o más cuando se les trató con BabyBIG<sup>&reg;</sup>, tendrán que
-retrasar la inmunización con estas vacunas.
+otras vacunas de virus vivos (por ejemplo: sarampiÃ³n, paperas, rubÃ©ola y varicela) se aplican
+habitualmente por primera vez a la edad de un aÃ±o; por lo tanto, sÃ³lo los pacientes con botulismo
+infantil, que tuvieran 7 meses de edad o mÃ¡s cuando se les tratÃ³ con BabyBIG<sup>&reg;</sup>, tendrÃ¡n que
+retrasar la inmunizaciÃ³n con estas vacunas.
 </td>
 </tr>
 
 <tr><td colspan="2"><img src="http://www.infantbotulism.org/images/trans.gif" height=15></td></tr>
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-q.gif" border=0></td>
-<td>¿Hay consecuencias a largo plazo del botulismo infantil?</td>
+<td>Â¿Hay consecuencias a largo plazo del botulismo infantil?</td>
 </tr>
 
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-a.gif" border=0></td>
-<td>Con la ausencia de complicaciones serias contraídas en el hospital, no. La prognosis para los
-pacientes de botulismo infantil es la recuperación total y completa. La recuperación resulta
-con el recrecimiento de las terminaciones nerviosas que podrán mandar señales para que
-los músculos se contraigan. La toxina botulinum no penetra en el cerebro, y por lo tanto los
-pacientes de botulismo infantil retienen toda la inteligencia, habilidad atlética, habilidad musical,
+<td>Con la ausencia de complicaciones serias contraÃ­das en el hospital, no. La prognosis para los
+pacientes de botulismo infantil es la recuperaciÃ³n total y completa. La recuperaciÃ³n resulta
+con el recrecimiento de las terminaciones nerviosas que podrÃ¡n mandar seÃ±ales para que
+los mÃºsculos se contraigan. La toxina botulinum no penetra en el cerebro, y por lo tanto los
+pacientes de botulismo infantil retienen toda la inteligencia, habilidad atlÃ©tica, habilidad musical,
 sentido del humor y terquedad con las cuales nacieron.
 </td>
 </tr>
@@ -203,31 +203,31 @@ sentido del humor y terquedad con las cuales nacieron.
 <tr><td colspan="2"><img src="http://www.infantbotulism.org/images/trans.gif" height=15></td></tr>
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-q.gif" border=0></td>
-<td>¿Mi bebé podra contraer botulismo infantil otra vez?</td>
+<td>Â¿Mi bebÃ© podra contraer botulismo infantil otra vez?</td>
 </tr>
 
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-a.gif" border=0></td>
-<td>No. Los niños tratados con BabyBIG tendrán un nivel protector de toxina-neutralizar anticuerpos
-por lo menos seis meses despues de la administración de la medicina. Esta característica da
-suficiente tiempo para la eliminación de <i>C. botulinum</i>, que a colonizado temporariamente
-el intestino del bebé causando la enfermedad. La enfermedad del botulismo infantil primero
-fue reconocida hace más de 35 años atras y no han habido casos de un bebé que adquiere la
-enfermedad más de una vez. Durante este tiempo más de 3700 casos de botulismo infantil se
-saben haber ocurrido por todo el mundo. Sin embargo, han habido algunos informes sobre bebés
+<td>No. Los niÃ±os tratados con BabyBIG tendrÃ¡n un nivel protector de toxina-neutralizar anticuerpos
+por lo menos seis meses despues de la administraciÃ³n de la medicina. Esta caracterÃ­stica da
+suficiente tiempo para la eliminaciÃ³n de <i>C. botulinum</i>, que a colonizado temporariamente
+el intestino del bebÃ© causando la enfermedad. La enfermedad del botulismo infantil primero
+fue reconocida hace mÃ¡s de 35 aÃ±os atras y no han habido casos de un bebÃ© que adquiere la
+enfermedad mÃ¡s de una vez. Durante este tiempo mÃ¡s de 3700 casos de botulismo infantil se
+saben haber ocurrido por todo el mundo. Sin embargo, han habido algunos informes sobre bebÃ©s
 que recaien y adquieren botulismo infantil nuevemente que han sido publicados durante este
-tiempo. Revisión cuidadosa de estos informes por los doctores de nuestro programa demuestran
-que en éstos casos los bebés fueron descargaron prematuramente antes de que habian recuperado
-la fuerza para comer y respirar. Para mas discusión sobre este asunto vea por favor la sección
+tiempo. RevisiÃ³n cuidadosa de estos informes por los doctores de nuestro programa demuestran
+que en Ã©stos casos los bebÃ©s fueron descargaron prematuramente antes de que habian recuperado
+la fuerza para comer y respirar. Para mas discusiÃ³n sobre este asunto vea por favor la secciÃ³n
 de comor cuidar a los paciente con botulismo infantil en nuestro sitio en el internet debajo de la
-lengüeta que lee "Para Doctores".
+lengÃ¼eta que lee "Para Doctores".
 </td>
 </tr>
 
 <tr><td colspan="2"><img src="http://www.infantbotulism.org/images/trans.gif" height=15></td></tr>
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-q.gif" border=0></td>
-<td>¿Mi próximo hijo correrá un alto riesgo de botulismo infantil?</td>
+<td>Â¿Mi prÃ³ximo hijo correrÃ¡ un alto riesgo de botulismo infantil?</td>
 </tr>
 
 <tr>
@@ -239,24 +239,24 @@ lengüeta que lee "Para Doctores".
 <tr><td colspan="2"><img src="http://www.infantbotulism.org/images/trans.gif" height=15></td></tr>
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-q.gif" border=0></td>
-<td>¿Cómo debo lidiar con los pañales de mi bebe mientras el o ella se recupera de
+<td>Â¿CÃ³mo debo lidiar con los paÃ±ales de mi bebe mientras el o ella se recupera de
 botulismo infantil?</td>
 </tr>
 
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-a.gif" border=0></td>
 <td>Pacientes con botulismo infantil contienen C.botulinum y organismos en su excremento durante
-un periodo de unas semanas a meses después de que contraen botulismo infantil. Por esta razón
-es muy importante lavarse las manos muy bien después de cambiar los pañales de su bebé. Los
-pañales deben ser tirados en la basura rápidamente de manera que ninguna otra persona o animal
-(como una mascota) pueda entrar en el contacto con él pañal. Personas con heridas en sus manos
-deben usar guantes disponibles al cambiar pañales.
+un periodo de unas semanas a meses despuÃ©s de que contraen botulismo infantil. Por esta razÃ³n
+es muy importante lavarse las manos muy bien despuÃ©s de cambiar los paÃ±ales de su bebÃ©. Los
+paÃ±ales deben ser tirados en la basura rÃ¡pidamente de manera que ninguna otra persona o animal
+(como una mascota) pueda entrar en el contacto con Ã©l paÃ±al. Personas con heridas en sus manos
+deben usar guantes disponibles al cambiar paÃ±ales.
 <br /><Br />
-Porque el paciente mientras su recuperación puede excretar la toxina botulinum y organismos
-por semanas a meses después de contraer botulismo infantil, es recomendable limitar contacto
-con otros infantes y niños pequeños durante este tiempo. Ésto es para asegurarse de que otros
-niños no entren en contacto con el excremento de un pañal sucio. Cualquier contacto que
-el paciente tenga con otros niños durante este tiempo debe ser supervisado por un adulto.
+Porque el paciente mientras su recuperaciÃ³n puede excretar la toxina botulinum y organismos
+por semanas a meses despuÃ©s de contraer botulismo infantil, es recomendable limitar contacto
+con otros infantes y niÃ±os pequeÃ±os durante este tiempo. Ã‰sto es para asegurarse de que otros
+niÃ±os no entren en contacto con el excremento de un paÃ±al sucio. Cualquier contacto que
+el paciente tenga con otros niÃ±os durante este tiempo debe ser supervisado por un adulto.
 <br /><Br />
 <i>C botulinum</i> <b>no es</b> parte de la flora ( bacteria normal y sana que viven dentro de nuestros
 cuerpos) normal que se encuentra en el intestino del paciente. Eventualmente C botulinum sera
@@ -267,13 +267,13 @@ excretado en el excremento del infante.
 <tr><td colspan="2"><img src="http://www.infantbotulism.org/images/trans.gif" height=15></td></tr>
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-q.gif" border=0></td>
-<td>¿Cómo se puede prevenir el botulismo infantil?</td>
+<td>Â¿CÃ³mo se puede prevenir el botulismo infantil?</td>
 </tr>
 
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-a.gif" border=0></td>
-<td>La única medida de prevención conocida para el botulismo infantil es evitar darle miel a los
-bebés de 12 meses o menos. El amamantamiento podría retardar el inicio de la enfermedad si se
+<td>La Ãºnica medida de prevenciÃ³n conocida para el botulismo infantil es evitar darle miel a los
+bebÃ©s de 12 meses o menos. El amamantamiento podrÃ­a retardar el inicio de la enfermedad si se
 desarrolla.
 </td>
 </tr>
@@ -281,7 +281,7 @@ desarrolla.
 <tr><td colspan="2"><img src="http://www.infantbotulism.org/images/trans.gif" height=15></td></tr>
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-q.gif" border=0></td>
-<td>¿Cómo puedo contactar a otras familias en mi área cuyos niños también tuvieron
+<td>Â¿CÃ³mo puedo contactar a otras familias en mi Ã¡rea cuyos niÃ±os tambiÃ©n tuvieron
 botulismo infantil?</td>
 </tr>
 

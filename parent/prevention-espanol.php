@@ -1,77 +1,77 @@
 <?php require("../scripts/template-start.php"); ?>
 
    <td class="title" valign=top>
-		&nbsp;Prevención
+		&nbsp;PrevenciÃ³n
    </td>
 
 </tr>
 <tr>
 	<td class="main">
-La única medida de prevención conocida para el botulismo infantil es evitar dar le miel a los
-bebés de 12 meses o menos. El amamantamiento podría retardar el inicio de la enfermedad si se
+La Ãºnica medida de prevenciÃ³n conocida para el botulismo infantil es evitar dar le miel a los
+bebÃ©s de 12 meses o menos. El amamantamiento podrÃ­a retardar el inicio de la enfermedad si se
 desarrolla.
 <br /><br />
-El papel sobre el amamantamiento y la alimentación con leche de fórmula como factores
-posibles de predisposición al desarrollo de la enfermedad permanece sin resolver. Todos
-los estudios hasta hoy han identificado una asociación entre el amamantamiento y el ser
+El papel sobre el amamantamiento y la alimentaciÃ³n con leche de fÃ³rmula como factores
+posibles de predisposiciÃ³n al desarrollo de la enfermedad permanece sin resolver. Todos
+los estudios hasta hoy han identificado una asociaciÃ³n entre el amamantamiento y el ser
 hospitalizado debido al botulismo infantil<sup>2, 4, 15, 16, 19, 23, 25</sup>. Este descubrimiento ha resultado
 en una perspectiva que mantiene que el amamantamiento predispone el desarrollo de la
 enfermedad<sup>15, 16, 23</sup>, mientras que la otra perspectiva mantiene que el amamantamiento retarda
-el inicio lo suficiente para permitir la hospitalización<sup>1, 2, 3, 4</sup>. Sin embargo, entre los pacientes
-hospitalizados, el promedio de la edad de inicio del botulismo infantil en bebés alimentados con
-leche de fórmula (7.6 semanas) era significativamente menor y aproximadamente la mitad de la
-edad de los niños alimentados por leche materna (13.8 semanas). Además, el inicio fulminante
-en los pacientes de botulismo infantil, quienes dejaron de respirar y murieron en casa, ocurrió
-en los bebés alimentados todos con leche de fórmula. La susceptibilidad relativa de la conexión
-entre los niños alimentados con leche de fórmula y los niños alimentados por leche materna, y
-la adquisición de botulismo infantil, y la severidad resultante de su enfermedad, podría reflejar
-diferencias en la disponibilidad de nichos ecológicos adecuados en la flora intestinal para el
-<i>C. botulinum</i>, diferencias en la disponibilidad de los factores inmunológicos (como lactoferrin
-e IgA secretorio) contenidos en la leche humana pero no en la leche de fórmula<sup>9</sup>, u otras
-diferencias aún no identificadas.
+el inicio lo suficiente para permitir la hospitalizaciÃ³n<sup>1, 2, 3, 4</sup>. Sin embargo, entre los pacientes
+hospitalizados, el promedio de la edad de inicio del botulismo infantil en bebÃ©s alimentados con
+leche de fÃ³rmula (7.6 semanas) era significativamente menor y aproximadamente la mitad de la
+edad de los niÃ±os alimentados por leche materna (13.8 semanas). AdemÃ¡s, el inicio fulminante
+en los pacientes de botulismo infantil, quienes dejaron de respirar y murieron en casa, ocurriÃ³
+en los bebÃ©s alimentados todos con leche de fÃ³rmula. La susceptibilidad relativa de la conexiÃ³n
+entre los niÃ±os alimentados con leche de fÃ³rmula y los niÃ±os alimentados por leche materna, y
+la adquisiciÃ³n de botulismo infantil, y la severidad resultante de su enfermedad, podrÃ­a reflejar
+diferencias en la disponibilidad de nichos ecolÃ³gicos adecuados en la flora intestinal para el
+<i>C. botulinum</i>, diferencias en la disponibilidad de los factores inmunolÃ³gicos (como lactoferrin
+e IgA secretorio) contenidos en la leche humana pero no en la leche de fÃ³rmula<sup>9</sup>, u otras
+diferencias aÃºn no identificadas.
 <br /><br />
-La miel es el único depósito de las esporas de <i>C. botulinum</i> en la dieta que hasta ahora ha sido
+La miel es el Ãºnico depÃ³sito de las esporas de <i>C. botulinum</i> en la dieta que hasta ahora ha sido
 asociado definitivamente al botulismo infantil, tanto por las pruebas de laboratorio como por la
-evidencia epidemiológica. <sup>5, 6, 7, 10, 11, 13, 18, 22, 24</sup>. Hasta el día de hoy, se conocen 35 casos en todo
+evidencia epidemiolÃ³gica. <sup>5, 6, 7, 10, 11, 13, 18, 22, 24</sup>. Hasta el dÃ­a de hoy, se conocen 35 casos en todo
 el mundo en donde las esporas de <i>C. botulinum</i> han sido encontradas en la miel misma dada a
-un bebé infectado antes del inicio de la enfermedad. En cada caso, el tipo de toxina (A o B) de
-las esporas en la miel correspondieron al tipo de toxina (A o B) del <i>C. botulinum</i> que causó la
-enfermedad del bebé; la probabilidad de que esta concordancia perfecta ocurriera por casualidad
+un bebÃ© infectado antes del inicio de la enfermedad. En cada caso, el tipo de toxina (A o B) de
+las esporas en la miel correspondieron al tipo de toxina (A o B) del <i>C. botulinum</i> que causÃ³ la
+enfermedad del bebÃ©; la probabilidad de que esta concordancia perfecta ocurriera por casualidad
 es menos de 1 en 10 mil millones. Las esporas de <i>C. botulinum</i> han sido encontradas en miel
-de los Estados Unidos, Argentina, Australia, Canadá, China (también Taiwán), Dinamarca,
-Finlandia, Italia, Noruega, España, Japón y América Central<sup>6, 7, 10, 11, 13, 17, 18, 20, 22, 24</sup>, pero no
-en miel del Reino Unido8. Por estas razones y porque la miel no es esencial en la nutrición, la
-mayoría de las agencias de pediatría, de salud pública y de la industria de la miel en los Estados
-Unidos se han unido en la recomendación de que la miel no se dé a los niños. En el 2000, varias
+de los Estados Unidos, Argentina, Australia, CanadÃ¡, China (tambiÃ©n TaiwÃ¡n), Dinamarca,
+Finlandia, Italia, Noruega, EspaÃ±a, JapÃ³n y AmÃ©rica Central<sup>6, 7, 10, 11, 13, 17, 18, 20, 22, 24</sup>, pero no
+en miel del Reino Unido8. Por estas razones y porque la miel no es esencial en la nutriciÃ³n, la
+mayorÃ­a de las agencias de pediatrÃ­a, de salud pÃºblica y de la industria de la miel en los Estados
+Unidos se han unido en la recomendaciÃ³n de que la miel no se dÃ© a los niÃ±os. En el 2000, varias
 marcas de miel vendida en los Estados Unidos comenzaron a poner una advertencia de no dar
-miel a los bebés; una etiqueta equivalente apareció por primera vez en la miel inglesa en 1996.
+miel a los bebÃ©s; una etiqueta equivalente apareciÃ³ por primera vez en la miel inglesa en 1996.
 <br /><br />
-La discusión del posible papel del jarabe de maíz en el botulismo infantil se hizo necesaria
-por dos informes. En 1982, la Administración de Drogas y Alimentos de los Estados Unidos
-(FDA) encontró tipos de esporas B de <i>C. botulinum</i> en aproximadamente 0.5 por ciento (5
-de 961) de muestras previamente sin abrir de jarabe de maíz claro y oscuro13; el fabricante
-entonces hizo cambios en el proceso producción. En 1989, los CDC reportaron un estudio
-epidemiológico de 2 años de casos de los Estados Unidos en todos los estados excepto
-California23. Al poner a los pacientes en subgrupos por edad y al usar técnicas de modelo de
-regresión logística, los investigadores pudieron obtener una asociación estadística entre la tríada
-de la exposición al jarabe de maíz, la leche materna y una edad de 2 meses o más al inicio<sup>21, 23</sup>.
+La discusiÃ³n del posible papel del jarabe de maÃ­z en el botulismo infantil se hizo necesaria
+por dos informes. En 1982, la AdministraciÃ³n de Drogas y Alimentos de los Estados Unidos
+(FDA) encontrÃ³ tipos de esporas B de <i>C. botulinum</i> en aproximadamente 0.5 por ciento (5
+de 961) de muestras previamente sin abrir de jarabe de maÃ­z claro y oscuro13; el fabricante
+entonces hizo cambios en el proceso producciÃ³n. En 1989, los CDC reportaron un estudio
+epidemiolÃ³gico de 2 aÃ±os de casos de los Estados Unidos en todos los estados excepto
+California23. Al poner a los pacientes en subgrupos por edad y al usar tÃ©cnicas de modelo de
+regresiÃ³n logÃ­stica, los investigadores pudieron obtener una asociaciÃ³n estadÃ­stica entre la trÃ­ada
+de la exposiciÃ³n al jarabe de maÃ­z, la leche materna y una edad de 2 meses o mÃ¡s al inicio<sup>21, 23</sup>.
 <br /><br />
-En contraste con estos informes, una encuesta canadiense de 1998 no encontró esporas de C.
-botulinum en 43 muestras de jarabe de maíz 10. Una encuesta de mercado del FDA en 1991 de
-738 muestras de jarabe (354 de las cuales eran de jarabe de maíz claro y 271 eran de jarabe de
-maíz oscuro) concluyó que ninguno contenía esporas de <i>C. botulinum</i><sup>14</sup>. Además, un estudio
-epidemiológico de 1979 que simplemente comparaba índices de exposición al jarabe de maíz en
-41 casos y 107 bebés bajo control, identificó el comer jarabe de maíz como un factor de protección
-significativo contra la adquisición del tipo A de botulismo infantil <sup>6</sup>. La explicación ofrecida para
-esta última observación era que si el padre o la madre escogían el jarabe de maíz como dulcificante
-para el niño, no era probable que la miel fuera dada al niño como un segundo dulcificante. Por
-lo tanto, en base a la evidencia disponible en el presente, el jarabe de maíz no parece ser una
-fuente de esporas de <i>C. botulinum</i> ni un factor de riesgo para la adquisición de botulismo infantil.
+En contraste con estos informes, una encuesta canadiense de 1998 no encontrÃ³ esporas de C.
+botulinum en 43 muestras de jarabe de maÃ­z 10. Una encuesta de mercado del FDA en 1991 de
+738 muestras de jarabe (354 de las cuales eran de jarabe de maÃ­z claro y 271 eran de jarabe de
+maÃ­z oscuro) concluyÃ³ que ninguno contenÃ­a esporas de <i>C. botulinum</i><sup>14</sup>. AdemÃ¡s, un estudio
+epidemiolÃ³gico de 1979 que simplemente comparaba Ã­ndices de exposiciÃ³n al jarabe de maÃ­z en
+41 casos y 107 bebÃ©s bajo control, identificÃ³ el comer jarabe de maÃ­z como un factor de protecciÃ³n
+significativo contra la adquisiciÃ³n del tipo A de botulismo infantil <sup>6</sup>. La explicaciÃ³n ofrecida para
+esta Ãºltima observaciÃ³n era que si el padre o la madre escogÃ­an el jarabe de maÃ­z como dulcificante
+para el niÃ±o, no era probable que la miel fuera dada al niÃ±o como un segundo dulcificante. Por
+lo tanto, en base a la evidencia disponible en el presente, el jarabe de maÃ­z no parece ser una
+fuente de esporas de <i>C. botulinum</i> ni un factor de riesgo para la adquisiciÃ³n de botulismo infantil.
 <br /><br />
-Merece enfatizarse que en la mayoría de los casos de botulismo infantil, ninguna fuente de
+Merece enfatizarse que en la mayorÃ­a de los casos de botulismo infantil, ninguna fuente de
 esporas de <i>C. botulinum</i> ha sido identificada, ni siquiera circunstancialmente. En estos casos,
 <br /><br />
-la enfermedad probablemente fue adquirida al ingerir esporas adheridas al polvo microscópico
+la enfermedad probablemente fue adquirida al ingerir esporas adheridas al polvo microscÃ³pico
 (invisible) transmitido por el aire.
 <br /><br />
 <span style="font-size:12px">
