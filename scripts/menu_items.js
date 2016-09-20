@@ -23,7 +23,7 @@ var SITE_ROOT = 'http://www.infantbotulism.org/';
 var MENU_ITEMS = [
 	['General Info', null, null,
 		['What is BabyBIG<sup>&reg;</sup>?',SITE_ROOT + 'general/babybig.php'],
-		['FAQs',SITE_ROOT + '+general/faq.php'],
+		['FAQs',SITE_ROOT + 'general/faq.php'],
 	],
 	['For Physicians', null, null,
 		['How to obtain BabyBIG<sup>&reg;</sup>',SITE_ROOT + 'physician/obtain.php'],
