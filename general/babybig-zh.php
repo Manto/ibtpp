@@ -10,14 +10,13 @@
 	<td class="main">
 <table cellpadding=0 cellspacing=0 border=0>
 	<tr><td valign=top><img style="margin: 15px 15px 15px 15;" src="../images/vial.jpg"></td><td>
-BabyBIG<sup>&reg;</sup>, Botulism Immune Globulin Intravenous (Human) (BIG-IV), is an orphan drug that consists of human-derived anti-botulism toxin antibodies that is approved by the U.S. Food and Drug Administration for the treatment of infant botulism types A and
-B.
+BabyBIG<sup>&reg;</sup>, 全称肉毒杆菌免疫球蛋白静脉注射，是一种含有人源抗肉毒杆菌毒素抗体的孤儿药 ，并且该药物已被美国食品与药物管理局批准允许用于A型和B型婴儿肉毒症的治疗。
 <br><br>
-The product is a solvent-detergent-treated, sterile, lyophilized powder of immunoglobulin G (IgG), stabilized with 5% sucrose and 1% albumin (human).  It contains no preservative.  The purified immunoglobulin is derived from pooled adult plasma from persons immunized with pentavalent botulinum toxoid who were selected for their high titers of neutralizing antibody against botulinum neurotoxins type A and B.  All donors were tested and found negative for antibodies against the human immunodeficiency virus and the hepatitis B and hepatitis C viruses.  The pooled plasma was fractionated by cold ethanol precipitation of the proteins according to the Cohn/Oncley method and modified to yield a product suitable for intravenous administration.
+该产品是一种经溶剂表面活性剂处理、无菌、冻干的免疫球蛋白G（IgG）粉末，并加以5%蔗糖和1%白蛋白（人源）作为稳定剂。它不含防腐剂。纯化的免疫球蛋白来源于多个成人的血浆，且捐献者都接受过五价肉毒杆菌类毒素接种而且体内产生高滴度的A型和B型肉毒神经毒素中和抗体。所有捐献者都经过检测并确定艾滋病毒、乙肝病毒和丙肝病毒抗体检测结果阴性。血浆的蛋白质经Cohn/ Oncley低温乙醇沉淀法分离，改性成为一种静脉给药产品。
 <br><br>
-To date, use of BabyBIG<sup>&reg;</sup> to treat more than 1,000 US infant botulism patients has resulted in more than 65 years of avoided hospital stay and more than $100 million of avoided hospital costs.
+至今，BabyBIG<sup>&reg;</sup>已被用来治疗超过1000例美国婴儿肉毒症患者并且已累计节约65年的住院时间以及1亿美元的住院费用。
 <br><br>
-For more information, please visit the following links:<br>
+更进一步的了解，可咨询下列链接：<br>
 <ul>
 <li><a href="http://www.fda.gov/BiologicsBloodVaccines/BloodBloodProducts/ApprovedProducts/LicensedProductsBLAs/FractionatedPlasmaProducts/ucm089339.htm" target="_blank">"FDA Approval"</a></li>
 <li>"Package Insert for BabyBIG<sup>&reg;</sup>": <a target="_blank" href="http://www.infantbotulism.org/BabyBIG Package Insert 2016_09.pdf">Package Insert for BabyBIG<sup>&reg;</sup></a></li>
