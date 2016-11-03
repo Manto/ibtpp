@@ -8,7 +8,7 @@ var MENU_POS = [
 {
 	// item sizes
 	'height': 20,
-	'width': 145,
+	'width': 135,
 	// menu block offset from the origin:
 	//	for root level origin is upper left corner of the page
 	//	for other levels origin is upper left corner of parent item
@@ -16,7 +16,7 @@ var MENU_POS = [
 	'block_left':0,
 	// offsets between items of the same level
 	'top': 0,
-	'left': 164,
+	'left': 135,
 	// time in milliseconds before menu is hidden after cursor has gone out
 	// of any items
 	'hide_delay': 200,
