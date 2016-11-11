@@ -3,14 +3,14 @@
 	else require("../scripts/template-start.php"); ?>
 	
   <td class="title" valign=top>
-		&nbsp;How to obtain BabyBIG<sup>&reg;</sup>
+		&nbsp;如何获得BabyBIG<sup>&reg;</sup>
    </td>
 	<td class="title" align=right>
 
 	<?php if ($_GET["printable"]!=1) { ?>
-	<a style="text-decoration: underline" target="_blank" href="IPA-Spr2016.pdf"><img src="http://www.infantbotulism.org/images/file.gif" border=0>Invoice and Purchase Agreement (IPA) in PDF File</a> <span style="font-size: 16px;">(Updated Apr 2016)</span><br>
+	<a style="text-decoration: underline" target="_blank" href="IPA-Spr2016.pdf"><img src="http://www.infantbotulism.org/images/file.gif" border=0>发票和购买协议 (IPA) PDF模式</a> <span style="font-size: 16px;">(更新于2016年4月)</span><br>
 <!--	<a style="text-decoration: underline" target="_blank" href="checklist.pdf"><img src="http://www.infantbotulism.org/images/file.gif" border=0>Checklist in PDF File</a><br>	-->
-	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="http://www.infantbotulism.org/images/file.gif" border=0>Printable Version of this Page</a><br>
+	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="http://www.infantbotulism.org/images/file.gif" border=0>打印页面</a><br>
 	</td>
 	<?php } ?>
 </tr>
@@ -32,7 +32,7 @@
 <br><br>
 
 <?php if ($_GET["printable"]!=1) { ?>
-	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="/ibtpp/images/file.gif" border=0>Printable Version of this Page</a>
+	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="/ibtpp/images/file.gif" border=0>打印页面</a>
 <!--	<a style="text-decoration: underline" target="_blank" href="checklist.pdf"><img src="http://www.infantbotulism.org/images/file.gif" border=0>Checklist in PDF File</a> <b style="color: #336699;">(REFERENCE ONLY)</b>-->
 <!--	<a style="text-decoration: underline" target="_blank" href="IPA.pdf"><img src="http://www.infantbotulism.org/images/file.gif" border=0>Invoice and Purchase Agreement (IPA) in PDF File</a>  <span style="font-size: 16px;">(Updated September 2007)</span>-->
 <?php } ?>

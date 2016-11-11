@@ -92,11 +92,11 @@ As always, thorough hand washing practices should be strictly adhered to, especi
 Although the bacterial spores that cause infant botulism are known to occasionally be present in honey, even if a mother was to eat botulism spores in honey, the spores are far too large to pass through her body and into breast milk.  Also, botulinum toxin does not pass into breast milk.  For this and other reasons, breast milk is not a source of the bacterial spores or the toxin that cause infant botulism.
 <br /><br />
 As stated in the patient management section of our website, breast milk constitutes optimal nutrition for infants, and mothers should be encouraged and supported in their efforts to continue breastfeeding through their infant’s illness and recovery. 
+<br /><br />
+For a more thorough discussion of breastfeeding and infant botulism, please refer to the Prevention section below.   
 </td>
 </tr>
 
-
-For a more thorough discussion of breastfeeding and infant botulism, please refer to the Prevention section below.   
 
 <tr><td colspan="2"><img src="http://www.infantbotulism.org/images/trans.gif" height=15></td></tr>
 <tr>
