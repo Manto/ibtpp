@@ -79,19 +79,19 @@ function getUrlVars() {
 
 if (getUrlVars().hasOwnProperty('cn')) {
   var new_menu = ['中文', null, null,
-    ['BabyBIG®是什么？', SITE_ROOT + 'general/babybig-zh.php'],
-    ['医生信息-如何获得BabyBIG®', SITE_ROOT + 'physician/obtain-zh.php'],
-    ['医生信息-临床诊断', SITE_ROOT + 'physician/clinical-zh.php'],
-    ['医生信息-病人管理', SITE_ROOT + 'physician/patient-zh.php'],
-    ['医生信息-实验室诊断', SITE_ROOT + 'physician/laboratory-zh.php'],
-    ['肉毒梭状芽孢杆菌的微生物学', SITE_ROOT + 'laboratorian/microbiology-zh.php'],
-    ['药师信息- BabyBIG® 使用指南', SITE_ROOT + 'pharmacist/instruction-zh.php'],
-    ['家长信息-预防措施', SITE_ROOT + 'parent/prevention-zh.php'],
-    ['家长信息-何时避免食用蜂蜜 ', SITE_ROOT + 'parent/honey-zh.php'],
-    ['家长信息-家长交流群', SITE_ROOT + 'general/parent-zh.php'],
-    ['国际求助', SITE_ROOT + 'contact/international-zh.php'],
-    ['常见问题解答', SITE_ROOT + 'general/faq-zh.php'],
-    ['联系我们', SITE_ROOT + 'contact/index-zh.php']
+    ['BabyBIG®是什么？', SITE_ROOT + 'general/babybig-zh.php?cn=1'],
+    ['医生信息-如何获得BabyBIG®', SITE_ROOT + 'physician/obtain-zh.php?cn=1'],
+    ['医生信息-临床诊断', SITE_ROOT + 'physician/clinical-zh.php?cn=1'],
+    ['医生信息-病人管理', SITE_ROOT + 'physician/patient-zh.php?cn=1'],
+    ['医生信息-实验室诊断', SITE_ROOT + 'physician/laboratory-zh.php?cn=1'],
+    ['肉毒梭状芽孢杆菌的微生物学', SITE_ROOT + 'laboratorian/microbiology-zh.php?cn=1'],
+    ['药师信息- BabyBIG® 使用指南', SITE_ROOT + 'pharmacist/instruction-zh.php?cn=1'],
+    ['家长信息-预防措施', SITE_ROOT + 'parent/prevention-zh.php?cn=1'],
+    ['家长信息-何时避免食用蜂蜜 ', SITE_ROOT + 'parent/honey-zh.php?cn=1'],
+    ['家长信息-家长交流群', SITE_ROOT + 'general/parent-zh.php?cn=1'],
+    ['国际求助', SITE_ROOT + 'contact/international-zh.php?cn=1'],
+    ['常见问题解答', SITE_ROOT + 'general/faq-zh.php?cn=1'],
+    ['联系我们', SITE_ROOT + 'contact/index-zh.php?cn=1']
   ];
   MENU_ITEMS.splice(6, 0, new_menu);
 }
