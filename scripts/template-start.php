@@ -16,8 +16,8 @@
 </table>
 
 <script type="text/javascript" src="http://www.infantbotulism.org/scripts/menu.js?v=20160919"></script>
-<script type="text/javascript" src="http://www.infantbotulism.org/scripts/menu_items.js?v=20161105"></script>
-<script type="text/javascript" src="http://www.infantbotulism.org/scripts/menu_tpl2.js?v=20161105"></script>
+<script type="text/javascript" src="http://www.infantbotulism.org/scripts/menu_items.js?v=20161107"></script>
+<script type="text/javascript" src="http://www.infantbotulism.org/scripts/menu_tpl2.js?v=20161107"></script>
 <script type="text/javascript" >
 	<!--//
 	// each menu gets two parameters (see demo files)

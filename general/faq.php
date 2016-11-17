@@ -87,11 +87,11 @@ the likelihood that the honey-containing food product may contain viable <i>C. b
 <td>
 Yes, it is ok for a breastfeeding mother to eat honey.  Botulism is not transmitted by breast milk.   The Infant Botulism Treatment and Prevention Program recommends continuing breast feeding or the feeding of expressed breast milk during the illness and recovery from infant botulism.
 <br /><br />
-As always, thorough hand washing practices should be strictly adhered to, especially in households where honey is regularly consumed by family members and other caregivers.  Doing so will help prevent having honey on surfaces that may come into contact with the infant’s mouth.
+As always, thorough hand washing practices should be strictly adhered to, especially in households where honey is regularly consumed by family members and other caregivers.  Doing so will help prevent having honey on surfaces that may come into contact with the infant's mouth.
 <br /><br />
 Although the bacterial spores that cause infant botulism are known to occasionally be present in honey, even if a mother was to eat botulism spores in honey, the spores are far too large to pass through her body and into breast milk.  Also, botulinum toxin does not pass into breast milk.  For this and other reasons, breast milk is not a source of the bacterial spores or the toxin that cause infant botulism.
 <br /><br />
-As stated in the patient management section of our website, breast milk constitutes optimal nutrition for infants, and mothers should be encouraged and supported in their efforts to continue breastfeeding through their infant’s illness and recovery. 
+As stated in the patient management section of our website, breast milk constitutes optimal nutrition for infants, and mothers should be encouraged and supported in their efforts to continue breastfeeding through their infant's illness and recovery. 
 <br /><br />
 For a more thorough discussion of breastfeeding and infant botulism, please refer to the Prevention section below.   
 </td>
@@ -107,7 +107,7 @@ For a more thorough discussion of breastfeeding and infant botulism, please refe
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-a.gif" border=0></td>
 <td>
-Infant botulism is treated with meticulous supportive care with special attention to feeding and breathing needs. In the United States the orphan drug BabyBIG®  is also used to shorten hospital stay and reduce complications.
+Infant botulism is treated with meticulous supportive care with special attention to feeding and breathing needs. In the United States the orphan drug BabyBIG<sup>&reg;</sup>  is also used to shorten hospital stay and reduce complications.
 </td>
 </tr>
 
@@ -161,7 +161,7 @@ In the absence of serious hospital-acquired complications, no. The prognosis for
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-a.gif" border=0></td>
 <td>
-No. Infants treated with BabyBIG<sup>&reg;</sup> will have a protective level of toxin-neutralizing antibody for at least six months following administration of the medicine.  This feature allows sufficient time for elimination of <i>C. botulinum</i>, which has temporarily colonized the infant’s intestine causing disease.
+No. Infants treated with BabyBIG<sup>&reg;</sup> will have a protective level of toxin-neutralizing antibody for at least six months following administration of the medicine.  This feature allows sufficient time for elimination of <i>C. botulinum</i>, which has temporarily colonized the infant's intestine causing disease.
 <br /><br />
 Since the disease of infant botulism was first recognized more than 35 years ago, there have been no instances of an infant acquiring the disease more than once. During this time more than 3700 cases of infant botulism are known to have occurred worldwide.
 <br /><br />
@@ -185,7 +185,7 @@ However, a few reports of "relapsing" infant botulism have been published during
 <tr><td colspan="2"><img src="http://www.infantbotulism.org/images/trans.gif" height=15></td></tr>
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-q.gif" border=0></td>
-<td>How should I handle my baby’s diapers as he/she recovers from botulism?</td>
+<td>How should I handle my baby's diapers as he/she recovers from botulism?</td>
 </tr>
 
 <tr>
@@ -203,7 +203,7 @@ that other children do not come into contact with fecal material from a leaky di
 contact the patient has with other infants and children during this time should be supervised by an adult.
 <br /><br />
 <i>C. botulinum</i> is not part of the patient's normal flora (normal, healthy bacteria that live in our
-bodies) and will eventually stop being excreted in the infant’s feces.
+bodies) and will eventually stop being excreted in the infant's feces.
 </td>
 </tr>
 
