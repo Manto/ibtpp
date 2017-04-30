@@ -130,7 +130,7 @@ sección que trata con prevención.
 
 <tr>
 <td valign="top"><img src="http://www.infantbotulism.org/images/qa-a.gif" border=0></td>
-<tdEl botulismo infantil es tratado con cuidado y apoyo meticuloso prestando atención especial a las
+<td>El botulismo infantil es tratado con cuidado y apoyo meticuloso prestando atención especial a las
 necesidades de alimentación y respiración del bebé. En los Estados Unidos la medicina huérfana
 BabyBig<sup>&reg;</sup> también es usada para reducir complicaciones y la estancia en el hospital.
 </td>
@@ -212,8 +212,8 @@ sentido del humor y terquedad con las cuales nacieron.
 por lo menos seis meses despues de la administración de la medicina. Esta característica da
 suficiente tiempo para la eliminación de <i>C. botulinum</i>, que a colonizado temporariamente
 el intestino del bebé causando la enfermedad. La enfermedad del botulismo infantil primero
-fue reconocida hace más de 35 años atras y no han habido casos de un bebé que adquiere la
-enfermedad más de una vez. Durante este tiempo más de 3700 casos de botulismo infantil se
+fue reconocida hace más de 40 años atras y no han habido casos de un bebé que adquiere la
+enfermedad más de una vez. Durante este tiempo más de 4400 casos de botulismo infantil se
 saben haber ocurrido por todo el mundo. Sin embargo, han habido algunos informes sobre bebés
 que recaien y adquieren botulismo infantil nuevemente que han sido publicados durante este
 tiempo. Revisión cuidadosa de estos informes por los doctores de nuestro programa demuestran
