@@ -19,7 +19,7 @@
   Format description can be found in product documentation.
 */
 
-var SITE_ROOT = 'http://www.infantbotulism.org/';
+var SITE_ROOT = '/';
 var MENU_ITEMS = [
 	['General Info', null, null,
 		['What is BabyBIG<sup>&reg;</sup>?',SITE_ROOT + 'general/babybig.php'],

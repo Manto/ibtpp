@@ -242,7 +242,7 @@ function menu_item (o_parent, n_order) {
                 '<a id="e' + o_root.n_id + '_'
                       + this.n_id +'o" class="' + this.getstyle(0, 0) + '" href="' + this.a_config[1] + '"'
                         + (this.a_config[2] && this.a_config[2]['tw'] ? ' target="'
-                        + this.a_config[2]['tw'] + '"' : '') + ' style="position: absolute; top: '
+                        + this.a_config[2]['tw'] + '"' : '') + ' style="position: fixed; top: '
                         + this.n_y + 'px; left: ' + this.n_x + 'px; width: '
                         + this.getprop('width') + 'px; height: '
                         + this.getprop('height') + 'px; visibility: hidden;'

@@ -8,7 +8,7 @@
 
 	<td class="title" align=right>
 	<?php if ($_GET["printable"]!=1) { ?>
-	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="http://www.infantbotulism.org/images/file.gif" border=0>打印页面</a>
+	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="/images/file.gif" border=0>打印页面</a>
 	<?php } ?>
 	</td>
 
@@ -52,7 +52,7 @@ function showDIV (DIV) {
 就如婴儿肉毒症患者都有一些相同的典型症状，染病期间的症状改变也是有规律的。住院病人通常在数天之间随着病情加深，症状会变得更加明显并且病人会越来越虚弱（尤其表现为吸允吞咽困难和呼吸困难）。没有接受BabyBIG<sup>&reg;</sup> 药物治疗的患者将会表现的更加虚弱，且当住院后1-2周病情最恶劣的时候，患者可能需要2-3周以后才会开始好转。病情开始好转后，则会需要数周的时间缓慢恢复。没有使用BabyBIG<sup>&reg;</sup> 的患者住院平均时长为5.7周，而使用BabyBIG<sup>&reg;</sup> 的患者住院平均时长为2.3周，且整体的力量、肢体动作等都会恢复的更迅速。
 <br /><br />
 婴儿肉毒症极少有复发的情况，但是若复发，需要立即提醒医生提供额外营养和呼吸帮助，并检查有没有出现并发症。当患者基本康复并且已经可以通过嘴巴正常喂食（或当家长允许灌胃喂养）时，病人可以选择出院。此阶段，虽然婴儿可能还无法完全控制头部且可能还有便秘，家长可以放心这些都属于正常状况且婴儿不久后就能完全康复。
-<p><a href="#top"><img src="http://www.infantbotulism.org/images/backtotop.gif" border="0" align="right" /></a></p>
+<p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
 </div>
 
 
@@ -68,7 +68,7 @@ function showDIV (DIV) {
 用布束从婴儿的腿之间穿过，固定在与病人的腰部水平的床垫上，防止病人在床上滑动。在臀部下面放置一个坐垫作为阻碍物也有相同的作用。
 <br><br>
 大约一半的婴儿肉毒症患者，不管是否接受BabyBIG<sup>&reg;</sup> 治疗，都因为无法保护气管或呼吸功能不全需要机械通气来帮助呼吸。尽管一些没有使用BabyBIG<sup>&reg;</sup> 治疗的婴儿肉毒症患者可能连续数周都要用气管插管，但是极少数患者需要接受气管改造（加利福尼亚州超过700例没有使用BabyBIG® 的病例中，只有1%的患者需要）。
-<p><a href="#top"><img src="http://www.infantbotulism.org/images/backtotop.gif" border="0" align="right" /></a></p>
+<p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
 </div>
  
 
@@ -76,7 +76,7 @@ function showDIV (DIV) {
 <a name="content3"></a>
 <p><span class="emphasis1">营养</span><br></p>
 充足的营养是十分重要的。虽然婴儿肉毒症患者肠道蠕动缓慢，应尽早提供肠内喂养这种耐受性良好、吸收良好的替代法。（似乎小肠受肉毒杆菌毒素的麻痹效果影响相对较小。）此外，肠内喂养有助于肠道蠕动的恢复。排便恢复有助于消除大肠内的肉毒杆菌毒素和肉毒杆菌细菌生物。最后，肠内喂养可以避免因为长期静脉注射感染的风险。通过鼻胃或空肠营养管输送挤出的母乳含有最丰富的营养，所以鼓励母乳喂养的母亲对此的支持。
-<p><a href="#top"><img src="http://www.infantbotulism.org/images/backtotop.gif" border="0" align="right" /></a></p>
+<p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
 </div>
  
 
@@ -95,7 +95,7 @@ function showDIV (DIV) {
 
 严重的婴儿肉毒症患者（多数是使用呼吸机的患者）可能出现膀胱收缩乏力的症状并且会有更大的风险出现尿路感染（尤其是女性患者）。尿潴留患者，通常可是轻轻按压膀胱就可以将其排空。这最好由两人同时完成：其中一人扶住婴儿并帮助支撑他的头部，另一人用双手（一只手扶住骶骨）按压膀胱。因为感染的风险，不推荐使用导尿管或经常间歇性插管介入。
 
-<p><a href="#top"><img src="http://www.infantbotulism.org/images/backtotop.gif" border="0" align="right" /></a></p>
+<p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
 </div>
  
 
@@ -104,7 +104,7 @@ function showDIV (DIV) {
 <p><span class="emphasis1">抗生素</span></p>
 抗生素对婴儿肉毒症的治疗没有效果。此外，值得关注的是，没有使用BabyBIG<sup>&reg;</sup> 治疗的患者中，有抗梭菌类抗生素反而可能会增加大肠中的游离毒素量，导致病情恶化。抗生素只用于婴儿肉毒症患者继发感染的治疗。在这些情况下，对于没有使用BabyBIG<sup>&reg;</sup> 治疗的患者，建议使用不含有抗梭菌的抗生素，如甲氧苄啶或磺胺甲恶唑（如复方新诺明）。如果可能，应避免使用氨基糖苷类，因为它会增强A型肉毒杆菌毒素与神经肌肉连接处的结合。然而，由于BabyBIG® 能够中和任何抗生素造成的有害物质，使用BabyBIG<sup>&reg;</sup> 治疗的患者则可以随意使用任何（非氨基糖苷类）抗生素来治疗继发感染。
 
-<p><a href="#top"><img src="http://www.infantbotulism.org/images/backtotop.gif" border="0" align="right" /></a></p>
+<p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
 </div>
  
 
@@ -116,7 +116,7 @@ function showDIV (DIV) {
 <br><br>
 最后，病人是否真的病情恶化是最重要的。婴儿肉毒症的特点是无法做出重复的肌肉活动，所以一个婴儿在一天的检查结束后或持续的活动后（例如物理治疗）可能看上去像病情出现恶化。在这种情况下，给病人提供一段休息时间后再检查有助于确认情况。
 
-<p><a href="#top"><img src="http://www.infantbotulism.org/images/backtotop.gif" border="0" align="right" /></a></p>
+<p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
 </div>
  
 
@@ -147,7 +147,7 @@ function showDIV (DIV) {
 <li>输血反应</li>
 <li>尿路感染</li>
 </ul>
-<p><a href="#top"><img src="http://www.infantbotulism.org/images/backtotop.gif" border="0" align="right" /></a></p>
+<p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
 </div>
  
 
@@ -156,7 +156,7 @@ function showDIV (DIV) {
 <p><span class="emphasis1">婴儿发展提醒</span></p>
 肉毒杆菌毒素是不会影响婴儿肉毒症患者的中枢神经系统。患者的感官仍然完整，听觉和触觉等都是完好的。因此，工作人员和家庭成员的陪伴来提供听觉，触觉，甚至视觉的刺激对婴儿的发展仍然十分重要。尽管婴儿肉毒症会导致病人的知觉动作发展“暂停”，家长可以放心，在无并发症的情况下，婴儿康复后会随着时间的推移，彻底追赶上健康婴儿的水准。肉毒杆菌毒素是不会影响到大脑的，所以婴儿肉毒症患者的智力、运动能力、音乐能力、幽默感和脾性等都不会受到影响。
 
-<p><a href="#top"><img src="http://www.infantbotulism.org/images/backtotop.gif" border="0" align="right" /></a></p>
+<p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
 </div>
  
 
@@ -166,7 +166,7 @@ function showDIV (DIV) {
 
 婴儿肉毒症患者的大便中有肉毒杆菌毒素和肉毒杆菌生物。因此，患病婴儿的尿布应放在隔离的容器中。所有与婴儿有接触的医护人员都应勤洗手，以此防止其他病原菌造成的继发感染和肉毒杆菌的传播。手上有划伤之类的开口的人与处理患者的脏尿布时应佩戴手套。生物混在大便中被排出的状况可能持续长达三个月（罕见的情况下，甚至更长）；因此，在这段时间内应尽量避免患者与其他的婴儿的接触（如共享婴儿床和玩具）。
 
-<p><a href="#top"><img src="http://www.infantbotulism.org/images/backtotop.gif" border="0" align="right" /></a></p>
+<p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
 </div>
 
 <div id="content10" class="contentblock">
@@ -190,7 +190,7 @@ function showDIV (DIV) {
 
 </p>
 
-<p><a href="#top"><img src="http://www.infantbotulism.org/images/backtotop.gif" border="0" align="right" /></a></p>
+<p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
 </div>
 
 <div id="content11" class="contentblock">
@@ -198,7 +198,7 @@ function showDIV (DIV) {
 <p><span class="emphasis1">患者家属</span></p>
 婴儿肉毒症的患者父母通常会非常焦虑，因为疾病的很多方面都难以理解并且孩子日常的改善几乎察觉不到。因此，很重要的一点是提醒父母，孩子在没有并发症的情况下，是可以保证完全康复的。有些家长认为将病情记入一个日记是很有帮助的，因为当对比一个星期前后孩子的症状，病情的改善会变得明显很多。如果父母希望，不管是孩子住院期间或康复之后，婴儿肉毒症防治中心（IBTPP）可以提供其他康复的患病婴儿父母的名字与联系方式，以便互相交流提供鼓励与安慰。请向父母询问是否希望得到这项服务，并及时联系婴儿肉毒症防治中心。
 
-<p><a href="#top"><img src="http://www.infantbotulism.org/images/backtotop.gif" border="0" align="right" /></a></p>
+<p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
 </div>
 
 <br><br><br>
@@ -211,7 +211,7 @@ function showDIV (DIV) {
 
 
 	<?php if ($_GET["printable"]!=1) { ?>
-	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="http://www.infantbotulism.org/images/file.gif" border=0>打印页面</a>
+	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="/images/file.gif" border=0>打印页面</a>
 	<?php } ?>
 		</td>
 

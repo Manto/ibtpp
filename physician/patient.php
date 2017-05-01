@@ -8,7 +8,7 @@
 
 	<td class="title" align=right>
 	<?php if ($_GET["printable"]!=1) { ?>
-	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="http://www.infantbotulism.org/images/file.gif" border=0>Printable Version of this Page</a>
+	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="/images/file.gif" border=0>Printable Version of this Page</a>
 	<?php } ?>
 	</td>
 
@@ -35,7 +35,7 @@ function showDIV (DIV) {
 <a href="patient.php#content3">Nutrition</a> |
 <a href="patient.php#content4">Bowel and Bladder Management </a> |
 <a href="patient.php#content5">Antibiotics</a> |
-<a href="patient.php#content6">If The Patient Isn’t Improving... </a> |
+<a href="patient.php#content6">If The Patient Isnï¿½t Improving... </a> |
 <a href="patient.php#content7">Observed Complications of Infant Botulism</a> |
 <a href="patient.php#content8">Developmental Reminder</a> |
 <a href="patient.php#content9">Infection Control Issues</a> |
@@ -50,7 +50,7 @@ function showDIV (DIV) {
 <span class="emphasis1">Course of Infant Botulism</span></p>
 Just as infant botulism has a characteristic presentation, so too the course of the disease has some generally predictable features. Hospitalized patients usually have acute to subacute onset of symptoms over several days, with progression of weakness (usually manifesting as feeding or breathing difficulties) that finally necessitates hospital admission. In patients not treated with BabyBIG<sup>&reg;</sup> whose weakness continues to advance, the low point is generally reached within 1-2 weeks after admission. Patients may remain at this stage for as long as 2-3 weeks before showing improvement. Once improvement begins, it continues, albeit slowly, over the subsequent weeks. Average hospital stay for non-BabyBIG<sup>&reg;</sup>-treated patients is approximately 5.7 weeks.  In contrast, patients treated with BabyBIG<sup>&reg;</sup> have an average hospital stay of approximately 2.3 weeks, and their recovery of strength, tone and movement occurs more rapidly.<br><br>
 Infant botulism does not usually have a relapsing course, and regression in a patient who has been gradually improving should immediately alert the physician to suspect additional complications or inadequate nutritional or respiratory support. The patient may be discharged when the patient has shown steady recovery and is able to feed p.o. (or when the parents are comfortable with gavage feeding). Although head-lag and constipation may still be pronounced at this point, the parents may be reassured that these are expected and that over time, full recovery will occur.
-<p><a href="#top"><img src="http://www.infantbotulism.org/images/backtotop.gif" border="0" align="right" /></a></p>
+<p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
 </div>
 
 
@@ -62,7 +62,7 @@ Two simple positioning measures are helpful and are recommended for reducing the
 <br><br>
 A cloth harness which passes between the legs of the infant and is anchored to the mattress on either side of the patient at waist level may be used to prevent the patient from sliding downward on the bed. Alternatively, a cloth bumper placed below the buttocks may provide the same support.<br><br>
 Approximately one-half of all patients with infant botulism, whether or not they are treated with BabyBIG<sup>&reg;</sup>, will require mechanical ventilatory support because of inability to protect their airway and/or respiratory insufficiency. Although some non-BabyBIG<sup>&reg;</sup>-treated infant botulism patients may require prolonged intubation that lasts several weeks, tracheostomy is rarely necessary  (less than 1% of California's over 700 non-BabyBIG<sup>&reg;</sup>-treated cases ever needed one).
-<p><a href="#top"><img src="http://www.infantbotulism.org/images/backtotop.gif" border="0" align="right" /></a></p>
+<p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
 </div>
  
 
@@ -70,7 +70,7 @@ Approximately one-half of all patients with infant botulism, whether or not they
 <a name="content3"></a>
 <p><span class="emphasis1">Nutrition</span><br></p>
 Adequate nutrition is of great importance. Although gut motility is slow in these patients, enteral feedings are generally well-tolerated and well-absorbed and should be instituted as soon as possible. (There seems to be a relative sparing of the small intestine from the paralytic effects of the botulinum toxin.) In addition, enteral feedings may have the added benefit of helping restore bowel movements. Resumption of defecation is desirable because it helps eliminate botulinum toxin and botulism organisms from the large bowel. Finally, enteral feeding obviates the need for a long-term, in-dwelling intravenous line with its attendant risk of infection. Expressed breast milk given by NG or NJ feeding tubes constitutes optimal nutrition, and breastfeeding mothers should be encouraged and supported in this effort.
-<p><a href="#top"><img src="http://www.infantbotulism.org/images/backtotop.gif" border="0" align="right" /></a></p>
+<p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
 </div>
  
 
@@ -86,7 +86,7 @@ Patients with infant botulism may be at increased risk of <i>Clostridium diffici
 2. Bladder<br>
 
 Bladder atony may be present in infant botulism patients with severe disease (usually ventilator dependent) and increases the risk of urinary tract infection, especially in females. In patients with urinary retention, gentle manual pressure on the bladder (the Cred&eacute; method) will usually suffice to empty it. This is best accomplished as a two-person maneuver, in which one person sits the infant up and supports his/her head, while the other person uses two hands (one over the sacrum) to compress the bladder. In-dwelling catheters or frequent intermittent catheterizations are not recommended because of the risk of infection.
-<p><a href="#top"><img src="http://www.infantbotulism.org/images/backtotop.gif" border="0" align="right" /></a></p>
+<p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
 </div>
  
 
@@ -94,7 +94,7 @@ Bladder atony may be present in infant botulism patients with severe disease (us
 <a name="content5"></a>
 <p><span class="emphasis1">Antibiotics </span></p>
 Antibiotics are not efficacious in the treatment of infant botulism. Furthermore, there is concern that in non-BabyBIG<sup>&reg;</sup>-treated patients, administration of antibiotics with clostridiocidal activity may increase the amount of free toxin in the large bowel and actually worsen the patient's clinical status. Antibiotic use in infant botulism patients is indicated only for the treatment of secondary infections. In these instances, in non-BabyBIG<sup>&reg;</sup>-treated patients, the use of a non-clostridiocidal antibiotic, such as trimethoprim/sulfamethoxazole (Bactrim<sup>&reg;</sup>, Septra<sup>&reg;</sup>) is preferred. If possible, aminoglycosides should be avoided because they appear to potentiate the action of botulinum toxin at the neuromuscular junction. However, once a patient has been treated with BabyBIG<sup>&reg;</sup>, any (non-aminoglycoside) antibiotic may be used to treat a secondary infection because BabyBIG<sup>&reg;</sup> will neutralize any toxemia that might result from its use.
-<p><a href="#top"><img src="http://www.infantbotulism.org/images/backtotop.gif" border="0" align="right" /></a></p>
+<p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
 </div>
  
 
@@ -104,7 +104,7 @@ Antibiotics are not efficacious in the treatment of infant botulism. Furthermore
 As discussed earlier, the pattern of recovery in infant botulism is that of gradual improvement in muscle function. This gradual recovery may be difficult to discern during daily observation. However, a patient who has made gains and then falters should prompt the physician to reverse premature weaning of respiratory and nutritional support and to search for possible complications. Infection is the most frequent complication (see Table 2), affecting in descending order of frequency the middle ears, lungs, urinary tract and intestinal tract. Bacteremia may also occur from in-dwelling venous lines. Other potential causes of clinical deterioration include anemia, hyponatremia (iatrogenic or akin to inappropriate ADH secretion), pneumothorax and inadvertent intubation of a mainstem bronchus. Medication orders should be reviewed regularly. Sedatives or other drugs that may cause CNS depression as a side effect, such as metoclopramide, are relatively contraindicated, and alternatives to their use should be sought when possible.
 <br><br>
 Finally, it should be asked whether or not the patient is truly deteriorating. The hallmark of infant botulism is fatigability with repetitive muscle activity, so that an infant examined at the end of the day or after sustained activity (a physical therapy session, for example) may appear to have deteriorated. In such instances, reassessing the patient after a rest period may help clarify the situation.
-<p><a href="#top"><img src="http://www.infantbotulism.org/images/backtotop.gif" border="0" align="right" /></a></p>
+<p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
 </div>
  
 
@@ -134,7 +134,7 @@ Finally, it should be asked whether or not the patient is truly deteriorating. T
 <li>Transfusion reaction </li>
 <li>Urinary tract infection </li>
 </ul>
-<p><a href="#top"><img src="http://www.infantbotulism.org/images/backtotop.gif" border="0" align="right" /></a></p>
+<p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
 </div>
  
 
@@ -142,7 +142,7 @@ Finally, it should be asked whether or not the patient is truly deteriorating. T
 <a name="content8"></a>
 <p><span class="emphasis1">A Developmental Reminder </span></p>
 It is important to remember that botulinum toxin is not known to affect the CNS of infant botulism patients. Sensation remains intact. Patients are able to hear and to feel normally; thus, staff and family who provide auditory, tactile and even visual stimuli remain important to normal development. Although infant botulism causes a "time-out" period in the motor development of affected patients, parents may be reassured that in uncomplicated cases, a full "catch-up" in motor milestones will occur over time. Botulinum toxin does not penetrate into the brain, and so infant botulism patients retain all the intelligence, athletic ability, musical ability, sense of humor and orneriness with which they were born.
-<p><a href="#top"><img src="http://www.infantbotulism.org/images/backtotop.gif" border="0" align="right" /></a></p>
+<p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
 </div>
  
 
@@ -167,7 +167,7 @@ contact between these babies and other infants (e.g., sharing crib and toys) sho
 
 such excretion may be continuing.
 
-<p><a href="#top"><img src="http://www.infantbotulism.org/images/backtotop.gif" border="0" align="right" /></a></p>
+<p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
 </div>
 
 <div id="content10" class="contentblock">
@@ -187,27 +187,27 @@ The live-virus vaccine for rotavirus, RotaTeq<sup>&reg;</sup> and Rotatrix<sup>&
 Accordingly, any of the recommended doses of the rotavirus vaccine (RotaTeq<sup>&reg;</sup> or Rotarix<sup>&reg;</sup>) that were not given to the infant before treatment with BabyBIG<sup>&reg;</sup> should be delayed. Because the other live-virus vaccines (i.e., measles, mumps, rubella and varicella) are normally first given at one year of age, only those infant botulism patients who were 7 months of age or older when they were treated with BabyBIG<sup>&reg;</sup> will need delayed immunization with these vaccines.
 </p>
 
-<p><a href="#top"><img src="http://www.infantbotulism.org/images/backtotop.gif" border="0" align="right" /></a></p>
+<p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
 </div>
 
 <div id="content11" class="contentblock">
 <a name="content11"></a>
 <p><span class="emphasis1">The Parents </span></p>
 Infant botulism can be a very frustrating illness for parents---difficult to understand and with daily improvement almost imperceptible. Accordingly, it is important to reassure the parents that in the absence of complications, full and complete recovery is the expected outcome. Some parents find that keeping a daily journal is helpful, so that improvement not apparent from one day to the next may become evident when looking back over a week or more. If the parents wish, the Infant Botulism Treatment and Prevention Program (IBTPP) will provide them with the names and telephone numbers of other parents whose children suffered this disease, in order to provide the parents with peer support both during and after the hospitalization.  Please ask the parents if they would like this service and promptly let the IBTPP know if they do.
-<p><a href="#top"><img src="http://www.infantbotulism.org/images/backtotop.gif" border="0" align="right" /></a></p>
+<p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
 </div>
 
 <br><br><br>
 <span class="emphasis2">References:</span>
 <br><br>
-1) <a href="../readings/c-difficile.pdf">Schechter R, Peterson B, McGee J, Idowu O, Bradley J.: Clostridium difficile colitis associated with infant botulism: near-fatal case analogous to Hirschsprung’s enterocolitis. Clinical Infectious Diseases. 29:367-74, 1999</a>.  
+1) <a href="../readings/c-difficile.pdf">Schechter R, Peterson B, McGee J, Idowu O, Bradley J.: Clostridium difficile colitis associated with infant botulism: near-fatal case analogous to Hirschsprungï¿½s enterocolitis. Clinical Infectious Diseases. 29:367-74, 1999</a>.  
 <br>
 2) <a href="../readings/clostridium-butyricum.pdf">Fenicia L, Da Dalt L, Anniballi F, Franciosa G, Zanconato S, Aureli P.:  A Case of infant botulism due to neurotoxigenic Clostridium butyricum type E associated with Clostridium difficile colitis.  Eur J Clin Microbiol Infect Dis. 21:736-738, 2002</a>.
 <br><br>
 
 
 	<?php if ($_GET["printable"]!=1) { ?>
-	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="http://www.infantbotulism.org/images/file.gif" border=0>Printable Version of this Page</a>
+	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="/images/file.gif" border=0>Printable Version of this Page</a>
 	<?php } ?>
 		</td>
 

@@ -8,7 +8,7 @@
 
 	<td class="title" align=right>
 	<?php if ($_GET["printable"]!=1) { ?>
-	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="http://www.infantbotulism.org/images/file.gif" border=0>Printable Version of this Page</a>
+	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="/images/file.gif" border=0>Printable Version of this Page</a>
 	<?php } ?>
 	</td>
 	
@@ -35,7 +35,7 @@
   engorgement because the baby&#146;s suck is weak. The infant has become lethargic and
   listless. Respiratory effort may become shallow and rapid, and the cry is feeble. Drooling
   may become more noticeable, which is sometimes attributed to teething rather than to dysphagia.</font>
-  <br><br><a href="#top"><img src="http://www.infantbotulism.org/images/backtotop.gif" border="0" align="right" /></a></p>
+  <br><br><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
   <blockquote>
     <blockquote>
       <p><font face="Arial">&nbsp;</font></p>
@@ -60,7 +60,7 @@
   of infant botulism may be subtle and easily overlooked. Cranial nerve palsies and the
   fatigability of muscular function must be elicited by careful examination. Table 1 below
   describes physical examination techniques which have proved helpful in evaluating these
-  infants. </font>  <br><br><a href="#top"><img src="http://www.infantbotulism.org/images/backtotop.gif" border="0" align="right" /></a><br><br></p>
+  infants. </font>  <br><br><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a><br><br></p>
 
 <blockquote>
   <p><span style="font-family: arial; font-size: 16px; font-weight: none;"><a
@@ -84,10 +84,10 @@
 </blockquote>
 
 <p><font face="Arial">Source: Arnon SS. Infant botulism. pp. 1758-1766 in Feigin RD, Cherry JD, Demmler GJ, Kaplan SL, eds. <i>Textbook of Pediatric Infectious Diseases, Fifth Edition</i>. WB Saunders, Philadelphia, 2004.</font></p>
-<p><a href="#top"><img src="http://www.infantbotulism.org/images/backtotop.gif" border="0" align="right" /></a></p>
+<p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
 
 	<?php if ($_GET["printable"]!=1) { ?>
-	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="http://www.infantbotulism.org/images/file.gif" border=0>Printable Version of this Page</a>
+	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="/images/file.gif" border=0>Printable Version of this Page</a>
 	<?php } ?>
 		</td>
 

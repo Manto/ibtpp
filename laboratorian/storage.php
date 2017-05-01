@@ -14,7 +14,7 @@
 All fecal specimens (stool or enema) collected for infant botulism testing require refrigeration only.  Do not freeze them.
 
 	<br><br>
-	<a href="submission.php"><img src="http://www.infantbotulism.org/images/next.gif" border=0 style="vertical-align: middle;"> [Specimen Submission]</a>
+	<a href="submission.php"><img src="/images/next.gif" border=0 style="vertical-align: middle;"> [Specimen Submission]</a>
 
 	</td>
 

@@ -27,7 +27,7 @@
         <li>In addition to paying the statutorily required fee to CDPH for BabyBIG<sup>&reg;</sup>, the receiving hospital will also have to pay for the shipment of BabyBIG<sup>&reg;</sup> via an expedited courier service and for any customs charges.</li>
         <li>Before BabyBIG<sup>&reg;</sup> is released for shipment, IBTPP must receive
             <ol>
-                <li> the signed Invoice and Purchase Agreement (IPA) document, which is available here, <a target="_blank" href="http://www.infantbotulism.org/physician/IPA-International-Spr2016.pdf">International Invoice and Purchase Agreement</a>.
+                <li> the signed Invoice and Purchase Agreement (IPA) document, which is available here, <a target="_blank" href="/physician/IPA-International-Spr2016.pdf">International Invoice and Purchase Agreement</a>.
                 <li> medical records submitted either electronically or by fax that include documentation of the patient's weight, and (to repeat)
                 <li> the import permit authorization letter from the requesting country's Medicines Regulatory Agency.  </li>
             </ol>

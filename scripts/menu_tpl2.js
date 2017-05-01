@@ -12,7 +12,7 @@ var MENU_POS = [
 	// menu block offset from the origin:
 	//	for root level origin is upper left corner of the page
 	//	for other levels origin is upper left corner of parent item
-	'block_top': 0,
+	'block_top': 81,
 	'block_left':0,
 	// offsets between items of the same level
 	'top': 0,

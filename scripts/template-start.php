@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<?php $homedir="../"; ?>
-    <link rel=stylesheet type="text/css" href="http://www.infantbotulism.org/scripts/common.css" title="common">
+    <link rel=stylesheet type="text/css" href="/scripts/common.css" title="common">
 	<title>Welcome to the Infant Botulism Treatment and Prevention Program</title>
 </head>
 
@@ -21,14 +21,18 @@
 
 </script>
 
-<table cellpadding=0 cellspacing=0 border=0 style="width: 100%;">
-<tr><td style="height: 22px; background: #EDC863;"><img src="http://www.infantbotulism.org/images/menubg.gif" height=22 width=200></td></tr>
-<tr><td style="height: 4px;"><img src="http://www.infantbotulism.org/images/white.gif" height=2 width=200></td></tr>
-</table>
+<div class="page-header">
+	<div class="header-logo">
+		<img src="/images/menubg.png" />
+	</div>
+	<img src="/images/white.gif" style="width: 100%; height: 2px;" />
+	<img src="/images/menubg.gif" style="width: 100%; height: 24px;" />
+	<img src="/images/white.gif" style="width: 100%; height: 2px;" />
+</div>
 
-<script type="text/javascript" src="http://www.infantbotulism.org/scripts/menu.js?v=20160919"></script>
-<script type="text/javascript" src="http://www.infantbotulism.org/scripts/menu_items.js?v=20161107"></script>
-<script type="text/javascript" src="http://www.infantbotulism.org/scripts/menu_tpl2.js?v=20161107"></script>
+<script type="text/javascript" src="/scripts/menu.js?v=20160919"></script>
+<script type="text/javascript" src="/scripts/menu_items.js?v=20161107"></script>
+<script type="text/javascript" src="/scripts/menu_tpl2.js?v=20161107"></script>
 <script type="text/javascript" >
 	<!--//
 	// each menu gets two parameters (see demo files)
@@ -39,5 +43,6 @@
 	//-->
 </script>
 
-<table cellpadding=0 cellspacing=0 border=0 style="width: 100%;">
+
+<table cellpadding=0 cellspacing=0 border=0 class="page-content">
 <tr>

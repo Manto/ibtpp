@@ -46,7 +46,7 @@ The specimen required for the definitive diagnosis of infant botulism is stool o
 Please retain all subsequent stool specimens and have your laboratory store them in their refrigerator until a diagnosis has been established by the appropriate laboratory. Please do not send <b><i><u>extra</u></i></b> stool specimens unless requested. For California only - please contact 510-231-7676 with any questions regarding specimen collection, storage or submission requirements. For all other states, please contact your state health department. Thank you.
 
 <br><br>
-	<a href="storage.php"><img src="http://www.infantbotulism.org/images/next.gif" border=0 style="vertical-align: middle;"> [Specimen Storage]</a>
+	<a href="storage.php"><img src="/images/next.gif" border=0 style="vertical-align: middle;"> [Specimen Storage]</a>
 
 	</td>
 

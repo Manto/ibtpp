@@ -1,12 +1,51 @@
-<html>
-<meta name="description"
-content="Infant Botulism Treatment and Prevention Program">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="keywords"
-content="Infant Botulism, Botulism, BabyBIG, IBTPP">
-<frameset rows="79,*,60">
-   <frame frameborder=0 noresize="noresize" scrolling="no" name="top" src="scripts/frame-top.php">
-   <frame frameborder=0 noresize="noresize" scrolling="auto" name="main" src="home.php">
-   <frame frameborder=0 noresize="noresize" scrolling="no" src="scripts/frame-bottom.php">
-</frameset><noframes></noframes>
-</html>
+<?php require("scripts/template-start.php"); ?>
+
+
+<?php
+
+$myFile = "contact/emergency";
+$fh = fopen($myFile, 'r');
+$theData = fgets($fh);
+fclose($fh);
+
+if (strlen($theData) > 3)
+{
+	echo <<<EOT
+	<tr><td colspan="3" style="color: #ffffff; background-color: #cc0000; font-size: 18px; padding: 10px; text-align: center;">
+{$theData}
+</td></tr>
+EOT;
+}
+?>
+
+
+<tr>
+   <td rowspan=2 style="width: 178px; " valign=top>
+	<img src="images/lindseyk2.jpg" style="margin: 0px 0px 2px 0px;">
+   </td>
+   <td style="background: #A8BFE6;" align="center">
+	<img src="images/template-mission.gif"><br>
+   </td>
+   <td rowspan=2 style="width: 186px; text-align: center; font-size: 12px;" valign=top>
+     <img src="images/frontpage1.png" style="margin: 0px 0px 0px 0px;" width=186><br />
+     Avi T., now a healthy and happy child, was treated for infant botulism in 2006
+     <img src="images/frontpage2.png" style="margin: 0px 0px 0px 0px;" width=186 border=0><br />
+     Brandon M. holding a memento of his treatment with BabyBIG<sup>&reg;</sup>
+   </td>
+</tr>
+   <td valign=top>
+
+<p style="margin: 10px 25px 20px 25px; font-family: garamond; font-size: 19px; text-align: left;">
+Infant botulism is an orphan (&quot;rare&quot;) disease that affects infants primarily under 1 year of age. First recognized in 1976, infant botulism occurs globally and is the most common form of human botulism in the United States. 
+<br /><br />
+Infant botulism is a novel form of human botulism in which ingested spores of the bacterium <i>Clostridium botulinum</i> colonize and grow in the infant's large intestine and produce botulinum neurotoxin in it. The action of the toxin in the body produces constipation, weakness (notably of gag, cry, suck and swallow), loss of muscle tone, and ultimately, flaccid (&quot;limp&quot;) paralysis. Affected infants have difficulty feeding and often, breathing. However, in the absence of complications, patients recover completely from the disease.
+</p>
+
+<ul>
+<li style="font-family: garamond; font-size: 20px;">For more information about how to obtain BabyBIG<sup>&reg;</sup>, please <a style="font-family: garamond; font-size: 20px;" href="/physician/obtain.php">click here</a></li>
+<li style="font-family: garamond; font-size: 20px;">For more information on infant botulism diagnostic testing, please <a style="font-family: garamond; font-size: 20px;" href="/laboratorian/laboratory.php">click here</a></li>
+<li style="font-family: garamond; font-size: 20px;">See links at the top of the page for additional resources and information</li>
+</ul>
+   </td>
+
+<?php require("scripts/template-end.php"); ?>

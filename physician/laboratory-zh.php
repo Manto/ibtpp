@@ -8,7 +8,7 @@
 
 	<td class="title" align=right>
 	<?php if ($_GET["printable"]!=1) { ?>
-	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="http://www.infantbotulism.org/images/file.gif" border=0>打印页面</a>
+	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="/images/file.gif" border=0>打印页面</a>
 	<?php } ?>
 	</td>
 
@@ -28,14 +28,14 @@
 
 <br /><br />
 
-加利福尼亚的卫生保健提供者，点击<a href="http://www.infantbotulism.org/physician/physician_instruction.pdf">这里</a>这里下载打印实验室寄送操作指南，并将其与大便样本一同运送至医院的实验室。
+加利福尼亚的卫生保健提供者，点击<a href="/physician/physician_instruction.pdf">这里</a>这里下载打印实验室寄送操作指南，并将其与大便样本一同运送至医院的实验室。
 
 <br /><br />
 
-有关标本采集的详细信息，请参考我们的网页中给实验室科学家的标本采集页面: <a href="http://www.infantbotulism.org/laboratorian/collection.php">http://www.infantbotulism.org/laboratorian/collection.php</a>.
+有关标本采集的详细信息，请参考我们的网页中给实验室科学家的标本采集页面: <a href="/laboratorian/collection.php">/laboratorian/collection.php</a>.
 <br><br>
 	<?php if ($_GET["printable"]!=1) { ?>
-	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="http://www.infantbotulism.org/images/file.gif" border=0>打印页面</a>
+	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="/images/file.gif" border=0>打印页面</a>
 	<?php } ?>
 		</td>
 

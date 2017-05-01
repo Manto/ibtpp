@@ -1,4 +1,4 @@
-<?php if ($_GET["printable"]==1)
+<?php if (isset($_GET["printable"]))
 	require("../scripts/template-start-printable.php");
 	else require("../scripts/template-start.php"); ?>
 	
@@ -7,8 +7,8 @@
    </td>
 
 	<td class="title" align=right>
-	<?php if ($_GET["printable"]!=1) { ?>
-	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="http://www.infantbotulism.org/images/file.gif" border=0>Printable Version of this Page</a>
+	<?php if (!isset($_GET["printable"])) { ?>
+	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="/images/file.gif" border=0>Printable Version of this Page</a>
 	<?php } ?>
 	</td>
 
@@ -37,12 +37,12 @@ lab send-out instructions sheet to forward with the stool specimen to
 your hospital laboratory.
 <br />
 <br>
-	<?php if ($_GET["printable"]!=1) { ?>
-	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="http://www.infantbotulism.org/images/file.gif" border=0>Printable Version of this Page</a>
+	<?php if (!isset($_GET["printable"])) { ?>
+	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="/images/file.gif" border=0>Printable Version of this Page</a>
 	<?php } ?>
 		</td>
 
 
-<?php if ($_GET["printable"]==1)
+<?php if (isset($_GET["printable"]))
 	require("../scripts/template-end-printable.php");
 	else require("../scripts/template-end.php"); ?>
