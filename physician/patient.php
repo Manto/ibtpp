@@ -2,7 +2,7 @@
 	require("../scripts/template-start-printable.php");
 	else require("../scripts/template-start.php"); ?>
 	
-   <a name="top"></a>
+   <a style="position: relative; top: -50px;" name="top"></a>
    <td class="title" valign=top>
 		&nbsp;Patient Management
    </td>
