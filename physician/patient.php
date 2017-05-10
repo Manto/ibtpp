@@ -3,7 +3,7 @@
 	else require("../scripts/template-start.php"); ?>
 	
    <td class="title" valign=top>
-	   <a style="position: relative; top: -50px;" name="top"></a>
+	   <a style="position: absolute; top: 0;" name="top"></a>
 		&nbsp;Patient Management
    </td>
 
