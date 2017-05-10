@@ -128,7 +128,7 @@ Finally, it should be asked whether or not the patient is truly deteriorating. T
 <li>Respiratory arrest</li>
 <li>Seizures secondary to hyponatremia </li>
 <li>Sepsis </li>
-<li>Subglottid stenosis</li>
+<li>Subglottic stenosis</li>
 <li>Pneumothorax, including tension pneumothorax </li>
 <li>Tracheal stenosis </li>
 <li>Tracheal granuloma </li>
