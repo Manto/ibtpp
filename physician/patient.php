@@ -2,6 +2,7 @@
 	require("../scripts/template-start-printable.php");
 	else require("../scripts/template-start.php"); ?>
 	
+   <a name="top"></a>
    <td class="title" valign=top>
 		&nbsp;Patient Management
    </td>
@@ -29,13 +30,12 @@ function showDIV (DIV) {
   lastDIV = DIV;
 }
 </script>
-<a name="top"></a>
 <a href="patient.php#content1">Course of Infant Botulism</a> |
 <a href="patient.php#content2">Airway/Respiration</a> |
 <a href="patient.php#content3">Nutrition</a> |
 <a href="patient.php#content4">Bowel and Bladder Management </a> |
 <a href="patient.php#content5">Antibiotics</a> |
-<a href="patient.php#content6">If The Patient Isn�t Improving... </a> |
+<a href="patient.php#content6">If The Patient Isn't Improving... </a> |
 <a href="patient.php#content7">Observed Complications of Infant Botulism</a> |
 <a href="patient.php#content8">Developmental Reminder</a> |
 <a href="patient.php#content9">Infection Control Issues</a> |
@@ -200,7 +200,7 @@ Infant botulism can be a very frustrating illness for parents---difficult to und
 <br><br><br>
 <span class="emphasis2">References:</span>
 <br><br>
-1) <a href="../readings/c-difficile.pdf">Schechter R, Peterson B, McGee J, Idowu O, Bradley J.: Clostridium difficile colitis associated with infant botulism: near-fatal case analogous to Hirschsprung�s enterocolitis. Clinical Infectious Diseases. 29:367-74, 1999</a>.  
+1) <a href="../readings/c-difficile.pdf">Schechter R, Peterson B, McGee J, Idowu O, Bradley J.: Clostridium difficile colitis associated with infant botulism: near-fatal case analogous to Hirschsprung's enterocolitis. Clinical Infectious Diseases. 29:367-74, 1999</a>.  
 <br>
 2) <a href="../readings/clostridium-butyricum.pdf">Fenicia L, Da Dalt L, Anniballi F, Franciosa G, Zanconato S, Aureli P.:  A Case of infant botulism due to neurotoxigenic Clostridium butyricum type E associated with Clostridium difficile colitis.  Eur J Clin Microbiol Infect Dis. 21:736-738, 2002</a>.
 <br><br>
