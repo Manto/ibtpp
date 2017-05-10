@@ -117,6 +117,7 @@ Finally, it should be asked whether or not the patient is truly deteriorating. T
 <li>Anemia </li>
 <li>Aspiration </li>
 <li>Bacteremia </li>
+<li>Blood pressure instability</li>
 <li><i>C. difficile</i> colitis, including toxic megacolon </li>
 <li>Fracture of the femur (nosocomial) </li>
 <li>Inappropriate ADH secretion </li>
@@ -124,8 +125,10 @@ Finally, it should be asked whether or not the patient is truly deteriorating. T
 <li>Otitis media </li>
 <li>Pneumonia </li>
 <li>Recurrent atelectasis </li>
+<li>Respiratory arrest</li>
 <li>Seizures secondary to hyponatremia </li>
 <li>Sepsis </li>
+<li>Subglottid stenosis</li>
 <li>Pneumothorax, including tension pneumothorax </li>
 <li>Tracheal stenosis </li>
 <li>Tracheal granuloma </li>

@@ -3,6 +3,7 @@
 	else require("../scripts/template-start.php"); ?>
 	
    <td class="title" valign=top>
+	   <a style="position: absolute; top: 0;" name="top"></a>
 		&nbsp;Patient Management
    </td>
 
@@ -30,7 +31,6 @@ function showDIV (DIV) {
 }
 </script>
 
-<a name="top"></a>
 <a href="#content1">婴儿肉毒症期间</a> |
 <a href="#content2">气管与呼吸</a> |
 <a href="#content3">营养</a> |

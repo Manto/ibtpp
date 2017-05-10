@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<?php $homedir="../"; ?>
-    <link rel=stylesheet type="text/css" href="/scripts/common.css?v=20170510" title="common">
+    <link rel=stylesheet type="text/css" href="/scripts/common.css?v=20170510a" title="common">
 	<title>Welcome to the Infant Botulism Treatment and Prevention Program</title>
 </head>
 
