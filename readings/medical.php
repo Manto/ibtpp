@@ -34,7 +34,7 @@
 <span class="emphasis1">Official State of California Department of Public Health website</span><br>
 	<ul>
 	<li>For more information about infant botulism, BabyBIG<sup>&reg;</sup> and our Program, you may also visit our webpage on the official State of California, Department of Public Health website:<br>
-	<a class="readinglink" target="_blank" href="http://www.cdph.ca.gov/programs/ibtpp/Pages/default.aspx">http://www.cdph.ca.gov/programs/ibtpp/Pages/default.aspx</a></li>
+	<a class="readinglink" target="_blank" href="https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/InfantBotulism.aspx">https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/InfantBotulism.aspx</a></li>
 	</ul>
 </p>
 
