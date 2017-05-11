@@ -130,6 +130,7 @@ function showDIV (DIV) {
 <li>贫血症</li>
 <li>肺吸入</li>
 <li>菌血症</li>
+<li>血压不稳</li>
 <li>艰难梭菌结肠炎，包括中毒性巨结肠</li>
 <li>股骨骨折（医院内）</li>
 <li>抗利尿激素分泌失调</li>
@@ -137,8 +138,10 @@ function showDIV (DIV) {
 <li>中耳炎</li>
 <li>肺炎</li>
 <li>反复性肺不张</li>
+<li>呼吸骤停</li>
 <li>继发性低钠血症</li>
 <li>败血症</li>
+<li>声门下喉狭窄</li>
 <li>气胸，包括张力性气胸</li>
 <li>气管狭窄</li>
 <li>气管肉芽肿</li>
