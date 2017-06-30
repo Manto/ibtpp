@@ -15,7 +15,9 @@ Stool or enema specimens from California inpatients or outpatients with suspecte
 Testing will not be initiated without prior clinical consultation with the IBTPP on-call physician.
 </b></span>
 
-For all other states, please contact your local public health agency for specimen submission instructions.
+<br /><br />
+
+<b>For all other states, please contact your local public health agency for specimen submission instructions.</b>
 
 <ol>
 <li>Keep the specimen <b>refrigerated</b> at all times. <u>Do not freeze</u>.</li>
