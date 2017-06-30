@@ -86,6 +86,12 @@ div.contentblock {
   visibility: visible;
 }
 
+div.header-small {
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
 div.header {
   font-family: Helvetica, sans-serif;
   font-size: 24px;
@@ -123,6 +129,9 @@ td.contentbody {
   color: #000000;
 }
 
+.red-text {
+  color: #cc0000;
+}
 
 
 td.priceheader {

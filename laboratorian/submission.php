@@ -15,15 +15,16 @@ Stool or enema specimens from California inpatients or outpatients with suspecte
 Testing will not be initiated without prior clinical consultation with the IBTPP on-call physician.
 </b></span>
 
-For all other states, please contact your state public health agency for specimen submission instructions. 
+For all other states, please contact your local public health agency for specimen submission instructions.
 
 <ol>
 <li>Keep the specimen <b>refrigerated</b> at all times. <u>Do not freeze</u>.</li>
 <li>Tightly seal cap on collection container. Package the primary container of stool or enema in a secondary, leak-proof container; e.g., a zip-top specimen bag.</li>
-<li>Place your laboratory’s own test requisition form (no CDPH forms required) in a separate bag pouch or second bag.</li>
+<li>1.	Place the <b>Infant Botulism Diagnostic Testing Specimen Submission Form</b> in a separate bag pouch or second bag. <a style="text-decoration:underline" href="IBTPP Diagnostic Testing Submittal Form_June2017.pdf" target="_blank">Click here</a> to access the PDF-fillable form.
+</li>
 <li>Follow IATA regulations and package the specimen in a styrofoam box with one or more cold-packs. <u>Do not use dry-ice</u>. Label box with a <b>UN 3373</b>, "Biological Substance Category B" label.</li>
 <li>Send specimens directly to the California Department of Public Health (California patients only). <u>Do not send through your local county public health laboratory as this will delay testing</u>.  See address below.</li>
-<li>Expedite specimen shipment by using a local courier for same day delivery before 2 PM, or by using a major courier service for "priority overnight" delivery. Packages should be shipped for overnight delivery <b>Monday through Thursday</b> only. The Infant Botulism Laboratory does not accept deliveries on Saturday or Sunday.</li>
+<li><u>Do not delay shipping.</u> Expedite specimen shipment by using a local courier for same day delivery before 2 PM, or by using a major courier service for "priority overnight" delivery. Packages should be shipped for overnight delivery <b>Monday through Thursday</b> only. The Infant Botulism Laboratory does not accept deliveries on Saturday or Sunday.</li>
 
 </ol>
 
