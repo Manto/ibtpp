@@ -20,7 +20,7 @@ BabyBIG<sup>&reg;</sup>, 全称肉毒杆菌免疫球蛋白静脉注射，是一�
 <ul>
 <li><a href="http://www.fda.gov/BiologicsBloodVaccines/BloodBloodProducts/ApprovedProducts/LicensedProductsBLAs/FractionatedPlasmaProducts/ucm089339.htm" target="_blank">"FDA Approval"</a></li>
 <li>"Package Insert for BabyBIG<sup>&reg;</sup>": <a target="_blank" href="/BabyBIG Package Insert 2016_09.pdf">Package Insert for BabyBIG<sup>&reg;</sup></a></li>
-<li><a href="http://www.fda.gov/BiologicsBloodVaccines/BloodBloodProducts/ApprovedProducts/LicensedProductsBLAs/FractionatedPlasmaProducts/ucm117164.htm" target="_blank">"FDA Product Approval Letter"</a><br><br></li>
+<li><a href="http://wayback.archive-it.org/7993/20170723024128/https:/www.fda.gov/BiologicsBloodVaccines/BloodBloodProducts/ApprovedProducts/LicensedProductsBLAs/FractionatedPlasmaProducts/ucm117164.htm" target="_blank">"FDA Product Approval Letter"</a><br><br></li>
 </ul>
 </td></tr></table>
 	</td>
