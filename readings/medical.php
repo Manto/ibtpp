@@ -18,8 +18,10 @@
 <span class="emphasis1">Journal Articles</span><br>
 	<ul>
 	<li><a class="readinglink" target="_blank" href="nejm-big.pdf">Human Botulism Immune Globulin for the Treatment of Infant Botulism</a></li>
+        <li><a class="readinglink" target="_blank" href="Payne_2018_Efficacy of BIG-IV 12 years post-licensure.pdf">Efficacy of Human Botulism Immune Globulin for the Treatment of Infant Botulism: The First 12 Years Post Licensure</a></li>
 	<li><a class="readinglink" target="_blank" href="Peds_Creatn_Devlpmt_BIG_IV_apr07.pdf">Creation and Development of the Public Service Orphan Drug Human Botulism Immune Globulin</a></li>
 	<li><a class="readinglink" target="_blank" href="Peds_Clin_Mims_of_IB_apr07.pdf">Clinical Mimics of Infant Botulism</a></li>
+        <li><a class="readinglink" target="_blank" href="Khouri_2018_More clinical mimics of infant botulism.pdf">More Clinical Mimics of Infant Botulism</a></li>
 	<li><a class="readinglink" target="_blank" href="../physician/Hurst_and_Marsh.pdf">Early Severe Infantile Botulism</a></li>
 	<li><a class="readinglink" target="_blank" href="../physician/Mitchell_and_Tseng_Ong.pdf">Catastrophic Presentation of Infant Botulism May Obscure or Delay Diagnosis</a></li>
 	<li><a class="readinglink" target="_blank" href="../physician/journal_of_clinical_biology_excerpt.pdf">Infant Botulism Acquired from Household Dust Presenting as Sudden Infant Death Syndrome</a></li>

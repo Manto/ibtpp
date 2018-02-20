@@ -43,7 +43,7 @@ function showDIV (DIV) {
 <a href="patient.php#content11">The Parents </a>
 
 <div id="content1" class="contentblock">
-<a name="content1"></a>
+<a name="content1" class="anchor"></a>
 <p>
 <center><img src="images/figure1.jpg"></center>
 <p>
@@ -55,7 +55,7 @@ Infant botulism does not usually have a relapsing course, and regression in a pa
 
 
 <div id="content2" class="contentblock">
-<a name="content2"></a>
+<a name="content2" class="anchor"></a>
 <p><span class="emphasis1">Airway/Respiration</span></p>
 The descending paralysis of infant botulism compromises the pharyngeal musculature that maintains the patency of the airway. For this reason, all hospitalized patients with suspected infant botulism should be placed on a cardiorespiratory monitor and carefully observed for signs of airway obstruction. In addition, the gag reflex should be assessed (if the patient has not recently eaten), as a decreased gag reflex combined with dysphagia increases the risk of aspiration. Transcutaneous oxygen (O<sub>2</sub>) monitoring is desirable, but <b>transcutaneous carbon dioxide (pCO<sub>2</sub>) monitoring may provide the single-most sensitive index of clinical deterioration early in the illness</b>.  A steadily rising pCO<sub>2</sub> signals that the patient may soon need intubation, and usually also mechanical ventilation, because of weakening respiratory tract musculature.<br><br>
 Two simple positioning measures are helpful and are recommended for reducing the risk of aspiration and for improving the respiratory function of infant botulism patients: 1) a neck support (described below) and 2) a crib which does not bend the mattress to elevate the head of the bed. The crib, illustrated in <a target="_blank" href="images/figure1.jpg">Figure 1</a>, maintains the patient's body in one plane while elevating the head at a 30&deg; angle to the feet. Positioning the infant in this way facilitates good chest excursion and improves respiratory mechanics because gravity pulls the abdominal contents downward. Placing a small cloth roll behind the infant's neck (do not include the occiput or shoulders) also helps maintain the normal curvature of the neck, thus promoting airway patency by avoiding neck flexion onto the chest and by preventing pooling of secretions in the pharynx. These positioning measures are urged for all recipients of BabyBIG<sup>&reg;</sup> as part of standardizing supportive care. Their additional virtues are that they are immediately available and cost nothing.
@@ -67,7 +67,7 @@ Approximately one-half of all patients with infant botulism, whether or not they
  
 
 <div id="content3" class="contentblock">
-<a name="content3"></a>
+<a name="content3" class="anchor"></a>
 <p><span class="emphasis1">Nutrition</span><br></p>
 Adequate nutrition is of great importance. Although gut motility is slow in these patients, enteral feedings are generally well-tolerated and well-absorbed and should be instituted as soon as possible. (There seems to be a relative sparing of the small intestine from the paralytic effects of the botulinum toxin.) In addition, enteral feedings may have the added benefit of helping restore bowel movements. Resumption of defecation is desirable because it helps eliminate botulinum toxin and botulism organisms from the large bowel. Finally, enteral feeding obviates the need for a long-term, in-dwelling intravenous line with its attendant risk of infection. Expressed breast milk given by NG or NJ feeding tubes constitutes optimal nutrition, and breastfeeding mothers should be encouraged and supported in this effort.
 <p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
@@ -75,7 +75,7 @@ Adequate nutrition is of great importance. Although gut motility is slow in thes
  
 
 <div id="content4" class="contentblock">
-<a name="content4"></a>
+<a name="content4" class="anchor"></a>
 <p><span class="emphasis1">Bowel and Bladder Management </span></p>
 1. Bowel<br>
 
@@ -91,7 +91,7 @@ Bladder atony may be present in infant botulism patients with severe disease (us
  
 
 <div id="content5" class="contentblock">
-<a name="content5"></a>
+<a name="content5" class="anchor"></a>
 <p><span class="emphasis1">Antibiotics </span></p>
 Antibiotics are not efficacious in the treatment of infant botulism. Furthermore, there is concern that in non-BabyBIG<sup>&reg;</sup>-treated patients, administration of antibiotics with clostridiocidal activity may increase the amount of free toxin in the large bowel and actually worsen the patient's clinical status. Antibiotic use in infant botulism patients is indicated only for the treatment of secondary infections. In these instances, in non-BabyBIG<sup>&reg;</sup>-treated patients, the use of a non-clostridiocidal antibiotic, such as trimethoprim/sulfamethoxazole (Bactrim<sup>&reg;</sup>, Septra<sup>&reg;</sup>) is preferred. If possible, aminoglycosides should be avoided because they appear to potentiate the action of botulinum toxin at the neuromuscular junction. However, once a patient has been treated with BabyBIG<sup>&reg;</sup>, any (non-aminoglycoside) antibiotic may be used to treat a secondary infection because BabyBIG<sup>&reg;</sup> will neutralize any toxemia that might result from its use.
 <p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
@@ -99,7 +99,7 @@ Antibiotics are not efficacious in the treatment of infant botulism. Furthermore
  
 
 <div id="content6" class="contentblock">
-<a name="content6"></a>
+<a name="content6" class="anchor"></a>
 <p><span class="emphasis1">If The Patient Isn't Improving... </span></p>
 As discussed earlier, the pattern of recovery in infant botulism is that of gradual improvement in muscle function. This gradual recovery may be difficult to discern during daily observation. However, a patient who has made gains and then falters should prompt the physician to reverse premature weaning of respiratory and nutritional support and to search for possible complications. Infection is the most frequent complication (see Table 2), affecting in descending order of frequency the middle ears, lungs, urinary tract and intestinal tract. Bacteremia may also occur from in-dwelling venous lines. Other potential causes of clinical deterioration include anemia, hyponatremia (iatrogenic or akin to inappropriate ADH secretion), pneumothorax and inadvertent intubation of a mainstem bronchus. Medication orders should be reviewed regularly. Sedatives or other drugs that may cause CNS depression as a side effect, such as metoclopramide, are relatively contraindicated, and alternatives to their use should be sought when possible.
 <br><br>
@@ -109,7 +109,7 @@ Finally, it should be asked whether or not the patient is truly deteriorating. T
  
 
 <div id="content7" class="contentblock">
-<a name="content7"></a>
+<a name="content7" class="anchor"></a>
 <p><span class="emphasis1">Table 2. OBSERVED COMPLICATIONS OF INFANT BOTULISM</span></p>
 
 <ul>
@@ -142,7 +142,7 @@ Finally, it should be asked whether or not the patient is truly deteriorating. T
  
 
 <div id="content8" class="contentblock">
-<a name="content8"></a>
+<a name="content8" class="anchor"></a>
 <p><span class="emphasis1">A Developmental Reminder </span></p>
 It is important to remember that botulinum toxin is not known to affect the CNS of infant botulism patients. Sensation remains intact. Patients are able to hear and to feel normally; thus, staff and family who provide auditory, tactile and even visual stimuli remain important to normal development. Although infant botulism causes a "time-out" period in the motor development of affected patients, parents may be reassured that in uncomplicated cases, a full "catch-up" in motor milestones will occur over time. Botulinum toxin does not penetrate into the brain, and so infant botulism patients retain all the intelligence, athletic ability, musical ability, sense of humor and orneriness with which they were born.
 <p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
@@ -150,8 +150,16 @@ It is important to remember that botulinum toxin is not known to affect the CNS 
  
 
 <div id="content9" class="contentblock">
-<a name="content9"></a>
+<a name="content9" class="anchor"></a>
 <p><span class="emphasis1">Infection Control Issues </span></p>
+
+Title 17, California Code of Regulations (CCR) §2500, §2593, §2641.5-2643.20, and §2800-2812
+requires that healthcare providers report known or suspected cases of infant botulism to the
+jurisdiction in which the patient resides. <i>Please report any suspect infant botulism case to your local
+health jurisdiction through appropriate channels.</i>
+
+<br /><br/>
+
 Patients with infant botulism excrete both <i>Clostridium botulinum (C. botulinum)</i> toxin and organisms
 
 in their stools. Accordingly, diapers from these infants should be placed in biohazard containers.
@@ -174,7 +182,7 @@ such excretion may be continuing.
 </div>
 
 <div id="content10" class="contentblock">
-<a name="content10"></a>
+<a name="content10" class="anchor"></a>
 <p><span class="emphasis1">Vaccine Deferrals After Infant Botulism</span></p>
 
 <p>
@@ -194,7 +202,7 @@ Accordingly, any of the recommended doses of the rotavirus vaccine (RotaTeq<sup>
 </div>
 
 <div id="content11" class="contentblock">
-<a name="content11"></a>
+<a name="content11" class="anchor"></a>
 <p><span class="emphasis1">The Parents </span></p>
 Infant botulism can be a very frustrating illness for parents---difficult to understand and with daily improvement almost imperceptible. Accordingly, it is important to reassure the parents that in the absence of complications, full and complete recovery is the expected outcome. Some parents find that keeping a daily journal is helpful, so that improvement not apparent from one day to the next may become evident when looking back over a week or more. If the parents wish, the Infant Botulism Treatment and Prevention Program (IBTPP) will provide them with the names and telephone numbers of other parents whose children suffered this disease, in order to provide the parents with peer support both during and after the hospitalization.  Please ask the parents if they would like this service and promptly let the IBTPP know if they do.
 <p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>

@@ -49,6 +49,13 @@ Stool, enema or rectal wash specimens for diagnostic testing (serum not needed) 
 
 For instructions on submission of appropriate diagnostic specimens (e.g., stool/enema or rectal wash) please click <a href="/laboratorian/laboratory.php">here</a>.
 
+<br/><br />
+
+Title 17, California Code of Regulations (CCR) §2500, §2593, §2641.5-2643.20, and §2800-2812
+requires that healthcare providers report known or suspected cases of infant botulism to the
+jurisdiction in which the patient resides. <i>Please report any suspect infant botulism case to your local
+health jurisdiction through appropriate channels.</i>
+
 <!--
 California health care providers <a style="text-decoration:underline" href="/physician/physician_instruction.pdf" target="_blank">click here</a> to download the printable
 lab send-out instructions sheet to forward with the stool specimen to
