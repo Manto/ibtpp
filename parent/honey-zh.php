@@ -14,7 +14,7 @@
 <br><br>
 <a target="_blank" href="No_Honey_Brochure_English.pdf">No Honey brochure (English version)</a><br />
 <a target="_blank" href="SP_NoHny_Brochure.pdf">No Honey brochure (Spanish version)</a><br />
-<a target="_blank" href="VT_NoHny_Brochure.pdf">No Honey brochure (Vietnamese version)</a>
+<!-- <a target="_blank" href="VT_NoHny_Brochure.pdf">No Honey brochure (Vietnamese version)</a> -->
 	</td>
 
 <?php require("../scripts/template-end.php"); ?>
