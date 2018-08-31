@@ -170,27 +170,8 @@ BabyBIG<sup>&reg;</sup>?
 
 <tr>
 <td valign="top"><img src="/images/qa-a.gif" border=0></td>
-<td>El niño debería haber recuperado casi por completo o completamente la fuerza y el
-tono de los músculos antes de que comiencen las inmunizaciones de nuevo.
-Adicionalmente, las vacunas de virus vivos (por ejemplo: rotavirus, sarampión, paperas,
-rubéola y varicela) deben retrasarse hasta 5 meses después del tratamiento con
-BabyBIG<sup>&reg;</sup> porque los anticuerpos en BabyBIG<sup>&reg;</sup> podrían interferir con la eficacia de la
-vacuna.
-
-Debe retrasarse la administración de la vacuna de virus vivo para rotavirus (RotaTeq<sup>&reg;</sup> y
-Rotarix<sup>&reg;</sup> ) hasta que la función intestinal ha vuelto y se ha mantenido normal. Aunque
-estudios sugieren que la administración de los productos intravenosos de la
-inmunoglobina como BabyBIG<sup>&reg;</sup> no interfiere con la eficacia de las vacunas orales del
-rotavirus, los pacientes con botulismo infantil no deben recibir la vacuna del rotavirus
-debido a la movilidad intestinal retardada que resulta del botulismo infantil.
-
-Cualquiera de las dosis recomendadas de la vacuna contra el rotavirus (RotaTeq<sup>&reg;</sup> o
-Rotarix<sup>&reg;</sup> ) que no se haya aplicado al niño antes del tratamiento con BabyBIG<sup>&reg;</sup> se tendrá
-que retrasar. Las otras vacunas de virus vivos (por ejemplo: sarampión, paperas,
-rubéola y varicela) se aplican habitualmente por primera vez a la edad de un año; por lo
-tanto, sólo los pacientes con botulismo infantil, que tuvieran 7 meses de edad o más
-cuando se les trató con BabyBIG ® , tendrán que retrasar la inmunización con estas
-vacunas.
+<td>
+El niño debería haber recuperado casi por completo o completamente la fuerza y el tono de los músculos antes de que comiencen las inmunizaciones de nuevo. Adicionalmente, las vacunas de virus vivos (por ejemplo: rotavirus, sarampión, paperas, rubéola y varicela) deben retrasarse hasta 6 meses después del tratamiento con BabyBIG<sup>&reg;</sup> porque los anticuerpos en BabyBIG<sup>&reg;</sup> podrían interferir con la eficacia de la vacuna. Debe retrasarse la administración de la vacuna de virus vivo para rotavirus (RotaTeq® y Rotarix® ) hasta que la función intestinal ha vuelto y se ha mantenido normal. Aunque estudios sugieren que la administración de los productos intravenosos de la inmunoglobina como BabyBIG<sup>&reg;</sup> no interfiere con la eficacia de las vacunas orales del rotavirus, los pacientes con botulismo infantil no deben recibir la vacuna del rotavirus debido a la movilidad intestinal retardada que resulta del botulismo infantil. Cualquiera de las dosis recomendadas de la vacuna contra el rotavirus (RotaTeq<sup>&reg;</sup> o Rotarix<sup>&reg;</sup> ) que no se haya aplicado al niño antes del tratamiento con BabyBIG<sup>&reg;</sup> se tendrá que retrasar. Las otras vacunas de virus vivos (por ejemplo: sarampión, paperas, rubéola y varicela) se aplican habitualmente por primera vez a la edad de un año; por lo tanto, sólo los pacientes con botulismo infantil, que tuvieran 6 meses de edad o más cuando se les trató con BabyBIG<sup>&reg;</sup>, tendrán que retrasar la inmunización con estas vacunas.
 </td>
 </tr>
 
