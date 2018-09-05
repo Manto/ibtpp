@@ -20,7 +20,8 @@ The specimen required for the definitive diagnosis of infant botulism is stool o
 </b></u></span>
 
 <br /><br />
-
+Fecal specimens for infant botulism diagnostic testing can be collected before or after antitoxin administration. BabyBIG<sup>&reg;</sup> does not neutralize botulinum toxin present in the lumen of the intestine, nor does it kill or prevent the growth of <i>C. botulinum</i> or inhibit the formation of botulinum toxin in the infant’s large intestine.
+<br /><br />
 The best container in which to collect, store and submit fecal specimens is a sterile urine container with a tight, screw-capped lid. <b><u><i>Do not use</i></u></b> containers containing fixatives or preservatives. If spontaneously passed stool is difficult to obtain due to constipation, an attempt to collect stool in the rectal vault should be made by <b><i>gentle</i></b> digital examination. If no stool can be obtained digitally, do not wait for a spontaneous bowel movement. Instead, please follow the enema collection procedure outlined below.
 
 <br><br>

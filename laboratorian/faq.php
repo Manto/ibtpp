@@ -23,6 +23,18 @@
 
 <tr>
 <td valign="top"><img src="/images/qa-q.gif" border=0></td>
+<td>Can a fecal specimen for botulism testing be collected after BabyBIG<sup>&reg;</sup> (Botulism Immune Globulin Intravenous, BIG-IV) has been administered?</td>
+</tr>
+
+<tr>
+<td valign="top"><img src="/images/qa-a.gif" border=0></td>
+<td><b>Yes.</b> BabyBIG<sup>&reg;</sup> does not neutralize botulinum toxin present in the lumen of the intestine, nor does it kill or prevent the growth of <i>C. botulinum</i> or inhibit the formation of botulinum toxin in the infant's large intestine.  For these reasons, a diagnostic fecal specimen can be collected either before or after BabyBIG<sup>&reg;</sup> administration.<td>
+</tr>
+
+<tr><td colspan="2"><img src="/images/trans.gif" height=15></td></tr>
+
+<tr>
+<td valign="top"><img src="/images/qa-q.gif" border=0></td>
 <td>Do we need to store fecal specimens in a freezer prior to shipping or ship specimens on dry ice?</td>
 </tr>
 <tr>

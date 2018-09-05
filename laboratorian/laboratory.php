@@ -19,7 +19,8 @@ The disease infant botulism is first suspected based on clinical features of the
 <br /><br /> 
 The laboratory diagnosis of infant botulism is a two-part process. The first component is to perform a direct toxin analysis. This requires the extraction of toxin directly from the fecal specimen and the use of specialized techniques to identify and type the toxin. The second part is to culture the feces using specialized media and techniques in order to isolate <i>Clostridium botulinum</i>.
 <br /><br />
-
+Fecal specimens for infant botulism diagnostic testing can be collected before or after antitoxin administration. BabyBIG<sup>&reg;</sup> does not neutralize botulinum toxin present in the lumen of the intestine, nor does it kill or prevent the growth of <i>C. botulinum</i> or inhibit the formation of botulinum toxin in the infant’s large intestine.
+<br /><br />
 <ul>
 <li><a href="collection.php">[Specimen Collection]</a></li>
 <li><a href="storage.php">[Specimen Storage]</a></li>
