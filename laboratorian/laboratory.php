@@ -15,7 +15,7 @@
 </tr>
 <tr>
 	<td class="main" colspan=2>
-The disease infant botulism is first suspected based on clinical features of the infant patient (12 months of age or younger). Symptoms such as poor feeding, droopy eyelids, constipation and lethargy, together with hypotonia and loss of head control, prompt physicians to consider botulinum toxin as the causative agent. Accordingly, it is necessary for laboratory analysis to be performed without delay to establish the diagnosis. Prompt laboratory diagnosis of infant botulism is helpful for patient management and rules out the possibility of fatal degenerative neuromuscular diseases.
+The disease infant botulism is first suspected based on clinical features of the infant patient (12 months of age or younger). Symptoms such as poor feeding, droopy eyelids, constipation and lethargy, together with hypotonia and loss of head control, prompt physicians to consider botulinum toxin as the causative agent. Accordingly, it is necessary for laboratory analysis to be performed <u>without delay</u> to establish the diagnosis. Prompt laboratory diagnosis of infant botulism is necessary for patient management and rules out the possibility of fatal degenerative neuromuscular diseases.
 <br /><br /> 
 The laboratory diagnosis of infant botulism is a two-part process. The first component is to perform a direct toxin analysis. This requires the extraction of toxin directly from the fecal specimen and the use of specialized techniques to identify and type the toxin. The second part is to culture the feces using specialized media and techniques in order to isolate <i>Clostridium botulinum</i>.
 <br /><br />

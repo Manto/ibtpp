@@ -36,9 +36,9 @@ Click <a style="text-decoration: underline" target="_blank" href="checklist.pdf"
 <br><br>
 -->
 
-The decision to treat with BabyBIG<sup>&reg;</sup> should be based on clinical presentation and 
-findings and should <u>not</u> be delayed by waiting for results of laboratory 
-confirmatory testing.  Prompt treatment of infant botulism patients immediately 
+<u>The decision to treat with BabyBIG<sup>&reg;</sup> should be based on clinical presentation and findings and should not be delayed by waiting for results of laboratory confirmatory testing.</u>
+
+Prompt treatment of infant botulism patients immediately 
 ends their toxemia and enables motor nerve regeneration to begin.
 
 <!--
@@ -48,6 +48,10 @@ Stool, enema or rectal wash specimens for diagnostic testing (serum not needed) 
 <br><br>
 
 For instructions on submission of appropriate diagnostic specimens (e.g., stool/enema or rectal wash) please click <a href="/laboratorian/laboratory.php">here</a>.
+
+<br /><br />
+
+Although infants with suspected infant botulism may be constipated, it is prudent to collect a stool or enema specimen without delay and submit it to your state’s botulism diagnostic laboratory (which may be the CDC for some states.)
 
 <br/><br />
 

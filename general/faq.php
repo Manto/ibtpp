@@ -130,11 +130,17 @@ Infant botulism is treated with meticulous supportive care with special attentio
 
 <tr>
 <td valign="top"><img src="/images/qa-a.gif" border=0></td>
-<td>he infant should have good to full recovery of muscle strength and tone before immunizations resume. In addition, most live-virus vaccines (i.e., measles, mumps, rubella and varicella) will need to be delayed until 6 months after BabyBIG<sup>&reg;</sup> treatment because the antibodies in BabyBIG<sup>&reg;</sup> may interfere with the effectiveness of the vaccine.
+
+<td>The infant should have good to full recovery of muscle strength and tone before immunizations resume. In addition, most live-virus vaccines (i.e., measles, mumps, rubella and varicella) will need to be delayed until 6 months after BabyBIG<sup>&reg;</sup> treatment because the antibodies in BabyBIG<sup>&reg;</sup> may interfere with the effectiveness of the vaccine. 
+
 <br /><br />
-The live-virus vaccines for rotavirus, RotaTeq<sup>&reg;</sup> and Rotatrix<sup>&reg;</sup> should also be delayed until 6 months after BabyBIG<sup>&reg;</sup> treatment. Although current data suggest that administration of intravenous immunoglobulin products such as BabyBIG<sup>&reg;</sup> will not interfere with the efficacy of oral rotavirus vaccines, patients with infant botulism should not receive the rotavirus vaccine because of the slowed intestinal motility that results from infant botulism.
+
+The live-virus vaccines for rotavirus, RotaTeq<sup>&reg;</sup> and Rotatrix<sup>&reg;</sup> should also be delayed until sustained return of normal bowel function after BabyBIG<sup>&reg;</sup> treatment. Although current data suggest that administration of intravenous immunoglobulin products such as BabyBIG<sup>&reg;</sup> will not interfere with the efficacy of oral rotavirus vaccines, patients with infant botulism should not receive the rotavirus vaccine because of the slowed intestinal motility that results from infant botulism. 
+
 <br /><br />
-Accordingly, any of the recommended doses of the rotavirus vaccine (RotaTeq<sup>&reg;</sup> or Rotarix<sup>&reg;</sup>) that were not given to the infant before treatment with BabyBIG<sup>&reg;</sup> should be delayed. Because the other live-virus vaccines (i.e., measles, mumps, rubella and varicella) are normally first given at one year of age, only those infant botulism patients who were 6 months of age or older when they were treated with BabyBIG<sup>&reg;</sup> will need delayed immunization with these vaccines.
+
+Accordingly, any of the recommended doses of the rotavirus vaccine (RotaTeq<sup>&reg;</sup> or Rotarix<sup>&reg;</sup>) that were not given to the infant before treatment with BabyBIG<sup>&reg;</sup> should be delayed. Because the other live-virus vaccines (i.e., measles, mumps, rubella and varicella) are normally first given at one year of age, only those infant botulism patients who were 6 months of age or older when they were treated with BabyBIG® will need delayed immunization with these vaccines.
+
 </td>
 </tr>
 

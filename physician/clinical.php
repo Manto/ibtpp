@@ -83,6 +83,8 @@
   </p>
 </blockquote>
 
+<p>Establishing the clinical diagnosis is imperative for the timely recognition of infant botulism and treatment with BabyBIG<sup>&reg;</sup>.  However, clinical diagnosis does not obviate the need for prompt collection and submission of a fecal or enema specimen to the appropriate diagnostic laboratory (state lab or CDC depending on your location).</p>
+
 <p><font face="Arial">Source: Arnon SS. Infant botulism. pp. 1758-1766 in Feigin RD, Cherry JD, Demmler GJ, Kaplan SL, eds. <i>Textbook of Pediatric Infectious Diseases, Fifth Edition</i>. WB Saunders, Philadelphia, 2004.</font></p>
 <p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
 

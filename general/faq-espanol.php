@@ -1,4 +1,6 @@
-<?php require("../scripts/template-start.php"); ?>
+<?php if (isset($_GET["printable"]))
+        require("../scripts/template-start-printable.php");
+        else require("../scripts/template-start.php"); ?>
 
    <td class="title" valign=top>
 		Preguntas frecuentes acerca del Botulismo Infantil
@@ -9,6 +11,12 @@
 </tr>
 <tr>
 	<td class="main">
+
+<?php if (!isset($_GET["printable"])) { ?>
+<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="/ibtpp/images/file.gif" border=0>Versión imprimible de esta página</a>
+<br /><br /><!--        <a style="text-decoration: underline" target="_blank" href="checklist.pdf"><img src="/images/file.gif" border=0>Checklist in PDF File</a> <b style="color: #336699;">(REFERENCE ONLY)</b>-->
+<!--    <a style="text-decoration: underline" target="_blank" href="IPA.pdf"><img src="/images/file.gif" border=0>Invoice and Purchase Agreement (IPA) in PDF File</a>  <span style="font-size: 16px;">(Updated September 2007)</span>-->
+<?php } ?>
 
 <table border="0" cellpadding="2" cellspacing="0">
 <tr><td colspan="2"><img src="/images/trans.gif" height=15></td></tr>
@@ -291,6 +299,13 @@ Prevención del Botulismo Infantil</a>) y seguir las instrucciones.
 
 
 <tr><td colspan="2"><img src="/images/trans.gif" height=15></td></tr>
+</table>
+
+<?php if (!isset($_GET["printable"])) { ?>
+<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="/ibtpp/images/file.gif" border=0>Versión imprimible de esta página</a>
+<br /><br /><!--        <a style="text-decoration: underline" target="_blank" href="checklist.pdf"><img src="/images/file.gif" border=0>Checklist in PDF File</a> <b style="color: #336699;">(REFERENCE ONLY)</b>-->
+<!--    <a style="text-decoration: underline" target="_blank" href="IPA.pdf"><img src="/images/file.gif" border=0>Invoice and Purchase Agreement (IPA) in PDF File</a>  <span style="font-size: 16px;">(Updated September 2007)</span>-->
+<?php } ?>
 
 	</td>
 

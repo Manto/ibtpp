@@ -23,7 +23,7 @@
 
 <tr>
 <td valign="top"><img src="/images/qa-q.gif" border=0></td>
-<td>Can a fecal specimen for botulism testing be collected after BabyBIG<sup>&reg;</sup> (Botulism Immune Globulin Intravenous, BIG-IV) has been administered?</td>
+<td>Can a fecal specimen for botulism testing be collected after BabyBIG<sup>&reg;</sup> (Botulism Immune Globulin Intravenous [Human], BIG-IV) has been administered?</td>
 </tr>
 
 <tr>
