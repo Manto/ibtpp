@@ -36,7 +36,7 @@ Click <a style="text-decoration: underline" target="_blank" href="checklist.pdf"
 <br><br>
 -->
 
-<u>The decision to treat with BabyBIG<sup>&reg;</sup> should be based on clinical presentation and findings and should not be delayed by waiting for results of laboratory confirmatory testing.</u>
+<u>The decision to treat with BabyBIG<sup>&reg;</sup> should be based on clinical presentation and findings and should <b>not</b> be delayed by waiting for results of laboratory confirmatory testing.</u>
 
 Prompt treatment of infant botulism patients immediately 
 ends their toxemia and enables motor nerve regeneration to begin.
