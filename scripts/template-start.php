@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<?php $homedir="../"; ?>
-    <link rel=stylesheet type="text/css" href="/scripts/common.css?v=20170630" title="common">
+    <link rel=stylesheet type="text/css" href="/scripts/common.css?v=20190531" title="common">
 	<title>Welcome to the Infant Botulism Treatment and Prevention Program</title>
 </head>
 
@@ -31,7 +31,7 @@
 </div>
 
 <script type="text/javascript" src="/scripts/menu.js?v=20170503"></script>
-<script type="text/javascript" src="/scripts/menu_items.js?v=20170630"></script>
+<script type="text/javascript" src="/scripts/menu_items.js?v=20190531"></script>
 <script type="text/javascript" src="/scripts/menu_tpl2.js?v=20170503"></script>
 <script type="text/javascript" >
 	<!--//

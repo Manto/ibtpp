@@ -45,7 +45,7 @@ var MENU_ITEMS = [
 		['Specimen Submission',SITE_ROOT + 'laboratorian/submission.php'],
 		['Lab Scientist FAQs',SITE_ROOT + 'laboratorian/faq.php'],
 		['Microbiology of <i>C. botulinum</i>',SITE_ROOT + 'laboratorian/microbiology.php'],
-		['CLIA Certificate',SITE_ROOT + 'CLIA_certificate.pdf'],
+		['CLIA Certificate',SITE_ROOT + 'CLIA_certificate.jpg'],
 	],
 	['For Parents',null, null,
 		['Prevention',SITE_ROOT + 'parent/prevention.php'],
