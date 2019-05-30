@@ -27,7 +27,7 @@
         <li>除了给予加州公共卫生署BabyBIG<sup>&reg;</sup> 的法定所需费用外，当地接受药物的医院需支付加急快递服务和海关的所有费用。</li>
         <li>送出BabyBIG<sup>&reg;</sup> 药物前，婴儿肉毒症防治中心必须收到
             <ol>
-                <li>签名的发票和购货协议（IPA）。可以通过此链接下载或打印：<a target="_blank" href="/physician/IPA-International-Spr2016.pdf">IPA</a>.
+                <li>签名的发票和购货协议（IPA）。可以通过此链接下载或打印：<a target="_blank" href="/physician/IPA-International-2019-01.pdf">IPA</a>.
                 <li>提交电子或传真的医疗记录，包括患者的体重</li>
                 <li>当地药品监管局的进货许可</li>
             </ol>

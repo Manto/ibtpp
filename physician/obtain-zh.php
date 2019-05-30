@@ -8,7 +8,7 @@
 	<td class="title" align=right>
 
 	<?php if ($_GET["printable"]!=1) { ?>
-	<a style="text-decoration: underline" target="_blank" href="IPA-Spr2016.pdf"><img src="/images/file.gif" border=0>发票和购买协议 (IPA) PDF模式</a> <span style="font-size: 16px;">(更新于2016年4月)</span><br>
+	<a style="text-decoration: underline" target="_blank" href="IPA-2019-01.pdf"><img src="/images/file.gif" border=0>发票和购买协议 (IPA) PDF模式</a> <span style="font-size: 16px;">(更新于2019年1月)</span><br>
 <!--	<a style="text-decoration: underline" target="_blank" href="checklist.pdf"><img src="/images/file.gif" border=0>Checklist in PDF File</a><br>	-->
 	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="/images/file.gif" border=0>打印页面</a><br>
 	</td>

@@ -8,7 +8,7 @@
 	<td class="title" align=right>
 
 	<?php if ($_GET["printable"]!=1) { ?>
-	<a style="text-decoration: underline" target="_blank" href="IPA-2018-06.pdf"><img src="/images/file.gif" border=0>Invoice and Purchase Agreement (IPA) in PDF File</a> <span style="font-size: 16px;">(Updated June 2018)</span><br>
+	<a style="text-decoration: underline" target="_blank" href="IPA-2019-01.pdf"><img src="/images/file.gif" border=0>Invoice and Purchase Agreement (IPA) in PDF File</a> <span style="font-size: 16px;">(Updated Jan 2019)</span><br>
 <!--	<a style="text-decoration: underline" target="_blank" href="checklist.pdf"><img src="/images/file.gif" border=0>Checklist in PDF File</a><br>	-->
 	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="/images/file.gif" border=0>Printable Version of this Page</a><br>
 	</td>
