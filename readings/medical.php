@@ -27,7 +27,7 @@
 	<li><a class="readinglink" target="_blank" href="../physician/journal_of_clinical_biology_excerpt.pdf">Infant Botulism Acquired from Household Dust Presenting as Sudden Infant Death Syndrome</a></li>
 	<li><a class="readinglink" target="_blank" href="clostridium-butyricum.pdf">A case of infant botulism due to neurotoxigenic <i>Clostridium butyricum</i> Type E Associated with <i>Clostridium difficile</i> Colitis</a></li>
 	<li><a class="readinglink" target="_blank" href="c-difficile.pdf"><i>Clostridium difficile</i> colitis associated with Infant Botulism</a></li>
-	<li><a class="readinglink" target="_blank" href="Koepke_2008_Global_IB.pdf">Global Occurence of Infant Botulism, 1976-2006</a></li>
+	<li><a class="readinglink" target="_blank" href="Koepke_2008_Global_IB.pdf">Global Occurrence of Infant Botulism, 1976-2006</a></li>
 	<li><a class="readinglink" target="_blank" href="Barash_Tang_Arnon_2005_First_F_in CA.pdf">First Case of Infant Botulism Caused by <i>Clostridium baratii</i> Type F in California</a></li>
 	</ul>
 </p>
