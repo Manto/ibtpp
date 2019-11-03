@@ -11,8 +11,8 @@ Honey is the one identified and avoidable food reservoir of <i>C. botulinum</i>,
 <br><br> 
 The California Department of Public Health (CDPH) prepared an informative brochure to increase awareness of avoiding feeding honey to infants under one year of age.  The pamphlet is not copyrighted and CDPH encourages any and all interested parties to download, print, and distribute this brochure.
 To download this educational pamphlet (in PDF format) regarding avoidance of honey during the first year of life, click on a link below: (Updated April 2011) <br><br>
-<a target="_blank" href="No_Honey_Brochure_English.pdf">No Honey brochure (English version)</a><br />
-<a target="_blank" href="SP_NoHny_Brochure.pdf">No Honey brochure (Spanish version)</a><br />
+<a target="_blank" href="No_Honey_Brochure_Oct2019.pdf">No Honey brochure (English version, updated October 2019)</a><br />
+<a target="_blank" href="No_Honey_Brochure_Spanish_Oct2019.pdf">No Honey brochure (Spanish version, updated October 2019)</a><br />
 <!-- <a target="_blank" href="VT_NoHny_Brochure.pdf">No Honey brochure (Vietnamese version)</a> -->
 	</td>
 

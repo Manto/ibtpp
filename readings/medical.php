@@ -20,7 +20,6 @@
 	<li><a class="readinglink" target="_blank" href="nejm-big.pdf">Human Botulism Immune Globulin for the Treatment of Infant Botulism</a></li>
         <li><a class="readinglink" target="_blank" href="Payne_2018_Efficacy of BIG-IV 12 years post-licensure.pdf">Efficacy of Human Botulism Immune Globulin for the Treatment of Infant Botulism: The First 12 Years Post Licensure</a></li>
 	<li><a class="readinglink" target="_blank" href="Peds_Creatn_Devlpmt_BIG_IV_apr07.pdf">Creation and Development of the Public Service Orphan Drug Human Botulism Immune Globulin</a></li>
-	<li><a class="readinglink" target="_blank" href="Peds_Clin_Mims_of_IB_apr07.pdf">Clinical Mimics of Infant Botulism</a></li>
         <li><a class="readinglink" target="_blank" href="Khouri_2018_More clinical mimics of infant botulism.pdf">More Clinical Mimics of Infant Botulism</a></li>
 	<li><a class="readinglink" target="_blank" href="../physician/Hurst_and_Marsh.pdf">Early Severe Infantile Botulism</a></li>
 	<li><a class="readinglink" target="_blank" href="../physician/Mitchell_and_Tseng_Ong.pdf">Catastrophic Presentation of Infant Botulism May Obscure or Delay Diagnosis</a></li>
@@ -29,6 +28,10 @@
 	<li><a class="readinglink" target="_blank" href="c-difficile.pdf"><i>Clostridium difficile</i> colitis associated with Infant Botulism</a></li>
 	<li><a class="readinglink" target="_blank" href="Koepke_2008_Global_IB.pdf">Global Occurrence of Infant Botulism, 1976-2006</a></li>
 	<li><a class="readinglink" target="_blank" href="Barash_Tang_Arnon_2005_First_F_in CA.pdf">First Case of Infant Botulism Caused by <i>Clostridium baratii</i> Type F in California</a></li>
+	<li><a class="readinglink" target="_blank" href="Halpin_2017_Type_F_IB_Investigation_of_recent_clusters_&_overview_of_this_exceedingly_rare_disease.pdf">Type F Infant Botulism: Investigation of Recent Clusters
+and Overview of This Exceedingly Rare Disease</a></li>
+	<li><a class="readinglink" target="_blank" href="Shelley_2014_IB_due_to_Cbutyricum_typeE_terrapin.pdf">Infant botulism due to <i>C. butyricum</i> type E toxin: a novel environmental association with pet terrapins</a></li>
+
 	</ul>
 </p>
 

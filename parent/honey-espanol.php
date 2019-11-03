@@ -23,7 +23,7 @@ menos de un año de edad. El folleto no tiene derechos de autor y CDHS motiva a 
 las personas interesadas a bajar, imprimir y distribuir este folleto, disponible en nuestro
 sitio web.
 <br><br>
-<a target="_blank" href="SP_NoHny_Brochure.pdf">No Comas Miel (en PDF)</a>
+<a target="_blank" href="No_Honey_Brochure_Spanish_Oct2019.pdf">No Comas Miel (en PDF)</a>
 	</td>
 
 <?php require("../scripts/template-end.php"); ?>
