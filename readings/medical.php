@@ -31,7 +31,10 @@
 	<li><a class="readinglink" target="_blank" href="Halpin_2017_Type_F_IB_Investigation_of_recent_clusters_&_overview_of_this_exceedingly_rare_disease.pdf">Type F Infant Botulism: Investigation of Recent Clusters
 and Overview of This Exceedingly Rare Disease</a></li>
 	<li><a class="readinglink" target="_blank" href="Shelley_2014_IB_due_to_Cbutyricum_typeE_terrapin.pdf">Infant botulism due to <i>C. butyricum</i> type E toxin: a novel environmental association with pet terrapins</a></li>
-
+        <li><a class="readinglink" target="_blank" href="Barash_2018_Antimicrobial_susceptibility_of_260_C bot_strains_isolated from_CA_IB_pt.pdf">Antimicrobial Susceptibility of 260 <i>Clostridium botulinum</i> Type A, B, Ba, and Bf Strains and a Neurotoxigenic <i>Clostridium baratii</i> Type F Strain Isolated from California Infant Botulism Patients</a></li>
+        <li><a class="readinglink" target="_blank" href="Dabritz_et al_2014_Molecular_Epi_IB_CA.pdf">Molecular Epidemiology of Infant Botulism in
+California and Elsewhere, 1976–2010</a></li>
+        <li><a class="readinglink" target="_blank" href="Hyslop_H1N1_bot_2011.pdf">Clinical Reasoning: An unexpected diagnosis in a 4-month-old infant with lethargy and H1N1 influenza</a></li>
 	</ul>
 </p>
 
