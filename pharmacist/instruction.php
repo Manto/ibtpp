@@ -13,8 +13,8 @@ Do not reconstitute BabyBIG<sup>&reg;</sup> until instructed by physician.  Infu
 <span class="emphasis1">ATTENTION PHARMACIST:</span>
 <br /><br /><b>** Please review and follow all instructions in the FDA-approved package insert **</b><br />
 <ol>
-<li>BabyBIG<sup>&reg;</sup> should be given as soon after arrival at the pharmacy as can be arranged. <br><br></li>
-<li>Please plan in advance of its arrival with the patient's ICU/ward team so as to be ready to promptly rehydrate and administer the medicine when it reaches you.  This means having a secure IV placed and a syringe infusion pump already at the bedside.<br><br></li>
+<li>BabyBIG<sup>&reg;</sup> should be given as soon after arrival at the pharmacy as can be arranged. Please refer to instructions in the information packet that comes with the medicine.  A filter and tubing for administration are sent with the product.<br><br></li>
+<li>Please plan in advance of its arrival with the patient's ICU/ward team so as to be ready to promptly rehydrate and administer the medicine when it reaches you.  This means having a secure IV placed and a syringe infusion pump already at the bedside. Please be sure to follow the instruction regarding <b>syringe size</b> per the filter Instructions For Use provided in the shipment information packet.<br><br></li>
 <li>Immediately notify the attending physician/patient care team when BabyBIG<sup>&reg;</sup> arrives.  Confirm with them that they are ready to administer the medicine, then begin its rehydration. Infusion must begin within 2 hours of reconstitution.<br><br></li>
 <li>As soon as rehydration is complete (usually about 30 minutes), deliver the medicine to the patient's bedside for administration.<br><br></li>
 
