@@ -30,7 +30,7 @@ Fecal specimens for infant botulism diagnostic testing can be collected before o
 <br />
 <div class="header-small red-text">Specimen submission form for California patients only:</div>
 
-California hospital laboratories and health care providers <a style="text-decoration:underline" href="IBTPP Diagnostic Testing Submittal Form_Sept2018.pdf" target="_blank">click here</a> to access the Infant Botulism Diagnostic Testing Specimen Submission Form (PDF-fillable).  Please be sure to fill in every box on the form.<br />
+California hospital laboratories and health care providers <a style="text-decoration:underline" href="IBPL Diagnostic Specimen Submission Form_v2.pdf" target="_blank">click here</a> to access the Infant Botulism Diagnostic Testing Specimen Submission Form (PDF-fillable).  Please be sure to fill in every box on the form.<br />
 <br>
 	<?php if (!isset($_GET["printable"])) { ?>
 	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="/images/file.gif" border=0>Printable Version of this Page</a>
