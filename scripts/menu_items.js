@@ -43,7 +43,7 @@ var MENU_ITEMS = [
 		['Specimen Collection',SITE_ROOT + 'laboratorian/collection.php'],
 		['Specimen Storage',SITE_ROOT + 'laboratorian/storage.php'],
 		['Specimen Submission',SITE_ROOT + 'laboratorian/submission.php'],
-                ['Specimen Submission form (CA only)',SITE_ROOT + 'laboratorian/IBPL%20Diagnostic%20Specimen%20Submission%20Form_v2.pdf'],
+                ['Specimen Submission form (CA only)',SITE_ROOT + 'laboratorian/IBPL Diagnostic Specimen Submission Form_v2.pdf'],
 		['Lab Scientist FAQs',SITE_ROOT + 'laboratorian/faq.php'],
 		['Microbiology of <i>C. botulinum</i>',SITE_ROOT + 'laboratorian/microbiology.php'],
 		['CLIA Certificate',SITE_ROOT + 'CLIA_certificate.jpg'],

@@ -11,13 +11,9 @@
 <h3><b><i><u>For California patients only:</u></i></b></h3>
 
 <span class="emphasis" style="color: #FF3333"><b>
-Stool or enema specimens from California inpatients or outpatients with suspected IB may be submitted directly to the IBTPP laboratory. Physicians seeking testing for their patients should first call the IBTPP on-call physician at (510) 231-7600 prior to specimen submission to provide case information and review indications for testing.<br />
-Testing will not be initiated without prior clinical consultation with the IBTPP on-call physician.
+Stool or enema specimens from California inpatients or outpatients with suspected IB may be submitted directly to the IBTPP laboratory. Physicians seeking testing for their patients should first call the IBTPP on-call physician at (510) 231-7600 prior to specimen submission to provide case information and review indications for testing. Testing will not be initiated without prior clinical consultation with the IBTPP on-call physician. For all other states, please contact your local public health agency for specimen submission instructions.
 </b></span>
 
-<br /><br />
-
-<b>For all other states, please contact your local public health agency for specimen submission instructions.</b>
 
 <ol>
 <li>Keep the specimen <b>refrigerated</b> at all times. <u>Do not freeze</u>.</li>

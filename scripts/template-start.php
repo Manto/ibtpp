@@ -31,7 +31,7 @@
 </div>
 
 <script type="text/javascript" src="/scripts/menu.js?v=20190503"></script>
-<script type="text/javascript" src="/scripts/menu_items.js?v=20201118"></script>
+<script type="text/javascript" src="/scripts/menu_items.js?v=20201203"></script>
 <script type="text/javascript" src="/scripts/menu_tpl2.js?v=20190630"></script>
 <script type="text/javascript" >
 	<!--//
