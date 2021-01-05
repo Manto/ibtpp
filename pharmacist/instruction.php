@@ -20,7 +20,7 @@ Do not reconstitute BabyBIG<sup>&reg;</sup> until instructed by physician.  Infu
 
 <li><b>FOLLOWING INFUSION:</b><br>
 
-Please return residual BabyBIG<sup>&reg;</sup> to the pharmacy in the original vial <b>only</b> if the vial contains &gt; 0.5ml. Please refrigerate this vial immediately after the dose is drawn up and return it to our program by standard overnight courier on cold packs. If questions, call during CDPH/IBPP business hours: 8:00 a.m. - 5:00 p.m., Mon-Fri, Pacific Time.
+Please return residual BabyBIG<sup>&reg;</sup> to the pharmacy in the original vial <b>only</b> if the vial contains &gt; 0.5ml. Please refrigerate this vial immediately after the dose is drawn up and return it to our program by standard overnight courier on cold packs. If questions, call during CDPH/IBTPP business hours: 8:00 a.m. - 5:00 p.m., Mon-Fri, Pacific Time.
 
 <p>
 <b>Shipping address:</b><br><br>
