@@ -90,17 +90,6 @@
 </tr>
 
 
-<tr><td colspan="2"><img src="/images/trans.gif" height=15></td></tr>
-
-<tr>
-<td valign="top"><img src="/images/qa-q.gif" border=0></td>
-<td>Is the Infant Botulism Laboratory a section of the Microbial Diseases Laboratory (MDL) at California Department of Public Health?</td>
-</tr>
-<tr>
-<td valign="top"><img src="/images/qa-a.gif" border=0></td>
-<td><b>No.</b> The Infant Botulism Laboratory is part of the Infant Botulism Treatment and Prevention Program and is administratively separate from the MDL. Specimens from suspected cases of foodborne or wound botulism need to be submitted to the MDL for testing. Please contact your local public health laboratory to make arrangements for testing of specimens from suspected cases of foodborne or wound botulism. </td>
-</tr>
-
 <tr><td colspan="2"><img src="/images/trans.gif" height=5></td></tr>
 
 <tr>

@@ -22,7 +22,7 @@ Stool or enema specimens from California inpatients or outpatients with suspecte
 </li>
 <li>Follow IATA regulations and package the specimen in a styrofoam box with one or more cold-packs. <u>Do not use dry-ice</u>. Label box with a <b>UN 3373</b>, "Biological Substance Category B" label.</li>
 <li>Send specimens directly to the California Department of Public Health (California patients only). <u>Do not send through your local county public health laboratory as this will delay testing</u>.  See address below.</li>
-<li><u>Do not delay shipping.</u> Expedite specimen shipment by using a local courier for same day delivery before 2 PM, or by using a major courier service for "priority overnight" delivery. Packages should be shipped for overnight delivery <b>Monday through Thursday</b> only. The Infant Botulism Laboratory does not accept deliveries on Saturday or Sunday.</li>
+<li><u>Do not delay shipping.</u> Expedite specimen shipment or by using a major courier service for "priority overnight" delivery. Packages should be shipped for overnight delivery <b>Monday through Thursday</b> only. The Infant Botulism Laboratory does not accept deliveries on Saturday or Sunday.</li>
 
 </ol>
 

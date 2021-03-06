@@ -71,7 +71,7 @@ BabyBIG<sup>&reg;</sup> is available internationally on a case-by-case evaluatio
 
     <ul>
       <li>
-          As of May 2019, BabyBIG<sup>&reg;</sup> has been used to treat infants in 16 countries<sup>1</sup>, spanning 5 continents. If used, BabyBIG<sup>&reg;</sup> should be given as soon as possible in the patient's illness. Treatment should not be delayed while waiting for laboratory confirmation of the diagnosis. Treatment within the first 3 days of hospitalization shortens the hospital stay the most. Treatment between hospital days 4 through 7 also significantly shortens hospital stay when compared to placebo<sup>2,3</sup>, (N Engl J Med 2006;354:462-71) (J Pediatr 2018;193:172-7).
+          As of February 2021, BabyBIG<sup>&reg;</sup> has been used to treat infants in 19 countries<sup>1</sup>, spanning 5 continents. If used, BabyBIG<sup>&reg;</sup> should be given as soon as possible in the patient's illness. Treatment should not be delayed while waiting for laboratory confirmation of the diagnosis. Treatment within the first 3 days of hospitalization shortens the hospital stay the most. Treatment between hospital days 4 through 7 also significantly shortens hospital stay when compared to placebo<sup>2,3</sup>, (N Engl J Med 2006;354:462-71) (J Pediatr 2018;193:172-7).
       </li>
   </ul>
 </p>
@@ -79,7 +79,7 @@ BabyBIG<sup>&reg;</sup> is available internationally on a case-by-case evaluatio
 <br />
 
 <p>
-    <sup>1</sup> Argentina, Australia, Austria, Canada, Denmark, France, Germany, Greece, Ireland, Netherlands, Norway, Portugal, Singapore, Spain, United Arab Emirates, United Kingdom
+    <sup>1</sup> Argentina, Australia, Austria, Canada, China, Denmark, France, Germany, Greece, Ireland, Mexico, Netherlands, Norway, Panama, Portugal, Singapore, Spain, United Arab Emirates, United Kingdom
   <br />
     <sup>2</sup> <a href="http://www.infantbotulism.org/readings/nejm-big.pdf">Stephen S. Arnon, M.D., Robert Schechter, M.D., Susan E. Maslanka, Ph.D., Nicholas P. Jewell, Ph.D., and Charles L. Hatheway, Ph.D. Human Botulism Immune Globulin for the Treatment of Infant Botulism. The New England Journal of Medicine. 2006;354:462-71</a>
     <br />
