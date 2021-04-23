@@ -51,7 +51,7 @@ BabyBIG<sup>&reg;</sup> is available internationally on a case-by-case evaluatio
 
       <ol>
         <li>
-            the signed Invoice and Purchase Agreement (IPA) document, which is available here, <a href="http://infantbotulism.org/physician/IPA-International-2019-01.pdf">International Invoice and Purchase Agreement</a> (last updated Jan 2019);
+            the signed Invoice and Purchase Agreement (IPA) document, which is available here, <a href="http://infantbotulism.org/physician/IPA-International-2021-04.pdf">International Invoice and Purchase Agreement</a> (last updated April 2021);
         </li>
         <li>
             medical records submitted either electronically or by fax that include documentation of the patient's weight, and;
