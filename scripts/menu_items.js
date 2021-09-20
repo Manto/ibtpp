@@ -46,7 +46,7 @@ var MENU_ITEMS = [
                 ['Specimen Submission form (CA only)',SITE_ROOT + 'laboratorian/IBPL Diagnostic Specimen Submission Form_v2.pdf'],
 		['Lab Scientist FAQs',SITE_ROOT + 'laboratorian/faq.php'],
 		['Microbiology of <i>C. botulinum</i>',SITE_ROOT + 'laboratorian/microbiology.php'],
-		['CLIA Certificate',SITE_ROOT + 'CLIA_certificate.jpg'],
+		['CLIA Certificate',SITE_ROOT + 'CLIA_certificate_2021.pdf'],
 	],
 	['For Parents',null, null,
 		['Prevention',SITE_ROOT + 'parent/prevention.php'],
