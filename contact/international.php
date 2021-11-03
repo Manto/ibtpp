@@ -51,7 +51,7 @@ BabyBIG<sup>&reg;</sup> is available internationally on a case-by-case evaluatio
 
       <ol>
         <li>
-            the signed Invoice and Purchase Agreement (IPA) document, which is available here, <a href="http://infantbotulism.org/physician/IPA-International-2021-04-v2.pdf">International Invoice and Purchase Agreement</a> (last updated April 2021);
+            the signed Invoice and Purchase Agreement (IPA) document, which is available here, <a href="https://www.infantbotulism.org/physician/IPA-International-2021-10.pdf">International Invoice and Purchase Agreement</a>;
         </li>
         <li>
             medical records submitted either electronically or by fax that include documentation of the patient's weight, and;
@@ -81,9 +81,9 @@ BabyBIG<sup>&reg;</sup> is available internationally on a case-by-case evaluatio
 <p>
     <sup>1</sup> Argentina, Australia, Austria, Canada, China, Denmark, France, Germany, Greece, Ireland, Mexico, Netherlands, Norway, Panama, Portugal, Singapore, Spain, United Arab Emirates, United Kingdom
   <br />
-    <sup>2</sup> <a href="http://www.infantbotulism.org/readings/nejm-big.pdf">Stephen S. Arnon, M.D., Robert Schechter, M.D., Susan E. Maslanka, Ph.D., Nicholas P. Jewell, Ph.D., and Charles L. Hatheway, Ph.D. Human Botulism Immune Globulin for the Treatment of Infant Botulism. The New England Journal of Medicine. 2006;354:462-71</a>
+    <sup>2</sup> <a href="https://www.infantbotulism.org/readings/nejm-big.pdf">Stephen S. Arnon, M.D., Robert Schechter, M.D., Susan E. Maslanka, Ph.D., Nicholas P. Jewell, Ph.D., and Charles L. Hatheway, Ph.D. Human Botulism Immune Globulin for the Treatment of Infant Botulism. The New England Journal of Medicine. 2006;354:462-71</a>
     <br />
-    <sup>3</sup> <a href="http://www.infantbotulism.org/readings/Payne_2018_Efficacy%20of%20BIG-IV%2012%20years%20post-licensure.pdf">Jessica R. Payne, MPH. Jessica M. Khouri, MD. Nicholas P. Jewell, PhD. Stephen S. Arnon, MD, MPH. Efficacy of Human Botulism Immune Globulin for the Treatment of Infant Botulism: The First 12 Years Post Licensure. 2018; 193:172-7.</a>
+    <sup>3</sup> <a href="https://www.infantbotulism.org/readings/Payne_2018_Efficacy%20of%20BIG-IV%2012%20years%20post-licensure.pdf">Jessica R. Payne, MPH. Jessica M. Khouri, MD. Nicholas P. Jewell, PhD. Stephen S. Arnon, MD, MPH. Efficacy of Human Botulism Immune Globulin for the Treatment of Infant Botulism: The First 12 Years Post Licensure. 2018; 193:172-7.</a>
 </p>
 
 

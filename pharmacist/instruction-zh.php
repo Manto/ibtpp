@@ -28,9 +28,9 @@
 <p>
 <b>邮寄地址:</b><br><br>
 
+Infant Botulism Laboratory - IBTPP<br />
 California Department of Public Health<br>
 Specimen Receiving, Room B106<br>
-Attn: IBTPP - Infant Botulism Laboratory<br>
 850 Marina Bay Parkway<br>
 Richmond, CA 94804-6403<br>
 (510) 231-7676
