@@ -27,6 +27,7 @@ var MENU_ITEMS = [
 	],
 	['For Physicians', null, null,
 		['How to obtain BabyBIG<sup>&reg;</sup>',SITE_ROOT + 'physician/obtain.php'],
+		['Information for Clinicians', 'https://www.cdc.gov/botulism/infant-botulism.html'],
 		['Clinical Diagnosis',SITE_ROOT + 'physician/clinical.php'],
 		['Patient Management',SITE_ROOT + 'physician/patient.php'],
 		['Laboratory Diagnosis',SITE_ROOT + 'physician/laboratory.php'],

@@ -169,7 +169,7 @@ In the absence of serious hospital-acquired complications, no. The prognosis for
 <td>
 No. Infants treated with BabyBIG<sup>&reg;</sup> will have a protective level of toxin-neutralizing antibody for at least six months following administration of the medicine.  This feature allows sufficient time for elimination of <i>C. botulinum</i>, which has temporarily colonized the infant's intestine causing disease.
 <br /><br />
-Since the disease of infant botulism was first recognized more than 40 years ago, there have been no instances of an infant acquiring the disease more than once. During this time more than 4400 cases of infant botulism are known to have occurred worldwide.
+Since the disease of infant botulism was first recognized more than 40 years ago, there have been no instances of an infant acquiring the disease more than once. During this time more than 4500 cases of infant botulism are known to have occurred worldwide.
 <br /><br />
 However, a few reports of "relapsing" infant botulism have been published during this time.  Careful review of these case reports by our program's physicians indicates that these were cases in which the infant was discharged prematurely, before they had adequate recovery of strength needed to sustain feeding and breathing. For a further discussion of this topic please see the patient management section of our website under the For Physicians tab. 
 </td>
