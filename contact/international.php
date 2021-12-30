@@ -39,13 +39,42 @@ BabyBIG<sup>&reg;</sup> is available internationally on a case-by-case evaluatio
 
 <p>
   <u>
-    Please be advised that the following steps are required for shipment and importation of BabyBIG<sup>&reg;</sup>:
+    Please be advised that the following steps <b>are required</b> for shipment and importation of BabyBIG<sup>&reg;</sup>:
   </u>
 <ul>
-  <li>A letter of authorization to import must be provided to the Infant Botulism Treatment and Prevention Program (IBTPP) by the requesting country's Medicines Regulatory Authority or Agency before BabyBIG<sup>&reg;</sup> is released for shipment.
+  <li>A letter of authorization from the requesting country's Medicines Regulatory Authority or Agency to import BabyBIG must be provided to the Infant Botulism Treatment and Prevention Program (IBTPP) before BabyBIG can be shipped. The letter should specify the number of vials of BabyBIG to be imported and the name of the requesting hospital.
   </li>
-  <li>BabyBIG<sup>&reg;</sup> will have to clear customs after arrival in the importing country. Arrangements to expedite customs clearance should be initiated as soon as BabyBIG<sup>&reg;</sup> is shipped.</li>
-  <li>In addition to paying the statutorily required fee to CDPH for BabyBIG<sup>&reg;</sup>, the receiving hospital will also have to pay for the shipment of BabyBIG<sup>&reg;</sup> via an expedited courier service and for any customs charges.</li>
+  <li>
+  The receiving hospital/purchasing institution must pay: 1)  the costs for expedited shipping of BabyBIG via the hospital's international courier service, 2) any customs charges, and 3) the statutorily-required CDPH fee for BabyBIG. 
+  </li>
+  <li>
+  BabyBIG must clear customs after arrival in the importing country. As soon as BabyBIG is shipped, arrangements to expedite customs clearance should be initiated by hospital personnel.  Use of a commercial customs brokerage service for this purpose should be considered.
+  </li>
+  <li>
+Once BabyBIG has been ordered, contact the customs office at the receiving airport to arrange for expedited clearance of the package.  Use the shipping information that IBTPP will send to your hospital for this purpose.
+  </li>
+
+  <li>
+  <b>NOTE: your hospital/facility must have its own active international courier account in order to have BabyBIG exported to your country.</b> (World Courier and FedEx have locations close to the U.S. distribution facilities for BabyBIG.  DHL locations are more distant.)
+    <ul>
+      <li>This account should be in good standing and have permissions in place for CDPH/IBTPP and its distributor, FFF Enterprises, to use it on short notice.</li>
+      <li>Attending physicians should immediately notify their hospital administration of this requirement if they are considering ordering BabyBIG for their patient.</li>
+      <li>As of 1 January 2022, CDPH/IBTPP will not use its own courier accounts to ship BabyBIG to your facility.</li>
+    </ul>
+  </li>
+  <li>
+   BabyBIG must be shipped expedited because hospital stay is shortened more the sooner after hospital admission the medicine is administered.  The medicine is shipped in validated packaging that will maintain the required temperature for about 96 hours (4 days).
+  </li>
+  <li>
+  Before BabyBIG is released for shipment, IBTPP must receive:
+   <ol>
+     <li>the signed <b>International</b> Invoice and Purchase Agreement (IPA) document, which is available here, <a href="https://www.infantbotulism.org/physician/IPA-International-2021-10.pdf">International Invoice and Purchase Agreement</a>;
+     </li>
+     <li>medical records submitted either electronically or by fax that include documentation of the patient's weight;</li>
+     <li> the import permit authorization letter from the requesting country's Medicines Regulatory Agency, and</li>
+     <li>  written permission to utilize the hospital’s international courier account, and the contact information for someone at the hospital who can facilitate the shipment, if needed</li>
+  </li>
+<!--
   <li>
       Before BabyBIG<sup>&reg;</sup> is released for shipment, IBTPP must receive:
 
@@ -61,6 +90,9 @@ BabyBIG<sup>&reg;</sup> is available internationally on a case-by-case evaluatio
           </li>
       </ol>
   </li>
+
+-->
+
 </ul>
 </p>
 
