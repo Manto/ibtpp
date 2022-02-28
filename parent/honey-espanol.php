@@ -17,13 +17,13 @@ puestas en las bocas de infantes que resultaron negativas, fue concluido que la
 mayoría de los pacientes de botulismo infantil adquieren las esporas al ingerir
 partículos microscópicos de polvo que contienen esporas.
 <br><br>
-El Departamento de Servicios de Salud de California (CDHS) preparó un folleto
+El Departamento de Salud Publica de California (CDPH) preparó un folleto
 informativo para aumentar el conocimiento general sobre evitar darle miel a los bebés
-menos de un año de edad. El folleto no tiene derechos de autor y CDHS motiva a todas
+menos de un año de edad. El folleto no tiene derechos de autor y CDPH motiva a todas
 las personas interesadas a bajar, imprimir y distribuir este folleto, disponible en nuestro
 sitio web.
 <br><br>
-<a target="_blank" href="No_Honey_Brochure_Spanish_Oct2019.pdf">No Comas Miel (en PDF)</a>
+<a target="_blank" href="SP_NoHny_Brochure.pdf">No Comas Miel (en PDF)</a>
 	</td>
 
 <?php require("../scripts/template-end.php"); ?>
