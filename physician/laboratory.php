@@ -71,9 +71,7 @@ health departments now have 24/7 telephone numbers.
 
 <br /><br />
 
-California health care providers <a href="/physician/physician_instruction.pdf">click here</a> to download the printable lab send-out 
-
-instructions sheet to forward with the stool specimen to your hospital laboratory.
+California health care providers <a href="/laboratorian/submission.php">click here</a> for current lab send out instructions.
 
 <br /><br />
 

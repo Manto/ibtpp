@@ -79,6 +79,24 @@ the likelihood that the honey-containing food product may contain viable <i>C. b
 <tr><td colspan="2"><img src="/images/trans.gif" height=15></td></tr>
 <tr>
 <td valign="top"><img src="/images/qa-q.gif" border=0></td>
+<td>My infant was fed honey. What should I do?</td>
+</tr>
+
+<tr>
+<td valign="top"><img src="/images/qa-a.gif" border=0></td>
+<td>
+Please refer to the American Academy of Pediatrics best practice guidelines regarding feeding
+solids to infants (<a href="http://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition" target="_blank">click here</a>).
+<br /><br />
+Although honey is a known food vehicle for the bacteria that causes infant botulism, we typically don’t consider an individual honey exposure to be overly risky for acquiring the bacteria that causes infant botulism. Honey is the one dietary reservoir of C. botulinum spores thus far definitively linked to infant botulism by both laboratory and epidemiologic evidence.  However, that said, not every jar of honey has botulinum spores in it.  To date, avoiding feeding honey to infants 12 months of age or less is the only known prevention measure for infant botulism.
+<br /><br />
+If, in the next few weeks you believe your infant is exhibiting the <a href="https://www.cdc.gov/botulism/infant-botulism.html">signs and symptoms of infant botulism</a>, please reach out to your pediatrician.
+</td>
+</tr>
+
+<tr><td colspan="2"><img src="/images/trans.gif" height=15></td></tr>
+<tr>
+<td valign="top"><img src="/images/qa-q.gif" border=0></td>
 <td>I know that honey is not a safe food for babies.  Is it okay for a breastfeeding mother to eat honey? Can botulism be transmitted in my breast milk? Should I continue to breastfeed my infant through his/her illness with infant botulism?  </td>
 </tr>
 

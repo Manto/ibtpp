@@ -14,6 +14,21 @@ To download this educational pamphlet (in PDF format) regarding avoidance of hon
 <a target="_blank" href="No_Honey_Brochure_Dec21.pdf">No Honey brochure (English version, updated December 2021)</a><br />
 <a target="_blank" href="No_Honey_Brochure_Spanish_Dec21.pdf">No Honey brochure (Spanish version, updated December 2021)</a><br />
 <!-- <a target="_blank" href="VT_NoHny_Brochure.pdf">No Honey brochure (Vietnamese version)</a> -->
+
+<table>
+<tr>
+<td valign="top"><img src="/images/qa-a.gif" border=0></td>
+<td>
+Please refer to the American Academy of Pediatrics best practice guidelines regarding feeding
+solids to infants (<a href="http://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition" target="_blank">click here</a>).
+<br /><br />
+Although honey is a known food vehicle for the bacteria that causes infant botulism, we typically don’t consider an individual honey exposure to be overly risky for acquiring the bacteria that causes infant botulism. Honey is the one dietary reservoir of C. botulinum spores thus far definitively linked to infant botulism by both laboratory and epidemiologic evidence.  However, that said, not every jar of honey has botulinum spores in it.  To date, avoiding feeding honey to infants 12 months of age or less is the only known prevention measure for infant botulism.
+<br /><br />
+If, in the next few weeks you believe your infant is exhibiting the <a href="https://www.cdc.gov/botulism/infant-botulism.html">signs and symptoms of infant botulism</a>, please reach out to your pediatrician.
+</td>
+</tr>
+</table>
+
 	</td>
 
 <?php require("../scripts/template-end.php"); ?>
