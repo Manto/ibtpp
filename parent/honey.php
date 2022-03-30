@@ -16,6 +16,14 @@ To download this educational pamphlet (in PDF format) regarding avoidance of hon
 <!-- <a target="_blank" href="VT_NoHny_Brochure.pdf">No Honey brochure (Vietnamese version)</a> -->
 
 <table>
+
+<tr><td colspan="2"><img src="/images/trans.gif" height=15></td></tr>
+<tr>
+<td valign="top"><img src="/images/qa-q.gif" border=0></td>
+<td>My infant was fed honey. What should I do?</td>
+</tr>
+
+
 <tr>
 <td valign="top"><img src="/images/qa-a.gif" border=0></td>
 <td>

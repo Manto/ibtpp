@@ -73,6 +73,22 @@
 </td>
 </tr>
 
+<tr>
+<td valign="top"><img src="/images/qa-q.gif" border=0></td>
+<td>宝宝误食了蜂蜜。我该怎么做？</td>
+</tr>
+
+<tr>
+<td valign="top"><img src="/images/qa-a.gif" border=0></td>
+<td>
+请参阅美国儿科学会关于给婴儿喂食固体食物的指南（<a href="https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/default.aspx">点击此处</a>）。
+
+尽管蜂蜜是婴儿肉毒杆菌的一种已知食物载体，但通常如果接触蜂蜜次数极少，感染婴儿肉毒杆菌的风险不算很高。迄今为止，蜂蜜是已知的唯一一种与婴儿肉毒症密切相关的肉毒杆菌孢子的食物载体。然而，这不代表每一罐蜂蜜都含有肉毒杆菌孢子。目前，避免给 12 个月或以下的婴儿喂食蜂蜜是唯一已知的预防婴儿肉毒症的措施。
+
+如果在接下来的几周内您认为宝宝出现婴儿肉毒症的<a href="https://www.cdc.gov/botulism/infant-botulism.html">迹象和症状</a>，请联系您的儿科医生。
+</td>
+</tr>
+
 <tr><td colspan="2"><img src="/images/trans.gif" height=15></td></tr>
 <tr>
 <td valign="top"><img src="/images/qa-q.gif" border=0></td>
