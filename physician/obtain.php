@@ -25,7 +25,7 @@ physicians.
 
 <br /><br />
 
-If your patient is older than 15 months, please see <a href="https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/BotulismHealthProfessionals.aspx">CDC Botulism Information for Health Professionals</a> for instructions on requesting antitoxin.
+If your patient is older than 15 months, please see <a href="https://www.cdc.gov/botulism/health-professional.html">CDC Botulism Information for Health Professionals</a> for instructions on requesting antitoxin.
 
 <br><br>
 
