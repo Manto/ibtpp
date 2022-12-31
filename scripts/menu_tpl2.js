@@ -28,7 +28,7 @@ var MENU_POS = [
 {
 	// item sizes
 	'height': 20,
-	'width': 255,
+	'width': 365,
 	// menu block offset from the origin:
 	//	for root level origin is upper left corner of the page
 	//	for other levels origin is upper left corner of parent item

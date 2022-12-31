@@ -30,7 +30,7 @@ In contrast to these reports, a 1988 Canadian survey found no C. botulinum spore
 <br>
 5.  Arnon, S. S., Midura, T. F., Clay, S. A., et al.: Infant botulism: Epidemiological, clinical, and laboratory aspects.  J. A. M. A. 237:1946-1951, 1977.
 <br>
-6.  Arnon, S. S., Midura, T. F., Damus, K., et al.: Money and other environmental risk factors for infant botulism.  J. Pediatr. 94:331-336, 1979.
+6.  Arnon, S. S., Midura, T. F., Damus, K., et al.: Honey and other environmental risk factors for infant botulism.  J. Pediatr. 94:331-336, 1979.
 <br>
 7.  Aureli, P., Franciosa, G., Fenicia, L.: Infant botulism and honey in Europe: A commentary.  Pediatr. Infect. Dis. J. 21:866-868, 2002.
 <br>

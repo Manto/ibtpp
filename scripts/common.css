@@ -6,7 +6,7 @@ body {
 }
 
 a, a:link, a:visited, a:active{
-  font-family: arial;
+  font-family: Arial;
   font-size: 15px;
   font-weight: bold;
   color: #336699;
@@ -14,7 +14,7 @@ a, a:link, a:visited, a:active{
 }
 
 a:hover {
-  font-family: arial;
+  font-family: Arial;
   font-size: 15px;
   font-weight: bold;
   color: #000000;
@@ -135,7 +135,7 @@ td.contentbody {
 
 
 td.priceheader {
-  font-family: arial;
+  font-family: Arial;
   font-size: 20px;
   font-weight: bold;
   color: #FFFFFF;
@@ -144,7 +144,7 @@ td.priceheader {
 }
 
 td.pricesubheader {
-  font-family: arial;
+  font-family: Arial;
   font-size: 16px;
   font-weight: bold;
   color: #FFFFFF;
@@ -172,7 +172,7 @@ a.menu2:hover
    width: 150px;
    font-weight: bold;
    font-size: 14px;
-   font-family: arial;
+   font-family: Arial;
    background: #333333;
    color: #FFFFFF;
    text-align: right;
@@ -185,7 +185,7 @@ a.menu2:hover
    width: 300px;
    font-weight: none;
    font-size: 14px;
-   font-family: arial;
+   font-family: Arial;
    background: #FFFFFF;
    color: #000000;
    text-align: left;

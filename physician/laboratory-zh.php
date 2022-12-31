@@ -28,7 +28,7 @@
 
 <br /><br />
 
-加利福尼亚的卫生保健提供者，点击<a href="/physician/physician_instruction.pdf">这里</a>这里下载打印实验室寄送操作指南，并将其与大便样本一同运送至医院的实验室。
+加利福尼亚的卫生保健提供者，点击<a href="/laboratorian/submission.php">这里</a>这里下载打印实验室寄送操作指南，并将其与大便样本一同运送至医院的实验室。
 
 <br /><br />
 

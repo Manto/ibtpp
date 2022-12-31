@@ -19,7 +19,7 @@ BabyBIG<sup>&reg;</sup> should not be stored in the reconstituted state.
 </p>
 <p>
 For details on the preparation for administration and infusion of BabyBIG<sup>&reg;</sup>,
-please see the text of the <a target="_blank" href="/BabyBIG Package Insert 2021 June.pdf">Package Insert for BabyBIG<sup>&reg;</sup></a> 
+please see the text of the <a target="_blank" href="/BabyBIG Package Insert 2021 June.pdf">Package Insert for BabyBIG</a><sup>&reg;</sup>
 </p>
 
 	</td>

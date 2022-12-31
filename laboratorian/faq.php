@@ -83,9 +83,11 @@
 </tr>
 <tr>
 <td valign="top"><img src="/images/qa-a.gif" border=0></td>
-<td><b>For California patients only: No.</b> Always send infant fecal specimens directly to IBTPP.   <u>For all other states:</u> Contact your local health department for instructions on how to submit specimens.
+<td><b>For California patients only: No.</b> Always send infant fecal specimens directly to IBTPP.
 <br /><br />
 <b>Please note:</b> Laboratory testing will be conducted only on those specimens that have been previously authorized for such by IBTPP physicians.  Specimens sent to the IBTPP laboratory will not be tested until the patient's physician has consulted with an on-call IBTPP physician.
+<br /><br />
+<u>For all other states:</u> Contact your <a href="https://cdn.ymaws.com/www.cste.org/resource/resmgr/poc/epioncall_update1622.pdf" target="_blank">health department</a> for instructions on how to submit specimens.
 </td>
 </tr>
 
@@ -99,6 +101,8 @@
 <tr>
 <td valign="top"><img src="/images/qa-a.gif" border=0></td>
 <td><b>For California patients only: Yes.</b>  You must include the <b>Infant Botulism Diagnostic Testing Specimen Submission Form</b> with all fecal specimens submitted to IBTPP for testing.  A link to this form (PDF-fillable) may be found on the Specimen Submission page under the Lab Testing Info section of this website.  All fields of this form must be completed.
+<br /><br />
+For states in which diagnostic testing is performed at CDC: The CDC-specific <a href="https://www.cdc.gov/laboratory/specimen-submission/form.html" target="_blank">Specimen Submission Form</a> may be found on their website.
 </td>
 </tr>
 

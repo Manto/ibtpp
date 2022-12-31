@@ -27,7 +27,7 @@ BabyBIG<sup>&reg;</sup> is available internationally on a case-by-case evaluatio
 </p>
 
 <p>
-<u>International requests for BabyBIG<sup>&reg;</sup>:</u>
+<u>International requests for BabyBIG</u><sup>&reg;</sup>:
 
 <ul>
 <li>Access to BabyBIG<sup>&reg;</sup> is authorized only by one of the IBTPP on-call physicians, who must be contacted by the patient's attending physician to discuss the patient’s history and clinical findings before BabyBIG<sup>&reg;</sup> can be shipped.</li>
@@ -39,8 +39,7 @@ BabyBIG<sup>&reg;</sup> is available internationally on a case-by-case evaluatio
 
 <p>
   <u>
-    Please be advised that the following steps <b>are required</b> for shipment and importation of BabyBIG<sup>&reg;</sup>:
-  </u>
+    Please be advised that the following steps <b>are required</b> for shipment and importation of BabyBIG</u><sup>&reg;</sup>:
 <ul>
   <li>A letter of authorization from the requesting country's Medicines Regulatory Authority or Agency to import BabyBIG must be provided to the Infant Botulism Treatment and Prevention Program (IBTPP) before BabyBIG can be shipped. The letter should specify the number of vials of BabyBIG to be imported and the name of the requesting hospital.
   </li>
@@ -68,7 +67,7 @@ Once BabyBIG has been ordered, contact the customs office at the receiving airpo
   <li>
   Before BabyBIG is released for shipment, IBTPP must receive:
    <ol>
-     <li>the signed <b>International</b> Invoice and Purchase Agreement (IPA) document, which is available here, <a href="https://www.infantbotulism.org/physician/IPA-International-2021-10.pdf">International Invoice and Purchase Agreement</a>;
+     <li>the signed <b>International</b> Invoice and Purchase Agreement (IPA) document, which is available here, <a href="https://www.infantbotulism.org/physician/IPA-International-2023-01.pdf">International Invoice and Purchase Agreement</a>;
      </li>
      <li>medical records submitted either electronically or by fax that include documentation of the patient's weight;</li>
      <li> the import permit authorization letter from the requesting country's Medicines Regulatory Agency, and</li>
@@ -80,7 +79,7 @@ Once BabyBIG has been ordered, contact the customs office at the receiving airpo
 
       <ol>
         <li>
-            the signed Invoice and Purchase Agreement (IPA) document, which is available here, <a href="https://www.infantbotulism.org/physician/IPA-International-2021-10.pdf">International Invoice and Purchase Agreement</a>;
+            the signed Invoice and Purchase Agreement (IPA) document, which is available here, <a href="https://www.infantbotulism.org/physician/IPA-International-2023-01.pdf">International Invoice and Purchase Agreement</a>;
         </li>
         <li>
             medical records submitted either electronically or by fax that include documentation of the patient's weight, and;
@@ -98,12 +97,11 @@ Once BabyBIG has been ordered, contact the customs office at the receiving airpo
 
 <p>
     <u>
-        International use of BabyBIG<sup>&reg;</sup>:
-    </u>
+        International use of BabyBIG</u><sup>&reg;</sup>:
 
     <ul>
       <li>
-          As of February 2021, BabyBIG<sup>&reg;</sup> has been used to treat infants in 19 countries<sup>1</sup>, spanning 5 continents. If used, BabyBIG<sup>&reg;</sup> should be given as soon as possible in the patient's illness. Treatment should not be delayed while waiting for laboratory confirmation of the diagnosis. Treatment within the first 3 days of hospitalization shortens the hospital stay the most. Treatment between hospital days 4 through 7 also significantly shortens hospital stay when compared to placebo<sup>2,3</sup>, (N Engl J Med 2006;354:462-71) (J Pediatr 2018;193:172-7).
+          As of February 2021, BabyBIG<sup>&reg;</sup> has been used to treat infants in 16 countries<sup>1</sup>, spanning 5 continents. If used, BabyBIG<sup>&reg;</sup> should be given as soon as possible in the patient's illness. Treatment should not be delayed while waiting for laboratory confirmation of the diagnosis. Treatment within the first 3 days of hospitalization shortens the hospital stay the most. Treatment between hospital days 4 through 7 also significantly shortens hospital stay when compared to placebo<sup>2,3</sup>, (N Engl J Med 2006;354:462-71) (J Pediatr 2018;193:172-7).
       </li>
   </ul>
 </p>
@@ -111,7 +109,7 @@ Once BabyBIG has been ordered, contact the customs office at the receiving airpo
 <br />
 
 <p>
-    <sup>1</sup> Argentina, Australia, Austria, Canada, China, Denmark, France, Germany, Greece, Ireland, Mexico, Netherlands, Norway, Panama, Portugal, Singapore, Spain, United Arab Emirates, United Kingdom
+    <sup>1</sup> Argentina, Australia, Austria, Canada, Denmark, France, Germany, Greece, Ireland, Netherlands, Norway, Portugal, Singapore, Spain, United Arab Emirates, United Kingdom
   <br />
     <sup>2</sup> <a href="https://www.infantbotulism.org/readings/nejm-big.pdf">Stephen S. Arnon, M.D., Robert Schechter, M.D., Susan E. Maslanka, Ph.D., Nicholas P. Jewell, Ph.D., and Charles L. Hatheway, Ph.D. Human Botulism Immune Globulin for the Treatment of Infant Botulism. The New England Journal of Medicine. 2006;354:462-71</a>
     <br />

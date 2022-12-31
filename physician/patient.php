@@ -61,7 +61,55 @@ The descending paralysis of infant botulism compromises the pharyngeal musculatu
 Two simple positioning measures are helpful and are recommended for reducing the risk of aspiration and for improving the respiratory function of infant botulism patients: 1) a neck support (described below) and 2) a crib which does not bend the mattress to elevate the head of the bed. The crib, illustrated in <a target="_blank" href="images/figure1.jpg">Figure 1</a>, maintains the patient's body in one plane while elevating the head at a 30&deg; angle to the feet. Positioning the infant in this way facilitates good chest excursion and improves respiratory mechanics because gravity pulls the abdominal contents downward. Placing a small cloth roll behind the infant's neck (do not include the occiput or shoulders) also helps maintain the normal curvature of the neck, thus promoting airway patency by avoiding neck flexion onto the chest and by preventing pooling of secretions in the pharynx. These positioning measures are urged for all recipients of BabyBIG<sup>&reg;</sup> as part of standardizing supportive care. Their additional virtues are that they are immediately available and cost nothing.
 <br><br>
 A cloth harness which passes between the legs of the infant and is anchored to the mattress on either side of the patient at waist level may be used to prevent the patient from sliding downward on the bed. Alternatively, a cloth bumper placed below the buttocks may provide the same support.<br><br>
-Approximately one-half of all patients with infant botulism, whether or not they are treated with BabyBIG<sup>&reg;</sup>, will require mechanical ventilatory support because of inability to protect their airway and/or respiratory insufficiency. Although some non-BabyBIG<sup>&reg;</sup>-treated infant botulism patients may require prolonged intubation that lasts several weeks, tracheostomy is rarely necessary  (less than 1% of California's over 700 non-BabyBIG<sup>&reg;</sup>-treated cases ever needed one).
+
+For non-intubated patients, extra care and preparedness should be taken if
+placing the infant in a curved, lateral decubitus position for lumbar puncture,
+as some infants have experienced respiratory compromise in such positions
+and required emergent intubation.
+<br /><br />
+
+Approximately one-half of all patients with infant botulism, whether or not they are treated with BabyBIG<sup>&reg;</sup>, will require mechanical ventilatory support because of inability to protect their airway and/or respiratory insufficiency. Although some non-BabyBIG<sup>&reg;</sup>-treated infant botulism patients may require prolonged intubation that lasts several weeks, tracheostomy is rarely necessary <sup>3</sup> (less than 1% of California's non-BabyBIG<sup>&reg;</sup>-treated cases ever needed one).
+
+<br /><br />
+<b><u>When weaning an infant with infant botulism from ventilatory support,
+special consideration should be given to several issues:</b></u>
+
+<ul>
+<li>BabyBIG does not reverse the effects of botulinum neurotoxin that has
+already bound at the neuromuscular junction (does NOT reverse existing
+paralysis); recovery requires regeneration of nerve endings to re-innervate
+affected muscles in order to regain muscle strength and tone. Therefore, it
+should not be considered immediately curative and affected patients with
+infant botulism are highly unlikely to meet criteria for immediate/rapid
+extubation or withdrawal of ventilatory support shortly after the infant has
+received BabyBIG. While infants that do not receive BabyBIG<sup>&reg;</sup> require on
+average 4.4 weeks of mechanical ventilation, those that <u>are</u> treated still
+require on average 1.8 weeks of mechanical ventilation <sup>4</sup>. We encourage
+a careful, thoughtful weaning of ventilatory support for all infants with infant
+botulism, even if treated with BabyBIG<sup>&reg;</sup>.</li>
+<li>A hallmark feature of infant botulism is fatigability. Extra care should be
+given to ensure that an infant's respiratory effort can be sustained as
+support is weaned slowly. Consideration should be given to gradually
+offering longer "sprints" for infants that have required ventilatory support in
+order to assess the patient's tolerance of prolonged respiratory effort and
+readiness for weaning.</li>
+<li>A gag reflex should be checked prior to considering extubation as airway
+protection is likely to be suboptimal if a gag reflex is not present.</li>
+<li>Treatment with aminoglycoside antibiotics may potentiate the effect of
+botulinum neurotoxin at the neuromuscular junction, even in infants that
+have been treated with BabyBIG<sup>&reg;</sup>. Therefore, extra caution should be
+exercised when weaning ventilatory support from infants who have infant
+botulism and have received aminoglycoside antibiotics.</li>
+<li>Broad spectrum, clostridiocidal antibiotics administered before BabyBIG<sup>&reg;</sup>
+antitoxin is administered may worsen the patient’s clinical status due to an
+increase in the amount of free toxin for absorption in lumen of large
+intestine<sup>5</sup></li>
+<li>Extra caution should be exercised when weaning ventilatory support in
+infants with concomitant respiratory infections.</li>
+<li>When considering extubation of an infant with infant botulism, every effort
+should be made to ensure adequate staffing, expertise and resources
+should the extubation attempt fail and the infant require reintubation.</ul>
+
 <p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
 </div>
  
@@ -81,7 +129,7 @@ Adequate nutrition is of great importance. Although gut motility is slow in thes
 
 Botulinum toxin has a profound effect on the large intestine. The constipation that results from it is generally an early and persistent symptom. Enteral feeding is the best and most straightforward means of promoting gut motility. The use of cathartics is not recommended, but the use of stool softeners like docusate may be beneficial in tandem with occasional rectal stimulation or glycerin suppository. Infrequently, a small inspissated fecal plug is present in the rectal vault and needs to be checked for and removed manually before regular defecation can resume.  Any feces so removed should be immediately sent for confirmatory diagnostic testing
 <br><br>
-Patients with infant botulism may be at increased risk of <i>Clostridium difficile</i> colitis<sup>1,2</sup>.  In 2004 an Iowa patient with type F infant botulism died from <i>C. difficile</i> pseudomembranous colitis with bowel perforation and septic shock.  Medical staff should be constantly vigilant for signs of possible secondary infection with <i>C. difficile</i>, such as diarrhea, change in stool color, abdominal tenseness or distention, etc., and monitor and treat the patient accordingly.  
+Patients with infant botulism may be at increased risk of <i>Clostridioides difficile</i> colitis<sup>1,2</sup>.  In 2004 an Iowa patient with type F infant botulism died from <i>C. difficile</i> pseudomembranous colitis with bowel perforation and septic shock.  Medical staff should be constantly vigilant for signs of possible secondary infection with <i>C. difficile</i>, such as diarrhea, change in stool color, abdominal tenseness or distention, etc., and monitor and treat the patient accordingly.  
 <br><br>
 2. Bladder<br>
 
@@ -93,7 +141,7 @@ Bladder atony may be present in infant botulism patients with severe disease (us
 <div id="content5" class="contentblock">
 <a name="content5" class="anchor"></a>
 <p><span class="emphasis1">Antibiotics </span></p>
-Antibiotics are not efficacious in the treatment of infant botulism. Furthermore, there is concern that in non-BabyBIG<sup>&reg;</sup>-treated patients, administration of antibiotics with clostridiocidal activity may increase the amount of free toxin in the large bowel and actually worsen the patient's clinical status. Antibiotic use in infant botulism patients is indicated only for the treatment of secondary infections. In these instances, in non-BabyBIG<sup>&reg;</sup>-treated patients, the use of a non-clostridiocidal antibiotic, such as trimethoprim/sulfamethoxazole (Bactrim<sup>&reg;</sup>, Septra<sup>&reg;</sup>) is preferred. If possible, aminoglycosides should be avoided because they appear to potentiate the action of botulinum toxin at the neuromuscular junction. However, once a patient has been treated with BabyBIG<sup>&reg;</sup>, any (non-aminoglycoside) antibiotic may be used to treat a secondary infection because BabyBIG<sup>&reg;</sup> will neutralize any toxemia that might result from its use.
+Antibiotics are not efficacious in the treatment of infant botulism. Furthermore, there is concern that in non-BabyBIG<sup>&reg;</sup>-treated patients, administration of antibiotics with clostridiocidal activity may increase the amount of free toxin in the large bowel and actually worsen the patient's clinical status. Antibiotic use in infant botulism patients is indicated only for the treatment of secondary infections. In these instances, in non-BabyBIG<sup>&reg;</sup>-treated patients, the use of a non-clostridiocidal antibiotic is preferred. If possible, aminoglycosides should be avoided because they appear to potentiate the action of botulinum toxin at the neuromuscular junction. However, once a patient has been treated with BabyBIG<sup>&reg;</sup>, any (non-aminoglycoside) antibiotic may be used to treat a secondary infection because BabyBIG<sup>&reg;</sup> will neutralize any toxemia that might result from its use.
 <p><a href="#top"><img src="/images/backtotop.gif" border="0" align="right" /></a></p>
 </div>
  
@@ -168,7 +216,7 @@ Scrupulous attention to hand washing should be observed by all hospital personne
 
 contact with the infant, as much to prevent secondary infections from other pathogens as to prevent 
 
-transmission of C. botulinum to other patients. Persons with open lesions on their hands should wear 
+transmission of <i>C. botulinum</i> to other patients. Persons with open lesions on their hands should wear 
 
 gloves when handling soiled diapers from these patients. Excretion of organisms in feces may continue 
 
@@ -189,7 +237,7 @@ such excretion may be continuing.
 Regardless of whether or not the patient has received anti-toxin, the infant should have good to full recovery of muscle strength and tone before immunizations resume. This delay is advised to avoid any confusion surrounding what might be a vaccine-related reaction versus clinical worsening of the infant botulism disease process.
 </p>
 <p>
-In addition, most live-virus vaccines (i.e., measles, mumps, rubella and varicella) will need to be delayed until 6 months after BabyBIG<sup>&reg;</sup> treatment because the antibodies in BabyBIG<sup>&reg;</sup> may interfere with the effectiveness of the vaccine.
+In addition, most live-virus vaccines (i.e., measles, mumps, rubella and varicella) will need to be delayed until 6 months after BabyBIG<sup>&reg;</sup> treatment because the antibodies in BabyBIG<sup>&reg;</sup> may interfere with the effectiveness of the vaccine. <a href="https://infantbotulism.org/BabyBIG%20Package%20Insert%202021%20June.pdf">Please refer to section 7 of the package insert for BabyBIG<sup>&reg;</sup>.</a>
 </p>
 <p>
 The live-virus vaccine for rotavirus, RotaTeq<sup>&reg;</sup> and Rotatrix<sup>&reg;</sup> should also be delayed until sustained return of normal bowel function after BabyBIG<sup>&reg;</sup> treatment. Although current data suggest that administration of intravenous immunoglobulin products such as BabyBIG<sup>&reg;</sup> will not interfere with the efficacy of oral rotavirus vaccines, patients with infant botulism should receive the rotavirus vaccine later than planned because of the slowed intestinal motility that results from infant botulism. The vast majority of infant botulism patients have profoundly slowed intestinal motility after infant botulism.
@@ -214,8 +262,18 @@ Infant botulism can be a very frustrating illness for parents---difficult to und
 1) <a href="../readings/c-difficile.pdf">Schechter R, Peterson B, McGee J, Idowu O, Bradley J.: Clostridium difficile colitis associated with infant botulism: near-fatal case analogous to Hirschsprung's enterocolitis. Clinical Infectious Diseases. 29:367-74, 1999</a>.  
 <br>
 2) <a href="../readings/clostridium-butyricum.pdf">Fenicia L, Da Dalt L, Anniballi F, Franciosa G, Zanconato S, Aureli P.:  A Case of infant botulism due to neurotoxigenic Clostridium butyricum type E associated with Clostridium difficile colitis.  Eur J Clin Microbiol Infect Dis. 21:736-738, 2002</a>.
-<br><br>
-
+<br>
+3) Wohl, D.L., Tucker, J.A. Infant botulism: considerations for airway management. Laryngoscope. 1992
+102(11): 1251-1254.
+<br />
+4) <a href="/readings/nejm-big.pdf">Stephen S. Arnon, M.D., Robert Schechter, M.D., Susan E. Maslanka, Ph.D., Nicholas P. Jewell, Ph.D., and
+Charles L. Hatheway, Ph.D. Human Botulism Immune Globulin for the Treatment of Infant Botulism N Engl J Med
+2006;354:462-71.</a>
+<br />
+5) <a href="/readings/Barash_2018_Antimicrobial_susceptibility_of_260_C%20bot_strains_isolated%20from_CA_IB_pt.pdf">Barash JR, Castles JB, III, Arnon SS, 2018. Antimicrobial susceptibility of 260 <i>Clostridium botulinum</i> type A,
+B, Ba and Bf strains and a neurotoxigenic <i>Clostridium baratii</i> type f strains isolated in California infant botulism
+patients. Antimicrob Agents and Chemother 62:e01594-18.</a>
+<br /><br />
 
 	<?php if ($_GET["printable"]!=1) { ?>
 	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=800, height=600")'><img src="/images/file.gif" border=0>Printable Version of this Page</a>
