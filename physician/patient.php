@@ -68,7 +68,7 @@ as some infants have experienced respiratory compromise in such positions
 and required emergent intubation.
 <br /><br />
 
-Approximately one-half of all patients with infant botulism, whether or not they are treated with BabyBIG<sup>&reg;</sup>, will require mechanical ventilatory support because of inability to protect their airway and/or respiratory insufficiency. Although some non-BabyBIG<sup>&reg;</sup>-treated infant botulism patients may require prolonged intubation that lasts several weeks, tracheostomy is rarely necessary <sup>3</sup> (less than 1% of California's non-BabyBIG<sup>&reg;</sup>-treated cases ever needed one).
+Approximately one-half of all patients with infant botulism, whether or not they are treated with BabyBIG<sup>&reg;</sup>, will require mechanical ventilatory support because of inability to protect their airway and/or respiratory insufficiency. Although some non-BabyBIG<sup>&reg;</sup>-treated infant botulism patients may require prolonged intubation that lasts several weeks, tracheostomy is rarely necessary <sup>3</sup> (less than 1% of California's non-BabyBIG<sup>&reg;</sup>-treated cases ever needed one<sup>4</sup>).
 
 <br /><br />
 <b><u>When weaning an infant with infant botulism from ventilatory support,
@@ -84,7 +84,7 @@ infant botulism are highly unlikely to meet criteria for immediate/rapid
 extubation or withdrawal of ventilatory support shortly after the infant has
 received BabyBIG. While infants that do not receive BabyBIG<sup>&reg;</sup> require on
 average 4.4 weeks of mechanical ventilation, those that <u>are</u> treated still
-require on average 1.8 weeks of mechanical ventilation <sup>4</sup>. We encourage
+require on average 1.8 weeks of mechanical ventilation <sup>5</sup>. We encourage
 a careful, thoughtful weaning of ventilatory support for all infants with infant
 botulism, even if treated with BabyBIG<sup>&reg;</sup>.</li>
 <li>A hallmark feature of infant botulism is fatigability. Extra care should be
@@ -103,7 +103,7 @@ botulism and have received aminoglycoside antibiotics.</li>
 <li>Broad spectrum, clostridiocidal antibiotics administered before BabyBIG<sup>&reg;</sup>
 antitoxin is administered may worsen the patient’s clinical status due to an
 increase in the amount of free toxin for absorption in lumen of large
-intestine<sup>5</sup></li>
+intestine<sup>6</sup>.</li>
 <li>Extra caution should be exercised when weaning ventilatory support in
 infants with concomitant respiratory infections.</li>
 <li>When considering extubation of an infant with infant botulism, every effort
@@ -263,14 +263,16 @@ Infant botulism can be a very frustrating illness for parents---difficult to und
 <br>
 2) <a href="../readings/clostridium-butyricum.pdf">Fenicia L, Da Dalt L, Anniballi F, Franciosa G, Zanconato S, Aureli P.:  A Case of infant botulism due to neurotoxigenic Clostridium butyricum type E associated with Clostridium difficile colitis.  Eur J Clin Microbiol Infect Dis. 21:736-738, 2002</a>.
 <br>
-3) Wohl, D.L., Tucker, J.A. Infant botulism: considerations for airway management. Laryngoscope. 1992
-102(11): 1251-1254.
+<span style="font-family: arial; font-size: 15px;">3) Wohl, D.L., Tucker, J.A. Infant botulism: considerations for airway management. Laryngoscope. 1992
+102(11): 1251-1254.</span>
 <br />
-4) <a href="/readings/nejm-big.pdf">Stephen S. Arnon, M.D., Robert Schechter, M.D., Susan E. Maslanka, Ph.D., Nicholas P. Jewell, Ph.D., and
+<span style="font-family: arial; font-size: 15px;">4) Anderson TD, Shah UK, Schreiner MS, et al. Airway complications of infant botulism: ten-year experience with 60 cases.  Otolaryngol Head Neck Surg. 2002;126(3):234-239.</span>
+<br />
+5) <a href="/readings/nejm-big.pdf">Stephen S. Arnon, M.D., Robert Schechter, M.D., Susan E. Maslanka, Ph.D., Nicholas P. Jewell, Ph.D., and
 Charles L. Hatheway, Ph.D. Human Botulism Immune Globulin for the Treatment of Infant Botulism N Engl J Med
 2006;354:462-71.</a>
 <br />
-5) <a href="/readings/Barash_2018_Antimicrobial_susceptibility_of_260_C%20bot_strains_isolated%20from_CA_IB_pt.pdf">Barash JR, Castles JB, III, Arnon SS, 2018. Antimicrobial susceptibility of 260 <i>Clostridium botulinum</i> type A,
+6) <a href="/readings/Barash_2018_Antimicrobial_susceptibility_of_260_C%20bot_strains_isolated%20from_CA_IB_pt.pdf">Barash JR, Castles JB, III, Arnon SS, 2018. Antimicrobial susceptibility of 260 <i>Clostridium botulinum</i> type A,
 B, Ba and Bf strains and a neurotoxigenic <i>Clostridium baratii</i> type f strains isolated in California infant botulism
 patients. Antimicrob Agents and Chemother 62:e01594-18.</a>
 <br /><br />

@@ -228,3 +228,7 @@ a.anchor {
     top: -150px;
     visibility: hidden;
 }
+
+li {
+	line-height: 1.3em;
+}

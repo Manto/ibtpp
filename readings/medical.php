@@ -38,6 +38,31 @@ California and Elsewhere, 1976–2010</a></li>
 	</ul>
 </p>
 
+<span class="emphasis1">
+Additional Journal Articles
+</span>
+
+<p>
+Requests for copies of recent publications can be made at <a href="mailto:ibtpp@infantbotulism.org">ibtpp@infantbotulism.org</a>
+</p>
+
+<ul>
+<p>
+<li>Descriptive epidemiology of infant botulism in California: the first 40 years. Panditrao MV, Dabritz HA, Kazerouni N, Meissinger JK, Arnon SS. 2020.. J Pediatr 227: 247-257.</li>
+
+<li>Seven-year case-control study in California of risk factors for infant botulism. Panditrao MV, Dabritz HA, Kazerouni N, Damus K, Meissinger JK, Arnon SS. 2020. J Pediatr 227:258-267.</li>
+
+<li>Dual-toxin ("bivalent") infant botulism in California, 1976-2020: epidemiological, clinical and laboratory aspects. Pandiatrao MV, Chung CH, Khouri JM, Barash JR, Motter RN, Dover N, Arnon SS. Dual-toxin ("bivalent") infant botulism in California, 1976-2020: epidemiological, clinical and laboratory aspects. J Pediatr S0022-3476:00725-00729.</li>
+
+<li>Molecular characterization of a novel botulinum neurotoxin type H gene. Dover N, Barash JR, Hill KK, Xie G, Arnon SS. 2014. J Infect Dis 209(2):192-202.</li>
+
+<li>Closed genome sequence of Clostridium botulinum strain IBCA10-7060 type Bh. Dover N, Barash JR, Bell JM, Sylvester MD, Arnon SS. 2021. Microb Resour Announc 10(34):30038321.</li>
+
+<li>Duration of fecal excretion of Clostridium Botulinum and Botulinum Neurotoxin in Patients Recovering from infant Botulism. Dabritz HA, Payne JR, Khouri JM. J. 2023 Pediatr: Online ahead of print: 113396</li>
+
+</ul>
+</p>
+
 <p>
 <span class="emphasis1">Official State of California Department of Public Health website</span><br>
 	<ul>
