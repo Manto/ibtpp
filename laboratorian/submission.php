@@ -18,7 +18,7 @@ Stool or enema specimens from California inpatients or outpatients with suspecte
 <ol>
 <li>Keep the specimen <b>refrigerated</b> at all times. <u>Do not freeze</u>.</li>
 <li>Tightly seal cap on collection container. Package the primary container of stool or enema in a secondary, leak-proof container; e.g., a zip-top specimen bag.</li>
-<li>Place the <b>Infant Botulism Diagnostic Testing Specimen Submission Form</b> in a separate bag pouch or second bag. <a style="text-decoration:underline; color: red" href="IBPL Diagnostic Specimen Submission Form_v2.pdf" target="_blank">Click here to access the CA Specimen Submission Form (PDF-fillable form)</a>.
+<li>Place the <b>Infant Botulism Diagnostic Testing Specimen Submission Form</b> in a separate bag pouch or second bag. <a style="text-decoration:underline; color: red" href="IB Diagnostic Specimen Submission Form.pdf" target="_blank">Click here to access the CA Specimen Submission Form (PDF-fillable form)</a>.
 </li>
 <li>Follow IATA regulations and package the specimen in a styrofoam box with one or more cold-packs. <u>Do not use dry-ice</u>. Label box with a <b>UN 3373</b>, "Biological Substance Category B" label.</li>
 <li>Send specimens directly to the California Department of Public Health (California patients only). <u>Do not send through your local county public health laboratory as this will delay testing</u>.  See address below.</li>

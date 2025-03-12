@@ -111,7 +111,7 @@ partículos microscópicos de polvo que contienen esporas.
 <td valign="top"><img src="/images/qa-a.gif" border=0></td>
 <td>Aunque la miel contiene la bacteria que causa botulismo infantil, no consideramos una sola exposición alimentaria como un factor de riesgo mayor en adquirir la bacteria que causa botulismo infantil. Por medio de la evidencia de laboratorio y evidencia epidemiológica, la miel es el depósito alimenticio donde las esporas de C. botulinum done existe una asociación definitiva al botulismo infantil. Sin embargo, no cada tarro de la miel contiene las esporas de botulinum. Hasta el momento, evitar la alimentación de miel a los bebés de menos de 12 meses de edad es el único método de la prevención de botulismo infantil que se conoce.
 
-Si cree que su bebe presenta <a href="https://www.cdc.gov/botulism/infant-botulism.html">los síntomas de botulismo infantil</a> en las siguientes semanas, contacte a su pediatra.
+Si cree que su bebe presenta <a href="https://www.cdc.gov/botulism/hcp/clinical-overview/infant-botulism.html?CDC_AAref_Val=https://www.cdc.gov/botulism/infant-botulism.html">los síntomas de botulismo infantil</a> en las siguientes semanas, contacte a su pediatra.
 </td>
 </tr>
 

@@ -90,7 +90,7 @@ solids to infants (<a href="http://www.healthychildren.org/English/ages-stages/b
 <br /><br />
 Although honey is a known food vehicle for the bacteria that causes infant botulism, we typically don’t consider an individual honey exposure to be overly risky for acquiring the bacteria that causes infant botulism. Honey is the one dietary reservoir of C. botulinum spores thus far definitively linked to infant botulism by both laboratory and epidemiologic evidence.  However, that said, not every jar of honey has botulinum spores in it.  To date, avoiding feeding honey to infants 12 months of age or less is the only known prevention measure for infant botulism.
 <br /><br />
-If, in the next few weeks you believe your infant is exhibiting the <a href="https://www.cdc.gov/botulism/infant-botulism.html">signs and symptoms of infant botulism</a>, please reach out to your pediatrician.
+If, in the next few weeks you believe your infant is exhibiting the <a href="https://www.cdc.gov/botulism/hcp/clinical-overview/infant-botulism.html?CDC_AAref_Val=https://www.cdc.gov/botulism/infant-botulism.html">signs and symptoms of infant botulism</a>, please reach out to your pediatrician.
 </td>
 </tr>
 

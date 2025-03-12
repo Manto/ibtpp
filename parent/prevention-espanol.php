@@ -7,129 +7,236 @@
 </tr>
 <tr>
 	<td class="main">
-La única medida de prevención conocida para el botulismo infantil es evitar darle miel a
-los bebés de 12 meses o menos. El amamantamiento podría retardar el inicio de la
-enfermedad si se desarrolla.
+<b>
+La única medida de prevención conocida para el botulismo del lactante es
+evitar darles miel a los bebés. La lactancia materna puede retardar la
+aparición de la enfermedad si se desarrolla. Luego de los 12 meses de
+edad, la mayoría de los bebés dejan de ser susceptibles al botulismo por
+ingesta de miel.
+</b>
+
 <br /><br />
-El papel sobre el amamantamiento y la alimentación con leche de fórmula como
-factores posibles de predisposición al desarrollo de la enfermedad permanece sin
-resolver. Todos los estudios hasta hoy han identificado una asociación entre el
-amamantamiento y el ser hospitalizado debido al botulismo infantil<sup>2, 4, 15, 16, 19, 23, 25</sup>. Este
-descubrimiento ha resultado en una perspectiva que mantiene que el amamantamiento
-predispone el desarrollo de la enfermedad<sup>15, 16, 23</sup>, mientras que la otra perspectiva
-mantiene que el amamantamiento retarda el inicio lo suficiente para permitir la
-hospitalización<sup>1, 2, 3, 4</sup>. Sin embargo, entre los pacientes hospitalizados, el promedio de la
-edad de inicio del botulismo infantil en bebés alimentados con leche de fórmula (7.6
-semanas) era significativamente menor y aproximadamente la mitad de la edad de los
-niños alimentados por leche materna (13.8 semanas). Además, el inicio fulminante en
-los pacientes de botulismo infantil, quienes dejaron de respirar y murieron en casa,
-ocurrió en los bebés alimentados todos con leche de fórmula. La susceptibilidad relativa
-de la conexión entre los niños alimentados con leche de fórmula y los niños
-alimentados por leche materna, y la adquisición de botulismo infantil, y la severidad
-resultante de su enfermedad, podría reflejar diferencias en la disponibilidad de nichos
-ecológicos adecuados en la flora intestinal para el <i>C. botulinum</i>, diferencias en la
-disponibilidad de los factores inmunológicos (como lactoferrin e IgA secretorio)
-contenidos en la leche humana pero no en la leche de fórmula<sup>9</sup>, u otras
+
+Aún no está comprobado que el rol de la lactancia materna y la alimentación con
+fórmula sean posibles factores que predisponen el desarrollo de la enfermedad.
+Todos los estudios hasta la fecha han identificado una asociación entre recibir
+leche materna y ser hospitalizado por botulismo del lactante <sup>1-7</sup>. Este hallazgo ha
+dado como resultado, por un lado, una perspectiva que sostiene que la lactancia
+materna predispone el desarrollo de la enfermedad <sup>3, 4, 6</sup>, mientras que la otra
+perspectiva sostiene que la lactancia materna retarda la aparición de la
+enfermedad lo suficiente como para que la hospitalización ocurra <sup>1, 2, 8, 9</sup>. Sin
+embargo, entre los pacientes hospitalizados, la edad media en el momento de la
+aparición del botulismo del lactante en bebés alimentados con fórmula
+(7.6 semanas) fue significativamente menor y alrededor de la mitad en
+comparación con los bebés alimentados con leche materna (13.8 semanas).
+Además, los pacientes con botulismo del lactante de inicio fulminante que
+murieron en el hogar habían sido todos alimentados con fórmula. La relativa
+propensión de los bebés alimentados con fórmula y los bebés alimentados con
+leche materna a adquirir botulismo del lactante y la gravedad resultante de su
+enfermedad pueden reflejar diferencias en la disponibilidad de nichos ecológicos
+adecuados en la flora intestinal para el <i>C. botulinum</i>, diferencias en la
+disponibilidad de factores inmunes (como la lactoferrina y la IgA secretoria)
+presentes en la leche humana, pero no en la leche de fórmula,<sup>9</sup>  u otras
 diferencias aún no identificadas.
+
 <br /><br />
-La miel es el único depósito de las esporas de C. botulinum en la dieta que hasta ahora
-ha sido asociado definitivamente al botulismo infantil, tanto por las pruebas de
-laboratorio como por la evidencia epidemiológica. <sup>5, 6, 7, 10, 11, 13, 18, 22, 24</sup>. Hasta el día de hoy,
-se conocen 35 casos en todo el mundo en donde las esporas de <i>C. botulinum</i> han sido
-encontradas en la miel misma dada a un bebé infectado antes del inicio de la
-enfermedad. En cada caso, el tipo de toxina (A o B) de las esporas en la miel
-correspondieron al tipo de toxina (A o B) del <i>C. botulinum</i> que causó la enfermedad del
-bebé; la probabilidad de que esta concordancia perfecta ocurriera por casualidad es
-menos de 1 en 10 mil millones. Las esporas de <i>C. botulinum</i> han sido encontradas en
-miel de los Estados Unidos, Argentina, Australia, Canadá, China (también Taiwán),
-Dinamarca, Finlandia, Italia, Noruega, España, Japón y América Central<sup>6, 7, 10, 11, 13, 17, 18, 20, 22, 24</sup>, pero no en miel del Reino Unido 8 . Por estas razones y porque la miel no es esencial
-en la nutrición, la mayoría de las agencias de pediatría, de salud pública y de la
-industria de la miel en los Estados Unidos se han unido en la recomendación de que la
-miel no se dé a los niños. En el 2000, varias marcas de miel vendida en los Estados
-Unidos comenzaron a poner una advertencia de no dar miel a los bebés; una etiqueta
-equivalente apareció por primera vez en la miel inglesa en 1996.
+
+<b>
+La miel es un depósito de alimentos identificado y evitable de
+<i>C. botulinum</i>. Si bien, en la actualidad, la mayoría de los casos de
+botulismo del lactante no son causados por la exposición a la miel previa a
+la enfermedad, es la única fuente de alimentación evitable de exposición a
+las bacterias que ha sido, sin dudas, vinculada a los casos de botulismo
+del lactante gracias a la evidencia de laboratorios y epidemiólogos <sup>7, 10-18</sup>.
+</b>
+
 <br /><br />
-La discusión del posible papel del jarabe de maíz en el botulismo infantil se hizo
-necesaria por dos informes. En 1982, la Administración de Drogas y Alimentos de los
-Estados Unidos (FDA) encontró tipos de esporas B de <i>C. botulinum</i> en
-aproximadamente 0.5 por ciento (5 de 961) de muestras previamente sin abrir de
-jarabe de maíz claro y oscuro<sup>13</sup>; el fabricante entonces hizo cambios en el proceso
-producción. En 1989, los CDC reportaron un estudio epidemiológico de 2 años de
-casos de los Estados Unidos en todos los estados excepto California<sup>23</sup>. Al poner a los
-pacientes en subgrupos por edad y al usar técnicas de modelo de regresión logística,
-los investigadores pudieron obtener una asociación estadística entre la tríada de la
-exposición al jarabe de maíz, la leche materna y una edad de 2 meses o más al inicio <sup>21, 23</sup>.
+
+A la fecha, se conocen 33 casos en el mundo en los que <i>C. botulinum</i> se ha
+identificado en la miel y ha sido asociado con casos de botulismo del lactante.
+En cada caso, el tipo de toxina (A o B) de las esporas en la miel coincidió con el
+tipo de toxina (A o B) del C. botulinum que causó la enfermedad del bebé. La
+probabilidad de que dicha concordancia perfecta ocurra por casualidad es de
+menos de 1 en 10 mil millones. Las esporas del C. botulinum se han encontrado
+en la miel de los Estados Unidos, Argentina, Australia, Canadá, América Central,
+China, Taiwán, Dinamarca, Finlandia, Italia, Noruega, España, Japón, Kazajstán,
+Lituania y Polonia <sup>18-30</sup>. <b>Por estos motivos, todas las agencias pediátricas, de
+salud pública y de la industria de la miel más importantes de los Estados
+Unidos se han unido para recomendar que no se alimente a los bebés con
+miel.</b> En el 2000, varias marcas de miel vendidas en los Estados Unidos
+comenzaron a utilizar una advertencia contra la alimentación de los bebés con
+miel. Una etiqueta similar apareció por primera vez en la miel británica en 1996.
 <br /><br />
-En contraste con estos informes, una encuesta canadiense de 1998 no encontró esporas
-de C. botulinum en 43 muestras de jarabe de maíz<sup>10</sup>. Una encuesta de mercado del FDA
-en 1991 de 738 muestras de jarabe (354 de las cuales eran de jarabe de maíz claro y 271
-eran de jarabe de maíz oscuro) concluyó que ninguno contenía esporas de <i>C. botulinum</i><sup>14</sup>.
-Además, un estudio epidemiológico de 1979 que simplemente comparaba índices de
-exposición al jarabe de maíz en 41 casos y 107 bebés bajo control, identificó el comer
-jarabe de maíz como un factor de protección significativo contra la adquisición del tipo A
-de botulismo infantil<sup>6</sup>. La explicación ofrecida para esta última observación era que si el
-padre o la madre escogían el jarabe de maíz como dulcificante para el niño, no era
-probable que la miel fuera dada al niño como un segundo dulcificante. Por lo tanto, en
-base a la evidencia disponible en el presente, el jarabe de maíz no parece ser una fuente
-de esporas de <i>C. botulinum</i> ni un factor de riesgo para la adquisición de botulismo infantil.
+
+Dos informes exigieron la consideración del posible rol del jarabe de maíz en el
+botulismo del lactante. En 1982, la Administración de Medicamentos y Alimentos
+de los Estados Unidos (FDA) encontró esporas de <i>C. botulinum</i> de tipo B en
+aproximadamente un 0.5 por ciento (5 de 961) de muestras minoristas sin haber
+sido previamente abiertas de jarabe de maíz claro y oscuro <sup>23</sup>. Luego, el
+fabricante hizo cambios en el proceso de producción. En 1989, los Centros para
+el Control y la Prevención de Enfermedades (CDC) informaron de un estudio
+epidemiológico de 2 años sobre casos estadounidenses de todos los estados,
+excepto California <sup>6</sup>. Agrupando a los pacientes en subgrupos por edad y
+utilizando técnicas del modelo de regresión logística, los investigadores
+identificaron una asociación estadística entre la triada de la exposición al jarabe
+
+de maíz, la lactancia materna y una edad de 2 meses o más en la etapa de inicio
+de la enfermedad <sup>6, 31</sup>.
+
+<Br /><br />
+
+En contraste con estos informes, una encuesta canadiense de 1988 no encontró
+ninguna espora de <i>C. botulinum</i> en 43 muestras de jarabe de maíz <sup>21</sup>. Una
+encuesta de mercado de la FDA en 1991 de 738 muestras de jarabe (de las
+cuales 354 eran de jarabe de maíz claro y 271, oscuro) llegó a la conclusión de
+que ninguna contenía esporas de <i>C. botulinum</i> <sup>32</sup>. Además, en un estudio
+epidemiológico de 1979 en el que simplemente se compararon las tasas de
+exposición al jarabe de maíz en 41 casos y 107 bebés bajo control, se detectó
+que la alimentación con jarabe de maíz era un factor de protección significativo
+contra la adquisición de botulismo del lactante de tipo A <sup>19</sup>. La explicación ofrecida
+para la última observación consistía en que si un padre/una madre elegía jarabe
+de maíz como endulzante para el bebé, era poco probable que el niño haya sido
+alimentado con miel como segundo endulzante.  <b>Por lo tanto, según la
+evidencia disponible en el presente, el jarabe de maíz no parece ser una
+fuente de esporas de C. botulinum ni un factor de riesgo para la
+adquisición de botulismo del lactante.</b>
+
 <br /><br />
-Merece enfatizarse que en la mayoría de los casos de botulismo infantil, ninguna fuente
-de esporas de <i>C. botulinum</i> ha sido identificada, ni siquiera circunstancialmente. En
-estos casos, la enfermedad probablemente fue adquirida al ingerir esporas adheridas al
-polvo microscópico (invisible) transmitido por el aire.
+
+Las esporas de <i>C. botulinum</i> también han sido identificadas en el té de
+manzanilla al por mayor y empaquetado <sup>33</sup> y en el té de flor de tilo al por mayor <sup>34</sup>,
+a pesar de que, a la fecha, no se han presentado informes con evidencia
+definitiva de laboratorios y epidemiólogos que vinculen un caso de botulismo del
+lactante con el consumo de té de hierbas.
+
 <br /><br />
+
+<b>
+Cabe destacar que, en la mayoría de los casos de botulismo del lactante,
+no se identificó ninguna fuente de esporas de <i>C. botulinum</i>, ni siquiera de
+manera circunstancial. En estos casos, es probable que la enfermedad
+haya sido adquirida al tragar esporas adheridas al polvo microscópico
+(invisible) del aire.
+</b>
+
+<br /><br />
+
 <div>
-<span style="font-size:12px">
-1.  Arnon, S. S.: Infant botulism.  Annu. Rev. Med. 31:541-560, 1980.
-<br>
-2.  Arnon, S. S.: Breast feeding and toxigenic intestinal infections: Missing links in crib death?  Rev. Infect. Dis. 6(Suppl.):193-201, 1984.
-<br>
-3.  Arnon S. S., Damus, K., and Chin, J.: Infant botulism: Epidemiology and relation to sudden infant death syndrome.  Epidemiol. Rev. 3:45-66, 1981.
-<br>
-4.  Arnon, S. S., Damus, K., Thompson, B., et al.: Protective role of human milk against sudden death from infant botulism. J. Pediatr. 100:568-573, 1982.
-<br>
-5.  Arnon, S. S., Midura, T. F., Clay, S. A., et al.: Infant botulism: Epidemiological, clinical, and laboratory aspects.  J. A. M. A. 237:1946-1951, 1977.
-<br>
-6.  Arnon, S. S., Midura, T. F., Damus, K., et al.: Honey and other environmental risk factors for infant botulism.  J. Pediatr. 94:331-336, 1979.
-<br>
-7.  Aureli, P., Franciosa, G., Fenicia, L.: Infant botulism and honey in Europe: A commentary.  Pediatr. Infect. Dis. J. 21:866-868, 2002.
-<br>
-8.  Berry, P. R., Gilbert, R. J., Oliver, R. W. A., et al: Some preliminary studies on the low incidence of infant botulism in the United Kingdom.  Corres. J. Clin. Pathol. 40:121, 1987.
-<br>
-9.  Goldman, A. S., and Goldblum, R. M.: Immunologic system in human milk: Characteristics and effects.  In Lebenthal, E. (ed.): Textbook of Gastroenterology and Nutrition in Infancy.  2nd ed.  New York, Raven Press, 1989, pp. 135-142.
-<br>
-10.  Hauschild, A. H. W., Hilsheimer, R., Weiss, K. F., et al.: Clostridium botulinum in honey, syrups and dry infant cereals.  J. Food Protect. 51:892-894, 1988.
-<br>
-11.  Huhtanen, C. N., Knox, D., and Shimanuki, H.: Incidence and origin of Clostridium botulinum  spores in honey.  J. Food Protect. 44:812-815, 1981.
-<br>
-12.  Johnson, R. O., Clay, S. A., and Arnon, S. S.: Diagnosis and management of infant botulism.  Am. J. Dis. Child. 133:586-593, 1979.
-<br>
-13.  Kautter, D. A., Lilly, T., Jr., Solomon, H. M., et al.: Clostridium botulinum spores in infant foods: A survey.  J.  Food Protect. 45:1028-1029, 1982.
-<br>
-14.  Lilly, T., Jr., Rhodehamel, E. J., Kautter, D. A., et al.: Incidence of Clostridium botulinum  spores in corn syrup and other syrups.  J. Food Protect.  54:585-587, 1991. 
-<br>
-15.  Long, S. S.: Epidemiologic study of infant botulism in Pennsylvania: Report of the infant botulism study group. J. Pediatr. 75:928-934, 1985.
-<br>
-16.  Long, S. S., Gajeweski, J. L., Brown, L. W., et al.: Clinical, laboratory, and environmental features of infant botulism in southeastern Pennsylvania.  Pediatrics 75:935-941, 1985.
-<br>
-17.  Nakano, H., Okabe, T., Hashimoto, H, and Sakaguchi, G.: Incidence of Clostridium botulinum in honey of various origins.  Jpn. J. Med. Sci. Biol. 43:183-195, 1990.
-<br>
-18.  Midura, T. F., Snowden, S., Wood, R. M. et al.: Isolation of Clostridium botulinum from honey.  J. Clin. Microboil. 9:282-283, 1979.
-<br>
-19.  Morris, J. G., Jr., Snyder, J. D., Wilson, R., et al.: Infant botulism in the United States: An epidemiological study of cases occurring outside of California.  Am. J. Public Health 73:1385-1388, 1983.
-<br>
-20.  Nevas, M., Hielm, S., Lindstrom, M., et al.: High prevalence of Clostridium botulinum types A and B in honey samples detected by polymerase chain reaction.  Int. J. Food. Microbiol. 72:45-52, 2002.
-<br>
-21.  Olsen, S. J., and Swerdlow, D. L.: Rish of infant botulism from corn syrup.  Pediatr. Infect. Dis. J. 19:584-585, 2000
-<br>
-22.  Sakaguchi, G., Sakaguchi, S., Kamata, Y., et al.: Distinct characteristics of Clostridium botulinim type A strains and their toxin associated with infant botulism in Japan.  Int. J. Food. Microbiol. 11:231-242, 1990.
-<br>
-23.  Spika, J. S., Shaffer, N., Hargrett-Bean., et al.: Risk factors for infant botulism in the United States.  Am. J. Dis. Child. 143:828-832, 1989.
-<br>
-24.  Sugiyama, H., Mills, D. C., and Kuo, L.  J. C.: Number of Clostridium botulinum  spores in honey.  J. Food Protect. 41:848-850, 1978.
-<br>
-25.  Thompson, J. A., Glasgow, L. A., Warpinski, J. R., et al.: Infant botulism: Clinical spectrum and epidemiology.  Pediatrics 66:936-942, 1980
-</span>
+
+<span style="font-size:14px; line-height: 18px;">
+
+1. Arnon SS. Breast feeding and toxigenic intestinal infections: missing links in crib death? Rev
+Infect Dis. 1984 1984;6(Suppl 1):S193-S201.
+<br />
+2. Arnon SS, Damus K, Thompson B, Midura TF, Chin J. Protective role of human milk against
+sudden death from infant botulism. J Pediatr. 1982 1982;100(4):568-573.
+<br />
+3. Long SS. Epidemiologic study of infant botulism in Pennsylvania: report of the Infant Botulism
+Study Group. Pediatrics. 1985 1985;75(5):928-934.
+<br />
+4. Long SS, Gajewski JL, Brown LW, Gilligan PH. Clinical, laboratory, and environmental features of
+infant botulism in Southeastern Pennsylvania. Pediatrics. 1985 1985;75(5):935-941.
+<br />
+5. Morris JG, Jr., Snyder JD, Wilson R, Feldman RA. Infant botulism in the United States: an
+epidemiologic study of cases occurring outside of California. Am. J. Public Health. 12/1983
+1983;73(12):1385-1388.
+<br />
+6. Spika JS, Shaffer N, Hargrett-Bean N, Collin S, MacDonald KL, Blake PA. Risk factors for infant
+botulism in the United States. Am J Dis Child. 1989 1989;143(7):828-832.
+<br />
+7. Thompson JA, Glasgow LA, Warpinski JR, Olson C. Infant botulism: clinical spectrum and
+epidemiology. Pediatrics. 1980 1980;66(6):936-942.
+<br />
+8. Arnon SS. Infant botulism. Annu Rev Med. 1980 1980;31:541-560.
+<br />
+9. Arnon SS, Damus K, Chin J. Infant botulism: epidemiology and relation to sudden infant death
+syndrome. Epidemiol Rev. 1981 1981;4(3):45-66.
+<br />
+10. Jung A, Ottosson J. Infantile botulism caused by honey. [Danish]. Ugeskr Laeger. 2001
+2001;163(2):169.
+<br />
+11. Abdulla CO, Ayubi A, Zulfiquer F, Santhanam G, Ahmed MA, Deeb J. Infant botulism following
+honey ingestion. BMJ Case Rep. 2012 2012;7.
+<br />
+12. Fenicia L, Ferrini AM, Aureli P, Pocecco M. A case of infant botulism associated with honey
+feeding in Italy. Eur J Epidemiol. 1993 1993;9(6):671-673.
+<br />
+13. Balslev T, Ostergaard E, Madsen IK, Wandall DA. Infant botulism: the first culture-confirmed
+Danish case. Neuropediatrics. 1997 1997;28(5):287-288.
+<br />
+14. Smith JK, Burns S, Cunningham S, Freeman J, McLellan A, McWilliam K. The hazards of honey
+ingestion: infantile botulism. BMC Case Rep. 2010 2010;2010:pii: bcr0520103038.
+<br />
+15. van der Vorst MM, Jamal W, Rotimi VO, Moosa A. Infant botulism due to consumption of
+contaminated commercially prepared honey. First report from the Arabian Gulf States. Med
+Princ Pract. 2006 2006;15(6):456-458.
+<br />
+16. Harris RA, Tchao C, Prystajecky N, Cutler J, Austin JW. A summary of surveillance, morbidity and
+microbiology of laboratory-confirmed cases of infant botulism in Canada, 1979-2019. Can
+Commun Dis Rep. 2021;47(78):322-328.
+<br />
+
+17. Arriagada SD, Wilhelm BJ, Donoso FA. Infant botulism: case report and review. [Spanish]. Rev
+Chil Infectol. 2009 2009;26(2):162-167.
+<br />
+18. Sakaguchi G, Sakaguchi S, Kamata Y, Tabita K, Asao T, Kozaki S. Distinct characters of Clostridium
+botulinum type A strains and their toxin associated with infant botulism in Japan. Int J Food
+Microbiol. 12/1990 1990;11(3-4):231-241.
+<br />
+19. Arnon SS, Midura TF, Damus K, Thompson B, Wood RM, Chin J. Honey and other environmental
+risk factors for infant botulism. J Pediatr. 1979 1979;94(2):331-336.
+<br />
+20. Aureli P, Franciosa G, Fenicia L. Infant botulism and honey in Europe: a commentary. Pediatr
+Infect Dis J. 2002 2002;21(9):866-868.
+<br />
+21. Hauschild AHW, Hilsheimer R, Weis KF, Burke RB. Clostridium botulinum in honey, syrups and
+dry infant cereals. J Food Prot. 1988 1988;51(11):892-894.
+<br />
+22. Huhtanen CN, Knox D, Shimanuki H. Incidence and origin of Clostridium botulinum spores in
+honey. J Food Prot. 1981 1981;44(11):812-815.
+<br />
+23. Kautter DA, Lilly TJ, Solomon HM, Lynt RK. Clostridium botulinum spores in infant foods: a
+survey. J Food Prot. 1982 1982;45(11):1028-1029.
+<br />
+24. Nakano H, Okabe T, Hashimoto H, Sakaguchi G. Incidence of Clostridium botulinum in honey of
+various origins. Jpn J Med Sci Biol. 1990 1990;43(5):183-195.
+<br />
+25. Midura TF, Snowden S, Wood RM, Arnon SS. Isolation of Clostridium botulinum from honey. J
+Clin Microbiol. 1979 1979;9(2):282-283.
+<br />
+26. Nevas M, Hielm S, Lindstrom M, Horn H, Koivulehto K, Korkeala H. High prevalence of
+Clostridium botulinum types A and B in honey samples detected by polymerase chain reaction.
+Int J Food Microbiol. 2002 2002;72(1-2):45-52.
+<br />
+27. Sugiyama H, Mills DC, Kuo C. Number of Clostridium botulinum spores in honey. J Food Prot.
+1978 1978;41(11):848-850.
+<br />
+28. Grenda T, Grabczak M, Sieradzki Z, et al. Clostridium botulinum spores in Polish honey samples. J
+Vet Sci. Sep 30 2018;19(5):635-642.
+<br />
+29. Wojtacka J WB, Kabasinskiene A, Wiszniewska A, Gomolka-Pawlicka M, Szteyn J, Malakauskas
+M, Migowska-Calik A. Prevalence of Clostridium botulinum Type A, B, E and F Isolated From
+Directly Sold Honey in Lithuania. Journal of Agricultural Science and Technology. 2017;19:335-
+343.
+<br />
+30. Mustafina R MB, Wisniewski J, Tracz M, Anusz K, Grenda T, Kukier E, Goldsztejn M, Kwiatek K.
+Contamination of honey produced in the Republic of Kazakhstan with Clostridium botulinum.
+Journal of Veterinary Research. 2015;59(2):241-246.
+<br />
+31. Olsen SJ, Swerdlow DL. Risk of infant botulism from corn syrup. Pediatr Infect Dis J. 2000
+2000;19(6):584-585.
+<br />
+32. Lilly T, Jr., Rhodehamel EJ, Kautter DA, Solomon HM. Clostridium botulinum spores in corn syrup
+and other syrups. J Food Prot. 1991 1991;54(8):585-587.
+<br />
+33. Bianco MI, Lúquez C, de Jong LI, Fernández RA. Presence of Clostridium botulinum spores in
+Matricaria chamomilla (chamomile) and its relationship with infant botulism. Int J Food
+Microbiol. 2007 2007;121(3):357-360.
+<br />
+34. Bianco MI, Lúquez C, de Jong LI, Fernández RA. Linden flower (Tilia spp.) as potential vehicle of
+Clostridium botulinum spores in the transmission of infant botulism. Rev Argent Microbiol. 2009
+2009;41(4):232-236.
+
 </div>
 	</td>
 

@@ -24,7 +24,7 @@ patient with suspect infant botulism, the treating physician must first contact 
 
 <br /><br />
 
-If your patient is older than 15 months, please see <a href="https://www.cdc.gov/botulism/health-professional.html">CDC Botulism Information for Health Professionals</a> for instructions on requesting antitoxin.
+If your patient is older than 15 months, please see <a href="https://www.cdc.gov/botulism/hcp/clinical-overview/infant-botulism.html?CDC_AAref_Val=https://www.cdc.gov/botulism/infant-botulism.html">CDC Botulism Information for Health Professionals</a> for instructions on requesting antitoxin.
 
 <br><br>
 

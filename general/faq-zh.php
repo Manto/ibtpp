@@ -85,7 +85,7 @@
 
 尽管蜂蜜是婴儿肉毒杆菌的一种已知食物载体，但通常如果接触蜂蜜次数极少，感染婴儿肉毒杆菌的风险不算很高。迄今为止，蜂蜜是已知的唯一一种与婴儿肉毒症密切相关的肉毒杆菌孢子的食物载体。然而，这不代表每一罐蜂蜜都含有肉毒杆菌孢子。目前，避免给 12 个月或以下的婴儿喂食蜂蜜是唯一已知的预防婴儿肉毒症的措施。
 
-如果在接下来的几周内您认为宝宝出现婴儿肉毒症的<a href="https://www.cdc.gov/botulism/infant-botulism.html">迹象和症状</a>，请联系您的儿科医生。
+如果在接下来的几周内您认为宝宝出现婴儿肉毒症的<a href="https://www.cdc.gov/botulism/hcp/clinical-overview/infant-botulism.html?CDC_AAref_Val=https://www.cdc.gov/botulism/infant-botulism.html">迹象和症状</a>，请联系您的儿科医生。
 </td>
 </tr>
 

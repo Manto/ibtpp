@@ -12,8 +12,8 @@
 <br><br> 
 美国加州公共卫生署（CDPH）制作了一个有关蜂蜜的信息册，来提醒家长们避免给一岁以下婴儿喂食蜂蜜。该信息册是可以随意下载、打印以及分发的，并且加州卫生服务署也鼓励该信息册的传播。该信息册没有版权，加州公共卫生署鼓励大家下载、打印以及分发。要下载这个避免给一岁以下婴儿食用蜂蜜的教育信息册可点击下方的链接（PDF模式）。
 <br><br>
-<a target="_blank" href="No_Honey_Brochure_English.pdf">No Honey brochure (English version)</a><br />
-<a target="_blank" href="SP_NoHny_Brochure.pdf">No Honey brochure (Spanish version)</a><br />
+<a target="_blank" href="No_Honey_Brochure_Feb2025.pdf">No Honey brochure (English version)</a><br />
+<a target="_blank" href="No_Honey_Brochure_Spanish_Feb2025.pdf">No Honey brochure (Spanish version)</a><br />
 <!-- <a target="_blank" href="VT_NoHny_Brochure.pdf">No Honey brochure (Vietnamese version)</a> -->
 	</td>
 

@@ -102,7 +102,7 @@
 <td valign="top"><img src="/images/qa-a.gif" border=0></td>
 <td><b>For California patients only: Yes.</b>  You must include the <b>Infant Botulism Diagnostic Testing Specimen Submission Form</b> with all fecal specimens submitted to IBTPP for testing.  A link to this form (PDF-fillable) may be found on the Specimen Submission page under the Lab Testing Info section of this website.  All fields of this form must be completed.
 <br /><br />
-For states in which diagnostic testing is performed at CDC: The CDC-specific <a href="https://www.cdc.gov/laboratory/specimen-submission/form.html" target="_blank">Specimen Submission Form</a> may be found on their website.
+For states in which diagnostic testing is performed at CDC: The CDC-specific <a href="https://www.cdc.gov/infectious-diseases-labs/php/submission-form/?CDC_AAref_Val=https://www.cdc.gov/laboratory/specimen-submission/form.html" target="_blank">Specimen Submission Form</a> may be found on their website.
 </td>
 </tr>
 
