@@ -21,13 +21,20 @@
 
 </script>
 
-<div class="page-header">
+<div class="page-header" style="display: flex; flex-direction: row; justify-content: center; align-items: center; color: #fff; background-color: #369; gap: 15px;">
+   <img src="/images/cdph_logo.png" style="background-color: #fff; height: 60%; border: 5px solid #fff;"/>
+    <div style="display: flex; flex-direction: column; gap: 5px; justify-content: center; align-items: center;">
+       <span style="font-family: georgia; font-size: 28px;">Infant Botulism Treatment and Prevention Program</span>
+       <span style="font-family: georgia; font-size: 16px; font-weight: 100">California Department of Public Health</span>
+    </div>
+        <!--
 	<div class="header-logo">
 		<img src="/images/menubg2.png" />
 	</div>
 	<img src="/images/white.gif" style="width: 100%; height: 2px;" />
 	<img src="/images/menubg.gif" style="width: 100%; height: 24px;" />
 	<img src="/images/white.gif" style="width: 100%; height: 2px;" />
+-->
 </div>
 
 <script type="text/javascript" src="/scripts/menu.js?v=20190503"></script>
