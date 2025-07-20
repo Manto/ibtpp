@@ -67,7 +67,7 @@ Once BabyBIG has been ordered, contact the customs office at the receiving airpo
   <li>
   Before BabyBIG is released for shipment, IBTPP must receive:
    <ol>
-     <li>the signed <b>International</b> Invoice and Purchase Agreement (IPA) document, which is available here, <a href="https://www.infantbotulism.org/physician/IPA-International-2023-01.pdf">International Invoice and Purchase Agreement</a>;
+     <li>the signed <b>International</b> Invoice and Purchase Agreement (IPA) document, which is available here, <a href="https://www.infantbotulism.org/physician/IPA-International-2025-06.pdf">International Invoice and Purchase Agreement</a>;
      </li>
      <li>medical records submitted either electronically or by fax that include documentation of the patient's weight;</li>
      <li> the import permit authorization letter from the requesting country's Medicines Regulatory Agency, and</li>
@@ -79,7 +79,7 @@ Once BabyBIG has been ordered, contact the customs office at the receiving airpo
 
       <ol>
         <li>
-            the signed Invoice and Purchase Agreement (IPA) document, which is available here, <a href="https://www.infantbotulism.org/physician/IPA-International-2023-01.pdf">International Invoice and Purchase Agreement</a>;
+            the signed Invoice and Purchase Agreement (IPA) document, which is available here, <a href="https://www.infantbotulism.org/physician/IPA-International-2025-06.pdf">International Invoice and Purchase Agreement</a>;
         </li>
         <li>
             medical records submitted either electronically or by fax that include documentation of the patient's weight, and;

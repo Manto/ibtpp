@@ -34,7 +34,7 @@ The best container in which to collect, store and submit fecal specimens is a st
 <b style="font-size:18px;">Enema Collection Procedure</b>
 <ol>
 
-<li>Attach a 12 to 16 French red rubber (Robinson) catheter to a tapered, catheter-tip syringe.</li>
+<li>Attach a 12 to 16 French latex-free catheter to a tapered, catheter-tip syringe.</li>
 <li>Trim catheter tip to enlarge hole.</li>
 <li>Lubricate the catheter tip with petroleum jelly or equivalent and insert into distal colon.</li>
 <li>The volume of sterile, <i><b>non-bacteriostatic</b></i> water to use should be a bedside clinical decision based on the patient's body mass.</li>
