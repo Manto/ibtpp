@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Infant Botulism Treatment and Prevention Program</title>
-    <link rel="stylesheet" href="/css/modern-styles.css">
+    <link rel="stylesheet" href="../css/modern-styles.css">
 </head>
 <body>
     <!-- Google Analytics -->
@@ -21,7 +21,7 @@
     <header class="page-header">
         <div class="header-content">
             <div class="header-logo">
-                <img src="/images/cdph_logo.png" alt="California Department of Public Health Logo">
+                <img src="../images/cdph_logo.png" alt="California Department of Public Health Logo">
             </div>
             <div class="header-text">
                 <div class="header-title">Infant Botulism Treatment and Prevention Program</div>
@@ -43,19 +43,21 @@
     <!-- Main Content -->
     <main class="page-content">
         <div class="content-main">
-
+<?php if ($_GET["printable"]==1)
+	require("../scripts/template-start-printable.html");
+	else require("../scripts/template-start.html"); ?>
 	
   <td class="title" valign="top">
 		&nbsp;How to Obtain Clinical Consultation and Order BabyBIG<sup>&reg;</sup>
 
 	<td class="title" align="right">
 
-	
-	<a style="text-decoration: underline" target="_blank" href="IPA-2025-06.pdf"><img src="/images/file.gif" border="0">Invoice and Purchase Agreement (IPA) in PDF File</a> <span style="font-size: 16px;"></span><br>
-<!--	<a style="text-decoration: underline" target="_blank" href="checklist.pdf"><img src="/images/file.gif" border="0">Checklist in PDF File</a><br>	-->
-	<a style="text-decoration: underline" href="#" onClick='window.open("" ,"IBTPP","toolbar=yes, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width="800", height="600"")'><img src="/images/file.gif" border="0">Printable Version of this Page</a><br>
+	<?php if ($_GET["printable"]!=1) { ?>
+	<a style="text-decoration: underline" target="_blank" href="IPA-2025-06.pdf"><img src="../images/file.gif" border="0">Invoice and Purchase Agreement (IPA) in PDF File</a> <span style="font-size: 16px;"></span><br>
+<!--	<a style="text-decoration: underline" target="_blank" href="checklist.pdf"><img src="../images/file.gif" border="0">Checklist in PDF File</a><br>	-->
+	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width="800", height="600"")'><img src="../images/file.gif" border="0">Printable Version of this Page</a><br>
 
-	
+	<?php } ?>
 
 <tr>
 
@@ -77,7 +79,7 @@ ends their toxemia and enables motor nerve regeneration to begin.
 
 <br><br>
 
-For instructions on submission of appropriate diagnostic specimens (e.g., stool/enema or rectal wash) please click <a href="/laboratorian/laboratory.html">here</a>.
+For instructions on submission of appropriate diagnostic specimens (e.g., stool/enema or rectal wash) please click <a href="../laboratorian/laboratory.html">here</a>.
 
 <br /><br />
 
@@ -95,13 +97,13 @@ jurisdiction in which the patient resides. <i>Please report any suspect infant b
 health jurisdiction through appropriate channels.</i>
 
 <!--
-California health care providers <a style="text-decoration:underline" href="/physician/physician_instruction.pdf" target="_blank">click here</a> to download the printable
+California health care providers <a style="text-decoration:underline" href="../physician/physician_instruction.pdf" target="_blank">click here</a> to download the printable
 lab send-out instructions sheet to forward with the stool specimen to
 your hospital laboratory.
 -->
 
 <br><br>
-For more detailed information on Infant Botulism, please visit the <a href="/readings/medical.html">Medical Literature</a> page.
+For more detailed information on Infant Botulism, please visit the <a href="../readings/medical.html">Medical Literature</a> page.
 <br><br>
 
 <div style="width: 60%; max-width: 900px;  margin: 10 auto 10 auto;">
@@ -118,7 +120,7 @@ For more detailed information on Infant Botulism, please visit the <a href="/rea
 Promptly obtain and send fecal specimen for diagnostic testing to the appropriate diagnostic laboratory:
 
 <ul style="margin-bottom: 15px;">
-<li style="margin-bottom: 15px; margin-top: 15px;">For California hospitals only, diagnostic specimens should be sent directly to the Infant Botulism Laboratory. Instructions may be found on the <a href="/laboratorian/submission.html">Specimen Submission page</a>.</li>
+<li style="margin-bottom: 15px; margin-top: 15px;">For California hospitals only, diagnostic specimens should be sent directly to the Infant Botulism Laboratory. Instructions may be found on the <a href="../laboratorian/submission.html">Specimen Submission page</a>.</li>
 
 <li style="margin-bottom: 15px;">For all other states, coordinate with your <a href="https://cdn.ymaws.com/www.cste.org/resource/resmgr/poc/epioncall_update1622.pdf" target="_blank">state health department</a> on submitting specimens. Diagnostic testing will be performed either at your state’s public health laboratory or at CDC. Do not delay specimen collection and shipment to your state's botulism diagnostic laboratory. </li>
 </li>
@@ -131,10 +133,13 @@ Promptly obtain and send fecal specimen for diagnostic testing to the appropriat
 </div>
 </div>
 
+<?php if ($_GET["printable"]!=1) { ?>
+	<a style="text-decoration: underline" href="#" onClick='window.open("<?php echo $_SERVER['PHP_SELF']."?printable=1";?>" ,"IBTPP","toolbar=yes location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width="800", height="600"")'><img src="../ibtpp/images/file.gif" border="0">Printable Version of this Page</a>
+<?php } ?>
+<?php if ($_GET["printable"]==1)
 
-	<a style="text-decoration: underline" href="#" onClick='window.open("" ,"IBTPP","toolbar=yes location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width="800", height="600"")'><img src="/ibtpp/images/file.gif" border="0">Printable Version of this Page</a>
-
-
+	require("../scripts/template-end-printable.html");
+	else require("../scripts/template-end.html"); ?>
         </div>
     </main>
 
@@ -147,6 +152,6 @@ Promptly obtain and send fecal specimen for diagnostic testing to the appropriat
     </footer>
 
     <!-- JavaScript -->
-    <script src="/js/navigation.js"></script>
+    <script src="../js/navigation.js"></script>
 </body>
 </html>

@@ -106,6 +106,43 @@
     ];
 
     /**
+     * Convert absolute URL to relative based on current page depth
+     */
+    function makeRelativeUrl(url) {
+        // Skip external URLs
+        if (url.startsWith('http://') || url.startsWith('https://')) {
+            return url;
+        }
+
+        // Skip if already relative or anchor
+        if (!url.startsWith('/') || url.startsWith('#')) {
+            return url;
+        }
+
+        // Calculate current page depth
+        const path = window.location.pathname;
+        const pathParts = path.split('/').filter(part => part.length > 0);
+
+        // Remove filename from path parts to get directory depth
+        if (pathParts.length > 0 && pathParts[pathParts.length - 1].includes('.')) {
+            pathParts.pop();
+        }
+
+        const depth = pathParts.length;
+
+        // Convert absolute to relative
+        const urlWithoutSlash = url.substring(1); // Remove leading /
+
+        if (depth === 0) {
+            // At root level
+            return urlWithoutSlash;
+        } else {
+            // In subdirectory - need to go up
+            return '../'.repeat(depth) + urlWithoutSlash;
+        }
+    }
+
+    /**
      * Generate navigation HTML
      */
     function generateNavigation() {
@@ -123,7 +160,8 @@
                         <ul class="dropdown">`;
 
                 item.items.forEach(subItem => {
-                    html += `<li><a href="${subItem.url}">${subItem.title}</a></li>`;
+                    const relativeUrl = makeRelativeUrl(subItem.url);
+                    html += `<li><a href="${relativeUrl}">${subItem.title}</a></li>`;
                 });
 
                 html += `
@@ -131,7 +169,8 @@
                     </li>`;
             } else {
                 // Simple menu item
-                html += `<li><a href="${item.url}">${item.title}</a></li>`;
+                const relativeUrl = makeRelativeUrl(item.url);
+                html += `<li><a href="${relativeUrl}">${item.title}</a></li>`;
             }
         });
 

@@ -9,8 +9,13 @@ import re
 import glob
 from pathlib import Path
 
-def get_html_template(title="Infant Botulism Treatment and Prevention Program"):
-    """Generate modern HTML5 template"""
+def get_html_template(title="Infant Botulism Treatment and Prevention Program", path_prefix="./"):
+    """Generate modern HTML5 template with relative paths
+
+    Args:
+        title: Page title
+        path_prefix: Relative path prefix (e.g., './' for root, '../' for subdirs)
+    """
 
     template = '''<!DOCTYPE html>
 <html lang="en">
@@ -19,7 +24,7 @@ def get_html_template(title="Infant Botulism Treatment and Prevention Program"):
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>TITLE_PLACEHOLDER</title>
-    <link rel="stylesheet" href="/css/modern-styles.css">
+    <link rel="stylesheet" href="PATH_PREFIXcss/modern-styles.css">
 </head>
 <body>
     <!-- Google Analytics -->
@@ -35,7 +40,7 @@ def get_html_template(title="Infant Botulism Treatment and Prevention Program"):
     <header class="page-header">
         <div class="header-content">
             <div class="header-logo">
-                <img src="/images/cdph_logo.png" alt="California Department of Public Health Logo">
+                <img src="PATH_PREFIXimages/cdph_logo.png" alt="California Department of Public Health Logo">
             </div>
             <div class="header-text">
                 <div class="header-title">Infant Botulism Treatment and Prevention Program</div>
@@ -70,11 +75,12 @@ CONTENT_PLACEHOLDER
     </footer>
 
     <!-- JavaScript -->
-    <script src="/js/navigation.js"></script>
+    <script src="PATH_PREFIXjs/navigation.js"></script>
 </body>
 </html>'''
 
     template = template.replace('TITLE_PLACEHOLDER', title)
+    template = template.replace('PATH_PREFIX', path_prefix)
     return template
 
 def extract_content_from_php(php_content, filepath):
@@ -120,7 +126,75 @@ def update_file_extensions_in_content(content):
     content = re.sub(r'\.html\.html', r'.html', content)
     return content
 
-def clean_html_content(content):
+def convert_absolute_to_relative_links(content, current_file_path, base_dir='/home/user/ibtpp'):
+    """Convert absolute internal links to relative links
+
+    Args:
+        content: HTML content with links
+        current_file_path: Path to the current file being converted
+        base_dir: Base directory of the site
+    """
+    # Calculate current file's directory depth
+    rel_from_root = os.path.relpath(current_file_path, base_dir)
+    current_depth = len(Path(rel_from_root).parent.parts)
+
+    def replace_link(match):
+        quote = match.group(1)  # Capture the quote character (" or ')
+        link = match.group(2)
+
+        # Skip external links, anchors, and mailto
+        if link.startswith(('http://', 'https://', '#', 'mailto:')):
+            return match.group(0)
+
+        # Skip if not absolute path
+        if not link.startswith('/'):
+            return match.group(0)
+
+        # Remove leading slash
+        link_without_slash = link[1:]
+
+        # Calculate relative path from current file to target
+        if current_depth == 0:
+            # Current file is in root, just remove leading slash
+            relative_link = link_without_slash
+        else:
+            # Go up directories and then down to target
+            relative_link = '../' * current_depth + link_without_slash
+
+        return f'href={quote}{relative_link}{quote}'
+
+    # Replace href="/..." with relative paths
+    content = re.sub(r'href=(["|\'])(/[^"\']*)\1', replace_link, content)
+
+    # Also handle src="/..." for images
+    def replace_src(match):
+        quote = match.group(1)
+        src = match.group(2)
+
+        # Skip external resources
+        if src.startswith(('http://', 'https://', '#', 'data:')):
+            return match.group(0)
+
+        # Skip if not absolute path
+        if not src.startswith('/'):
+            return match.group(0)
+
+        # Remove leading slash
+        src_without_slash = src[1:]
+
+        # Calculate relative path
+        if current_depth == 0:
+            relative_src = src_without_slash
+        else:
+            relative_src = '../' * current_depth + src_without_slash
+
+        return f'src={quote}{relative_src}{quote}'
+
+    content = re.sub(r'src=(["|\'])(/[^"\']*)\1', replace_src, content)
+
+    return content
+
+def clean_html_content(content, current_file_path=None):
     """Clean and modernize HTML content"""
 
     # Remove table wrapper artifacts from template system
@@ -152,6 +226,10 @@ def clean_html_content(content):
     # Update file extensions in links
     content = update_file_extensions_in_content(content)
 
+    # Convert absolute links to relative if we know the file path
+    if current_file_path:
+        content = convert_absolute_to_relative_links(content, current_file_path)
+
     return content.strip()
 
 def convert_php_file(php_file_path, output_base_dir=None):
@@ -164,15 +242,8 @@ def convert_php_file(php_file_path, output_base_dir=None):
     # Extract content
     content = extract_content_from_php(php_content, php_file_path)
 
-    # Clean content
-    content = clean_html_content(content)
-
     # Get title from filename or content
     title = "Infant Botulism Treatment and Prevention Program"
-
-    # Generate HTML
-    html_template = get_html_template(title)
-    html_output = html_template.replace('CONTENT_PLACEHOLDER', content)
 
     # Determine output path
     if output_base_dir:
@@ -183,6 +254,25 @@ def convert_php_file(php_file_path, output_base_dir=None):
 
     # Change extension to .html
     output_path = output_path.replace('.php', '.html')
+
+    # Clean content (pass output path for relative link conversion)
+    content = clean_html_content(content, output_path)
+
+    # Calculate relative path prefix based on file depth
+    # Count directory depth from root
+    rel_from_root = os.path.relpath(output_path, '/home/user/ibtpp')
+    depth = len(Path(rel_from_root).parent.parts)
+
+    if depth == 0:
+        # File is in root directory
+        path_prefix = './'
+    else:
+        # File is in subdirectory, need ../ for each level
+        path_prefix = '../' * depth
+
+    # Generate HTML with correct relative paths
+    html_template = get_html_template(title, path_prefix)
+    html_output = html_template.replace('CONTENT_PLACEHOLDER', content)
 
     # Create directory if needed
     os.makedirs(os.path.dirname(output_path), exist_ok=True)

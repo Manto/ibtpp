@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Infant Botulism Treatment and Prevention Program</title>
-    <link rel="stylesheet" href="/css/modern-styles.css">
+    <link rel="stylesheet" href="../css/modern-styles.css">
 </head>
 <body>
     <!-- Google Analytics -->
@@ -21,7 +21,7 @@
     <header class="page-header">
         <div class="header-content">
             <div class="header-logo">
-                <img src="/images/cdph_logo.png" alt="California Department of Public Health Logo">
+                <img src="../images/cdph_logo.png" alt="California Department of Public Health Logo">
             </div>
             <div class="header-text">
                 <div class="header-title">Infant Botulism Treatment and Prevention Program</div>
@@ -43,7 +43,9 @@
     <!-- Main Content -->
     <main class="page-content">
         <div class="content-main">
-
+<?php if ($_GET["printable"]==1)
+	require("../scripts/template-start-printable.html");
+	else require("../scripts/template-start.html"); ?>
 	
    <td class="title" valign="top">
 		&nbsp;Diagnosis de laboratorio
@@ -56,7 +58,9 @@ La enfermedad de botulismo infantil primeramente fue identificada basada en las 
 La diagnosis del laboratorio de botulismo infantil consiste en un proceso de dos pasos.  El primer paso es realizar un análisis directo de la toxina.  Esto requiere la extracción de la toxina directamente del espécimen fecal y el uso de técnicas especializadas para identificar y catalogar la toxina.  El segundo paso es cultivar las heces usando sistemas para la cultivación artificial y técnicas especializadas para aislar al <i>Clostridium botulinum</i>.
 <br><br>
 
-
+<?php if ($_GET["printable"]==1)
+	require("../scripts/template-end-printable.html");
+	else require("../scripts/template-end.html"); ?>
         </div>
     </main>
 
@@ -69,6 +73,6 @@ La diagnosis del laboratorio de botulismo infantil consiste en un proceso de dos
     </footer>
 
     <!-- JavaScript -->
-    <script src="/js/navigation.js"></script>
+    <script src="../js/navigation.js"></script>
 </body>
 </html>
