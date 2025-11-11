@@ -173,33 +173,6 @@
         });
     }
 
-    /**
-     * Load emergency banner
-     */
-    function loadEmergencyBanner() {
-        const bannerContainer = document.getElementById('emergency-banner');
-        if (!bannerContainer) return;
-
-        // Try to load emergency banner content
-        fetch('/contact/emergency')
-            .then(response => {
-                if (response.ok) {
-                    return response.text();
-                }
-                throw new Error('No emergency message');
-            })
-            .then(text => {
-                const trimmedText = text.trim();
-                if (trimmedText.length > 3) {
-                    bannerContainer.innerHTML = trimmedText;
-                    bannerContainer.style.display = 'block';
-                }
-            })
-            .catch(() => {
-                // No emergency message or error loading - hide banner
-                bannerContainer.style.display = 'none';
-            });
-    }
 
     /**
      * Highlight current page in navigation
@@ -224,7 +197,6 @@
     function init() {
         generateNavigation();
         initMobileMenu();
-        loadEmergencyBanner();
         highlightCurrentPage();
     }
 

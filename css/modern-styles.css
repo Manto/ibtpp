@@ -277,17 +277,6 @@ a:focus {
     background-color: var(--text-white);
 }
 
-/* Emergency Banner */
-.emergency-banner {
-    background-color: var(--error-red);
-    color: var(--text-white);
-    padding: 15px 20px;
-    text-align: center;
-    font-size: 18px;
-    font-weight: bold;
-    margin: -30px -20px 20px -20px;
-}
-
 /* ==================== FOOTER ==================== */
 .page-footer {
     background-color: var(--dark-blue);
@@ -451,19 +440,13 @@ img {
     .content-main {
         padding: 10px 15px;
     }
-
-    .emergency-banner {
-        font-size: 16px;
-        padding: 10px 15px;
-    }
 }
 
 /* ==================== PRINT STYLES ==================== */
 @media print {
     .page-header,
     .main-nav,
-    .page-footer,
-    .emergency-banner {
+    .page-footer {
         display: none;
     }
 
