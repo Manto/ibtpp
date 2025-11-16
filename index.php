@@ -30,7 +30,6 @@ yellow header above for information about infant botulism and BabyBIG.
 
 <b>Health Care Providers</b> seeking information regarding a patient who drank ByHeart infant formula, <a href="byheart-for-provider.php" style="font-size: 18px;">click here</a>.
 
-<br /><br />
 <h3 style="color: #369;">
 Outbreak of infant botulism linked to ByHeart infant formula.
 </h3>
@@ -43,6 +42,27 @@ noticed as difficulty feeding (sucking and swallowing), a weak and altered cry, 
 of head control.
 
 <br /><br />
+
+<h3 style="color: #369;">
+New Infant Botulism Hotline for Parents and Caregivers
+<div style="text-align: center; font-size: 2.3em; background-color: #369; color: #fff; padding: 10px 25px 10px 25px; margin: 10px;">
+1-833-398-2022
+</div>
+</h3>
+
+Available toll-free 7 days a week, 7AM – 11PM (pacific time)
+<br />
+Trained staff can help with:
+<br />
+
+<ul>
+<li>Understanding signs of infant botulism</li>
+<li>What to do if your baby consumed ByHeart formula</li>
+<li>How to safely handle recalled products</li>
+<li>Where to find updates and resources, including treatment, if needed</li>
+</ul>
+
+⚠️ If your baby is experiencing a medical emergency or showing signs of infant botulism, such as poor feeding, loss of head control or muscle weakness - call 9-1-1 or go to the nearest emergency room immediately.
 
 <h3 style="color: #369;">
 What should parents do?
