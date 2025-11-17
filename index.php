@@ -45,10 +45,11 @@ of head control.
 
 <h3 style="color: #369;">
 New Infant Botulism Hotline for Parents and Caregivers
-<div style="text-align: center; font-size: 2.3em; background-color: #369; color: #fff; padding: 10px 25px 10px 25px; margin: 10px;">
+</h3>
+
+<div style="text-align: center; font-size: 32px; background-color: #369; color: #ffffff; -webkit-text-size-adjust: 300%; -webkit-text-fill-color: #fff; padding: 10px 25px 10px 25px; margin: 10px;">
 1-833-398-2022
 </div>
-</h3>
 
 Available toll-free 7 days a week, 7AM – 11PM (pacific time)
 <br />
