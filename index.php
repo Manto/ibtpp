@@ -51,7 +51,7 @@ New Infant Botulism Hotline for Parents and Caregivers
 1-833-398-2022
 </div>
 
-Available toll-free 7 days a week, 7AM – 11PM (pacific time)
+Available toll-free 7 days a week, 7AM – 8PM (pacific time)
 <br />
 Trained staff can help with:
 <br />
